@@ -105,8 +105,8 @@ textarea {
          url('../fonts/OpenSans-Light-webfont.svg#open_sanslight') format('svg');
     font-weight: normal;
     font-style: normal;
-
 }
+
 /* ------------- SEE css/font-awesome.css FOR ICONS FONTFACE DETAILS ------- */
 /* ------------- FONT-FAMILY NAME: 'FontAwesome' --------------------------- */
 
@@ -117,7 +117,7 @@ textarea {
                                     BODY
    ========================================================================== */
 body{
-    font-family: 'opensans', 'Helvetica', 'Arial', sans-serif;
+    font-family: 'Arial', sans-serif;
     color: #666;
 }
 #contentwrap{
@@ -138,6 +138,35 @@ body{
     font-family: 'FontAwesome';
     color: #666;
 }
+
+/* ==========================================================================
+   Typography
+   ========================================================================== */
+
+
+
+body h1 {
+    display: block;
+    width: 585px;
+    height: 50px;
+    background-color: #4E8ABE;
+    font-family: 'opensans', 'Arial', sans-serif;
+    font-size: 24px;
+    font-weight: 300;
+    line-height: 2em;
+    color: #FFF;
+    margin-top: 30px;
+    padding-left: 30px;
+}
+
+body h2 {
+    font-family: 'opensans', 'Arial', sans-serif;
+    font-size: 14px;
+    color: #002E64;
+    text-transform: uppercase;
+}
+
+
 /*============================================
         RESONSIVE SLIDES CALL TO ACTION
 =============================================*/
