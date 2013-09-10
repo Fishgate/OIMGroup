@@ -6,6 +6,11 @@
 
 <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
 <link rel="stylesheet" href="css/font-awesome.css">
+
+<!-- SUPERFISH DEPENDANCIES -->
+<link rel="stylesheet" href="css/superfish.css">
+<link rel="stylesheet" href="css/superfish-navbar.css">
+
 <link rel="stylesheet" href="css/normalize.css">
 <link rel="stylesheet" href="css/main.css">
 <link rel="stylesheet" href="css/responsiveslides.css" />

@@ -1,6 +1,32 @@
+<!-- BRANDING -->
+<div id="branding" class="clearfix">
+    <div class="left">
+        <img src="img/logo.png" alt="OIM Logo" />
+    </div>
+    <div id="slogan" class="right">Business Performance Specialist</div>
+</div>
+<!-- END BRANDING -->
+
 <!-- BEGIN MAIN NAV -->
-<nav>
-    <span class="icon">&#xf015;</span>
+<nav id="main-nav" class="clearfix">
+    <div id="house" class="left oim-blue">
+        <span class="icon">&#xf015;</span>
+    </div>
+    <div id="nav-holder" class="left">
+        <div class="left menu-item">
+            Our Methodology&nbsp;<i class="icon-angle-down"></i>
+        </div>
+        <div class="left menu-item">
+            Products &amp; Services&nbsp;<i class="icon-angle-down"></i> 
+        </div>
+        <div class="left menu-item">
+            Contact&nbsp;<i class="icon-angle-down"></i>
+        </div>
+    </div>
+    <div class="right clearfix"><!-- CONTACT DETAILS -->
+        <div class="right details border-left"><i class="icon-linkedin oim-blue"></i></div>
+        <div class="right details"><i class="icon-phone oim-blue" style="padding-right: 20px;"></i>+27 21 913 8814/5</div>
+    </div>
 </nav>
 <!-- END MAIN NAV -->
 
