@@ -2,6 +2,4 @@
 //     RESPONSIVE SLIDES
 //============================
 // Slideshow 1
-      $("#slider1").responsiveSlides({
-        "timeout": 10000
-      });
+$("#slider1").responsiveSlides({timeout:1e4});
