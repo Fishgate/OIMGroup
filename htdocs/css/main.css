@@ -106,13 +106,79 @@ textarea {
     font-weight: normal;
     font-style: normal;
 }
+@font-face {
+    font-family: 'opensans-reg';
+    src: url('../fonts/OpenSans-Regular-webfont.eot');
+    src: url('../fonts/OpenSans-Regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/OpenSans-Regular-webfont.woff') format('woff'),
+         url('../fonts/OpenSans-Regular-webfont.ttf') format('truetype'),
+         url('../fonts/OpenSans-Regular-webfont.svg#open_sansregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
 
+}
 /* ------------- SEE css/font-awesome.css FOR ICONS FONTFACE DETAILS ------- */
 /* ------------- FONT-FAMILY NAME: 'FontAwesome' --------------------------- */
 
 
 
-
+/*============================================
+                BRANDING
+=============================================*/
+#branding{
+    width: 960px;
+    margin: 0 auto;
+    padding-top: 15px;
+}
+#slogan{
+    font-family: 'opensans-reg', 'Helvetica', 'Arial', sans-serif;
+    color: #00204E;/* BLUE DARK */
+    font-weight: bold;
+    padding-top: 10px;
+}
+/*============================================
+                MAIN-NAV
+=============================================*/
+.oim-blue{
+    color: #508abc;
+}
+.details{
+    padding: 8px 20px;
+    font-size: 14px;
+}
+.border-left{
+    border-left: 1px solid #ccc;
+}
+#house{
+    padding:  10px 10px 5px 0;
+}
+#main-nav{
+    padding: 5px 15px;
+    background: #f8f8f8;/* GREY LIGHT */
+    width: 960px;
+    margin: 0 auto;
+    position: relative;
+}
+#nav-holder{
+    border-left: 1px dotted #ccc;
+    border-right: 1px dotted #ccc;
+    /*padding: 5px 0;*/
+    /*margin: 0 0 0 25px;*/
+}
+.menu-item{
+    padding: 0 10px;
+    font-size: 14px;
+    color: #999;
+    padding: 10px 20px;
+}
+.menu-item:hover{
+    background: #A22B38;
+    color: #ffffff;
+}
+.menu-item i{
+    color: #5482AB;
+    margin-left: 10px;
+}
 /* ==========================================================================
                                     BODY
    ========================================================================== */
@@ -136,7 +202,6 @@ body{
 }
 .icon{
     font-family: 'FontAwesome';
-    color: #666;
 }
 
 /* ==========================================================================
