@@ -5,7 +5,7 @@
 <!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
     <head>
         <!-- BEGIN HEAD -->
-        <?php include 'includes/stylesnsuch.php' ?>
+        <?php include 'includes/styles_index.php' ?>
         <!-- END HEAD -->
     </head>
     <body>

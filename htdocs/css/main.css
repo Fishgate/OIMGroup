@@ -227,6 +227,17 @@ textarea {
     width: 31.2%;
     outline: 1px solid yellow;/* for setup only, can be removed */
 }
+.mega-thirds i{
+    padding: 15px;
+}
+.mega-head{
+    padding: 10px;
+    background: #f8f8f8;
+    margin: 0 0 15px 0;
+}
+.mega-flyout{
+    display: none;
+}
 /* ==========================================================================
                                     BODY
    ========================================================================== */
