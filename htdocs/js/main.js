@@ -1,3 +1,4 @@
+$(document).ready(function(){
 //============================
 //     RESPONSIVE SLIDES
 //============================
@@ -6,12 +7,29 @@
         "timeout": 10000
       });
 
+
+
 //============================
-//     SUPERFISH NAV
+//     MEGAMENU CONTROL
 //============================
-$('ul.sf-menu').superfish({
-    pathClass: 'current'
+    $('.menu-item').each(function(){
+        $(this).mouseenter(function(){
+           $(this).find('.mega-holder').css('left', '50%');
+        });
+        $(this).mouseleave(function(){
+           $(this).find('.mega-holder').css('left', '');
+           $('.mega-flyout').css('display', '');
+        });
+    });
+    
+    $('.mega-list li').each(function(){
+        $(this).bind('click', function(){
+            $(this).find('.mega-flyout').css('display', 'block');
+        });
+    });
+
 });
+
 
 //============================
 //     SIDEBAR DROPDOWN
