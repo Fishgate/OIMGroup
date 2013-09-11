@@ -9,10 +9,10 @@
 
 <!-- BEGIN MAIN NAV -->
 <nav id="main-nav" class="clearfix">
-    <div id="house" class="left oim-blue">
+    <div id="house" class="left oim-blue"><!-- HOUSE ICON -->
         <span class="icon">&#xf015;</span>
     </div>
-    <div id="nav-holder" class="left">
+    <div id="nav-holder" class="left"><!-- TOP LVL NAV -->
         <div class="left menu-item">
             Our Methodology&nbsp;<i class="icon-angle-down"></i>
         </div>
@@ -27,7 +27,16 @@
         <div class="right details border-left"><i class="icon-linkedin oim-blue"></i></div>
         <div class="right details"><i class="icon-phone oim-blue" style="padding-right: 20px;"></i>+27 21 913 8814/5</div>
     </div>
+    <!-- MEGA MENU METHODOLOGY -->
+    <div class="mega-holder clearfix">
+        <div class="left mega-thirds">
+            <div class="hega-head"><i class="icon-group red"></i>PEOPLE</div>
+        </div>
+        <div class="left mega-thirds"><i class="icon-umbrella red"></i>ORGANISATION</div>
+        <div class="left mega-thirds"><i class="icon-cogs red"></i>OPERATIONS</div>
+    </div>
 </nav>
+
 <!-- END MAIN NAV -->
 
 <!-- Header Slideshow  -->
