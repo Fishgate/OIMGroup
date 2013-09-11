@@ -136,6 +136,16 @@ textarea {
     font-weight: normal;
     font-style: normal;
 }
+@font-face {
+    font-family: 'open_sansbold';
+    src: url('../fonts/OpenSans-Bold-webfont.eot');
+    src: url('../fonts/OpenSans-Bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/OpenSans-Bold-webfont.woff') format('woff'),
+         url('../fonts/OpenSans-Bold-webfont.ttf') format('truetype'),
+         url('../fonts/OpenSans-Bold-webfont.svg#open_sansbold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
 /* ------------- SEE css/font-awesome.css FOR ICONS FONTFACE DETAILS ------- */
 /* ------------- FONT-FAMILY NAME: 'FontAwesome' --------------------------- */
 
@@ -276,10 +286,11 @@ body{
 }
 
 #body h2 {
-    font-family: 'opensans-reg', 'Arial', sans-serif;
+    font-family: 'open_sansbold', 'Arial', sans-serif;
     font-size: 14px;
     font-weight: 800;
     color: #00204E;
+    letter-spacing: -1px;
     text-transform: uppercase;
 }
 
@@ -289,13 +300,19 @@ body{
 
 .caption {
     display: block;
-    width: 615px;
+    width: 613px;
     height: 50px;
     font-family: 'opensans', 'Arial', sans-serif;
     font-size: 16px;
     line-height: 3em;
     text-align: center;
     margin-top: 30px;
+    border-left: 1px solid #CCC;
+    border-right: 1px solid #CCC;
+}
+
+.caption strong {
+    font-family: 'open_sanssemibold', 'Arial', sans-serif;
 }
 
 .copy{
