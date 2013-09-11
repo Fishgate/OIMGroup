@@ -1,6 +1,57 @@
 <!-- BEGIN FOOTER CONTENT -->
 <div id="footer">
-FOOTER STUFF IN HERE
+    <h2>Products &amp; Services</h2>
+    <!-- ================================================
+                    MEGA MENU METHODOLOGY
+    ==================================================-->
+    <div class="footer-mega-holder clearfix">
+        <div class="left mega-thirds">
+            <div class="footer-mega-head">
+                <i class="icon-group icon-large red"></i>PEOPLE
+            </div>
+            <div class="mega-list">
+                <ul>
+                    <li><i class="icon-angle-right blue"></i>ONE</li>
+                    <li><i class="icon-angle-right blue"></i>ONE
+                        <ul class="mega-flyout">
+                            <li>TWO</li>
+                        </ul>
+                    </li>
+                </ul>
+            </div>
+        </div>
+        <div class="left mega-thirds">
+            <div class="footer-mega-head">
+                <i class="icon-umbrella icon-large red"></i>ORGANISATION
+            </div>
+            <div class="mega-list">
+                <ul>
+                    <li><i class="icon-angle-right blue"></i>ONE</li>
+                    <li><i class="icon-angle-right blue"></i>ONE
+                        <ul class="mega-flyout">
+                            <li>TWO</li>
+                        </ul>
+                    </li>
+                </ul>
+            </div>
+        </div>
+        <div class="left mega-thirds">
+            <div class="footer-mega-head">
+                <i class="icon-cogs icon-large red"></i>OPERATIONS
+            </div>
+            <div class="mega-list">
+                <ul>
+                    <li><i class="icon-angle-right blue"></i>ONE</li>
+                    <li><i class="icon-angle-right blue"></i>ONE
+                        <ul class="mega-flyout">
+                            <li>TWO</li>
+                        </ul>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <!-- END MEGA MENU -->
 </div>
 <!-- END FOOTER CONTENT -->
 

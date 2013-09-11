@@ -22,6 +22,7 @@ $(document).ready(function(){
     
     $('.mega-list li').each(function(){
         $(this).bind('click', function(){
+            $('.mega-flyout').css('display', '');
             $(this).find('.mega-flyout').css('display', 'block');
         });
     });

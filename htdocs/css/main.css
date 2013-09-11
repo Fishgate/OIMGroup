@@ -215,8 +215,14 @@ textarea {
     top: 49px;
     width: 970px;
     padding: 20px 10px;
-    height: 380px;
+/*    height: 380px;*/
     background: rgba(0, 0, 0, 0.8);
+    color: #333;
+}
+.footer mega-holder{
+    
+    width: 970px;
+    padding: 20px 10px;
     color: #333;
 }
 .mega-thirds{
@@ -232,6 +238,11 @@ textarea {
     background: #f8f8f8;
     margin: 0 0 15px 0;
 }
+.footer-mega-head{
+    padding: 10px;
+    background: #f1f1f1;
+    margin: 0 0 15px 0;
+}
 .mega-flyout{
     display: none;
     padding: 0 0 0 15px!important;
@@ -240,6 +251,7 @@ textarea {
     padding: 0;
 }
 .mega-list li{
+    cursor: pointer;
     color: #508abc;
     border-bottom: 1px dotted #ccc;
 }
@@ -494,6 +506,19 @@ footer{
     height: 53px;
     padding: 11px 13px;
 }
+
+
+/* ==========================================================================
+                                FOOTER STYLES
+========================================================================== */
+.footer-thirds{
+    width: 30%;
+    outline: 1px dotted #00b3ff;
+}
+.footer-mid{
+    margin: 0 5%;
+}
+
 
 /* ==========================================================================
    Helper classes
