@@ -23,9 +23,6 @@
         <div id='contentwrap' class='clearfix'>
             <div id='body' class='left'>BODY</div>
             <div id='sidebar' class='left'>
-                <?php 
-                    include "includes/sidebar-products.php";
-                ?>
             </div>
         </div>
         <!-- END BODY -->

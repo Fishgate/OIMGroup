@@ -416,13 +416,12 @@ BUTTONS
 footer{
     background: #f8f8f8;
 }
+
 #footer{
     width: 960px;
     margin: 0 auto;
     padding: 25px 0;
 }
-
-
 
 /*============================================
                SIDEBAR STYLES

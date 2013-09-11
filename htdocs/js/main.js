@@ -7,8 +7,6 @@ $(document).ready(function(){
         "timeout": 10000
       });
 
-
-
 //============================
 //     MEGAMENU CONTROL
 //============================
@@ -27,9 +25,7 @@ $(document).ready(function(){
             $(this).find('.mega-flyout').css('display', 'block');
         });
     });
-
 });
-
 
 //============================
 //     SIDEBAR DROPDOWN
