@@ -7,8 +7,6 @@ $(document).ready(function(){
         "timeout": 10000
       });
 
-
-
 //============================
 //     MEGAMENU CONTROL
 //============================
@@ -27,6 +25,39 @@ $(document).ready(function(){
             $(this).find('.mega-flyout').css('display', 'block');
         });
     });
-
 });
 
+//============================
+//     SIDEBAR DROPDOWN
+//============================
+$(".sidebar-select").click(function(){
+    $(".sidebar-select-list").toggleClass("hidden");
+});
+
+//=======================================
+//     INPUTS PLACEHOLDER BEHAVIOUR
+//=======================================
+$("input, textarea").bind({
+    focus: function() {
+        if($(this).is("input")){
+            if($(this).data("placeholder") === $(this).val()){
+                $(this).val("");
+            }
+        }else if($(this).is("textarea")){
+            if($(this).data("placeholder") === $(this).html()){
+                $(this).html("");
+            }
+        }
+    },
+    blur: function() {
+        if($(this).is("input")){
+            if($(this).val().trim() === ""){
+                $(this).val($(this).data("placeholder"));
+            }
+        }else if($(this).is("textarea")){
+            if($(this).html().trim() === ""){
+                $(this).html($(this).data("placeholder"));
+            }
+        }
+    }
+});
