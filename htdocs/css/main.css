@@ -196,6 +196,8 @@ textarea {
     /*margin: 0 0 0 25px;*/
 }
 .menu-item{
+    font-family: 'opensans';
+    font-size: 12px;
     padding: 0 10px;
     font-size: 14px;
     color: #999;
@@ -206,7 +208,6 @@ textarea {
     color: #ffffff;
 }
 .menu-item i{
-    color: #5482AB;
     margin-left: 10px;
 }
 
@@ -214,7 +215,8 @@ textarea {
     position: absolute;
     z-index: 999;
     margin-left: -495px;
-    left: 50%;
+    left: -999px;
+/*    left: 50%;*/
     top: 49px;
     width: 970px;
     padding: 20px 10px;
@@ -225,7 +227,7 @@ textarea {
 .mega-thirds{
     margin: 0 10px;
     width: 31.2%;
-    outline: 1px solid yellow;/* for setup only, can be removed */
+   /* outline: 1px solid yellow; for setup only, can be removed */
 }
 .mega-thirds i{
     padding: 15px;
@@ -237,7 +239,56 @@ textarea {
 }
 .mega-flyout{
     display: none;
+    padding: 0 0 0 15px!important;
 }
+.mega-list ul{
+    padding: 0;
+}
+.mega-list li{
+    color: #508abc;
+    border-bottom: 1px dotted #ccc;
+}
+.mega-flyout li{
+    margin-left: 40px;
+    border-bottom: 1px dotted #508abc;
+}
+
+/* ==========================================================================
+                               SECONDARY NAV
+   ========================================================================== */
+#secondary-nav{
+    position: absolute;
+    margin-left: -480px;
+    left: 50%;
+    top: 499px;
+    z-index: 100;
+    width: 960px;
+}
+#secondary-nav ul{
+    padding: 0;
+    margin: 0;
+}
+#secondary-nav ul li{
+    width: 16.459%;
+    background: #00204E;
+    margin: 0;
+    float: left;
+    padding: 15px 0;
+    text-align: center;
+    border-left: 1px solid #00204E;
+    border-right: 1px solid #508abc;
+    color: #ffffff;
+    font-family: 'opensans';
+    font-size: 11px;
+}
+#secondary-nav ul li:hover{
+    background: #A22B38;
+}
+#last{
+    border-right: 1px solid #00204E!important;
+}
+
+
 /* ==========================================================================
                                     BODY
    ========================================================================== */
@@ -257,6 +308,7 @@ body{
 }
 #sidebar{
     width: 300px;
+    padding: 78px 0 0 0;
     outline: 1px dotted yellowgreen;/*-- just for setup [can be removed] --*/
 }
 .icon{
@@ -271,15 +323,15 @@ body{
    ========================================================================== */
 
 .red {
-    color: #A22B38;
+    color: #A22B38;/* OIM RED */
 }
 
 .dark_blue {
-    color: #00204E;
+    color: #00204E;/* OIM BLUE DK */
 }
 
 .light_blue {
-    color: #508abc;
+    color: #508abc;/* OIM BLUE LT */
 }
 
 #body h1 {
@@ -379,18 +431,79 @@ BUTTONS
 footer{
     background: #f8f8f8;
 }
+
 #footer{
     width: 960px;
     margin: 0 auto;
     padding: 25px 0;
 }
 
+/*============================================
+               SIDEBAR STYLES
+=============================================*/
+.widget {
+    margin: 0 0 50px 0;    
+}
 
+.list-icon { background-image: url('../img/sidebars/icon-a-z-product-listing.jpg'); }
+.download-icon { background-image: url('../img/sidebars/icon-download-pdf.jpg'); }
+.contact-icon { background-image: url('../img/sidebars/icon-contact-us.jpg'); }
 
+#sidebar h1 {
+    background-color: #4D89BD;
+    font-size: 15px;
+    color: white;
+    text-transform: uppercase;
+    padding: 13px 13px 13px 63px;
+    margin: 0 0 30px 0;
+    background-repeat: no-repeat;
+}
 
+#sidebar .widget .sidebar-select {
+    background: url('../img/sidebars/icon-dropdown.jpg') #F8F8F8 no-repeat right;
+    padding: 14px 14px 14px 29px;
+    font-size: 14px;
+    cursor: pointer;
+}
 
+#sidebar .widget .sidebar-content-holder {
+    background: #F8F8F8;
+    padding: 13px 30px;
+    text-align: center;
+    margin: 0 0 30px 0;
+}
 
+#sidebar .widget .sidebar-large-link {
+    border-top: thin dotted #999;
+    border-bottom: thin dotted #999;
+    padding: 15px;
+    display: block;
+    background: url('../img/sidebars/icon-large-link.jpg') no-repeat 84px 0px;
+    text-align: center;
+}
 
+#sidebar p {
+    text-align: left;
+}
+
+#sidebar .widget input, 
+#sidebar .widget textarea {
+    margin: 0 0 5px 0;
+    border: none;
+    color: #666;
+}
+
+#sidebar .widget input {
+    width: 214px;
+    height: 35px;
+    padding: 0 13px 0 13px;
+}
+
+#sidebar .widget textarea {
+    width: 214px;
+    height: 53px;
+    padding: 11px 13px;
+}
 
 /* ==========================================================================
    Helper classes
