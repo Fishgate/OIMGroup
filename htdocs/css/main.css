@@ -301,6 +301,7 @@ body{
     font-size: 14px;
     font-weight: 800;
     color: #00204E;
+    margin-top: 30px;
     letter-spacing: -1px;
     text-transform: uppercase;
 }
@@ -315,6 +316,7 @@ body{
     height: 50px;
     font-family: 'opensans', 'Arial', sans-serif;
     font-size: 16px;
+    letter-spacing: 0px;
     line-height: 3em;
     text-align: center;
     margin-top: 30px;
@@ -328,10 +330,6 @@ body{
 
 .copy{
     margin-top: 30px;
-}
-
-.copy p{
-    margin: 0;
 }
 
 
