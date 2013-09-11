@@ -1,7 +1,7 @@
 <!-- BRANDING -->
 <div id="branding" class="clearfix">
     <div class="left">
-        <img src="img/logo.png" alt="OIM Logo" />
+        <img src="../img/logo.png" alt="OIM Logo" />
     </div>
     <div id="slogan" class="right">Business Performance Specialist</div>
 </div>
