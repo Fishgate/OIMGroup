@@ -19,8 +19,18 @@ textarea {
 }
 
 body {
-    font-size: 1em;
-    line-height: 1.4;
+    font-size: 12px;
+    line-height: 1.6;
+}
+
+a, a:visited {
+    color: #4E8ABE;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #A22B38;
+    text-decoration: underline;
 }
 
 /*
@@ -105,7 +115,6 @@ textarea {
          url('../fonts/OpenSans-Light-webfont.svg#open_sanslight') format('svg');
     font-weight: normal;
     font-style: normal;
-
 }
 @font-face {
     font-family: 'opensans-reg';
@@ -116,7 +125,16 @@ textarea {
          url('../fonts/OpenSans-Regular-webfont.svg#open_sansregular') format('svg');
     font-weight: normal;
     font-style: normal;
-
+}
+@font-face {
+    font-family: 'open_sanssemibold';
+    src: url('../fonts/OpenSans-Semibold-webfont.eot');
+    src: url('../fonts/OpenSans-Semibold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/OpenSans-Semibold-webfont.woff') format('woff'),
+         url('../fonts/OpenSans-Semibold-webfont.ttf') format('truetype'),
+         url('../fonts/OpenSans-Semibold-webfont.svg#open_sanssemibold') format('svg');
+    font-weight: normal;
+    font-style: normal;
 }
 /* ------------- SEE css/font-awesome.css FOR ICONS FONTFACE DETAILS ------- */
 /* ------------- FONT-FAMILY NAME: 'FontAwesome' --------------------------- */
@@ -137,6 +155,7 @@ textarea {
     font-weight: bold;
     padding-top: 10px;
 }
+
 /*============================================
                 MAIN-NAV
 =============================================*/
@@ -213,7 +232,7 @@ textarea {
                                     BODY
    ========================================================================== */
 body{
-    font-family: 'opensans', 'Helvetica', 'Arial', sans-serif;
+    font-family: 'Arial', sans-serif;
     color: #666;
 }
 #contentwrap{
@@ -233,6 +252,73 @@ body{
 .icon{
     font-family: 'FontAwesome';
 }
+.breadcrumb{
+    margin-top: 30px;
+}
+
+/* ==========================================================================
+   Typography
+   ========================================================================== */
+
+.red {
+    color: #A22B38;
+}
+
+.dark_blue {
+    color: #00204E;
+}
+
+.light_blue {
+    color: #508abc;
+}
+
+#body h1 {
+    display: block;
+    width: 585px;
+    height: 50px;
+    background-color: #4E8ABE;
+    font-family: 'opensans', 'Arial', sans-serif;
+    font-size: 24px;
+    font-weight: 300;
+    line-height: 2em;
+    color: #FFF;
+    margin-top: 30px;
+    padding-left: 30px;
+}
+
+#body h2 {
+    font-family: 'opensans-reg', 'Arial', sans-serif;
+    font-size: 14px;
+    font-weight: 800;
+    color: #00204E;
+    text-transform: uppercase;
+}
+
+/* ==========================================================================
+   Product Styles
+   ========================================================================== */
+
+.caption {
+    display: block;
+    width: 615px;
+    height: 50px;
+    font-family: 'opensans', 'Arial', sans-serif;
+    font-size: 16px;
+    line-height: 3em;
+    text-align: center;
+    margin-top: 30px;
+}
+
+.copy{
+    margin-top: 30px;
+}
+
+.copy p{
+    margin: 0;
+}
+
+
+
 /*============================================
         RESONSIVE SLIDES CALL TO ACTION
 =============================================*/
