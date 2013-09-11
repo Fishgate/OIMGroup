@@ -186,6 +186,8 @@ textarea {
     /*margin: 0 0 0 25px;*/
 }
 .menu-item{
+    font-family: 'opensans';
+    font-size: 12px;
     padding: 0 10px;
     font-size: 14px;
     color: #999;
@@ -196,7 +198,6 @@ textarea {
     color: #ffffff;
 }
 .menu-item i{
-    color: #5482AB;
     margin-left: 10px;
 }
 
@@ -204,7 +205,8 @@ textarea {
     position: absolute;
     z-index: 999;
     margin-left: -495px;
-    left: 50%;
+    left: -999px;
+/*    left: 50%;*/
     top: 49px;
     width: 970px;
     padding: 20px 10px;
@@ -215,7 +217,7 @@ textarea {
 .mega-thirds{
     margin: 0 10px;
     width: 31.2%;
-    outline: 1px solid yellow;/* for setup only, can be removed */
+   /* outline: 1px solid yellow; for setup only, can be removed */
 }
 .mega-thirds i{
     padding: 15px;
@@ -227,7 +229,56 @@ textarea {
 }
 .mega-flyout{
     display: none;
+    padding: 0 0 0 15px!important;
 }
+.mega-list ul{
+    padding: 0;
+}
+.mega-list li{
+    color: #508abc;
+    border-bottom: 1px dotted #ccc;
+}
+.mega-flyout li{
+    margin-left: 40px;
+    border-bottom: 1px dotted #508abc;
+}
+
+/* ==========================================================================
+                               SECONDARY NAV
+   ========================================================================== */
+#secondary-nav{
+    position: absolute;
+    margin-left: -480px;
+    left: 50%;
+    top: 499px;
+    z-index: 100;
+    width: 960px;
+}
+#secondary-nav ul{
+    padding: 0;
+    margin: 0;
+}
+#secondary-nav ul li{
+    width: 16.459%;
+    background: #00204E;
+    margin: 0;
+    float: left;
+    padding: 15px 0;
+    text-align: center;
+    border-left: 1px solid #00204E;
+    border-right: 1px solid #508abc;
+    color: #ffffff;
+    font-family: 'opensans';
+    font-size: 11px;
+}
+#secondary-nav ul li:hover{
+    background: #A22B38;
+}
+#last{
+    border-right: 1px solid #00204E!important;
+}
+
+
 /* ==========================================================================
                                     BODY
    ========================================================================== */
@@ -261,15 +312,15 @@ body{
    ========================================================================== */
 
 .red {
-    color: #A22B38;
+    color: #A22B38;/* OIM RED */
 }
 
 .dark_blue {
-    color: #00204E;
+    color: #00204E;/* OIM BLUE DK */
 }
 
 .light_blue {
-    color: #508abc;
+    color: #508abc;/* OIM BLUE LT */
 }
 
 #body h1 {
