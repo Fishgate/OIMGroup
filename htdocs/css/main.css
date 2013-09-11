@@ -23,6 +23,16 @@ body {
     line-height: 1.6;
 }
 
+a, a:visited {
+    color: #4E8ABE;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #A22B38;
+    text-decoration: underline;
+}
+
 /*
  * Remove text-shadow in selection highlight: h5bp.com/i
  * These selection rule sets have to be separate.
@@ -244,6 +254,10 @@ body{
 }
 
 .dark_blue {
+    color: #00204E;
+}
+
+.light_blue {
     color: #508abc;
 }
 
@@ -265,7 +279,7 @@ body{
     font-family: 'opensans-reg', 'Arial', sans-serif;
     font-size: 14px;
     font-weight: 800;
-    color: #508abc;
+    color: #00204E;
     text-transform: uppercase;
 }
 
