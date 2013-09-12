@@ -382,6 +382,13 @@ body{
     color: #508abc;/* OIM BLUE LT */
 }
 
+#contentwrap h1{
+    color: #999;
+    font-family: 'opensans', 'Arial', sans-serif;
+    font-size: 25px;
+    font-weight: 300;
+}
+
 #body h1 {
     display: block;
     width: 585px;
@@ -391,9 +398,17 @@ body{
     font-size: 24px;
     font-weight: 300;
     line-height: 2em;
-    color: #FFF;
-    margin-top: 30px;
+    color: #FFF !important;
+    margin-top: 30px; 
     padding-left: 30px;
+}
+
+#contentwrap h2{
+    color: #00204E;
+    text-transform: uppercase;
+    margin-top: 30px;
+    padding: 0;
+/*    margin: 25px 0 15px 0;*/
 }
 
 #body h2 {
@@ -402,20 +417,9 @@ body{
     font-weight: 800;
     color: #00204E;
     margin-top: 30px;
-    letter-spacing: -1px;
     text-transform: uppercase;
 }
-#contentwrap h1{
-    color: #999;
-    font-family: 'opensans', 'Arial', sans-serif;
-    font-size: 25px;
-}
-#contentwrap h2{
-    color: #00204E;
-    text-transform: uppercase;
-    padding: 0;
-/*    margin: 25px 0 15px 0;*/
-}
+
 .h2-custom{
     display: inline-block;
     color: #00204E;
@@ -463,7 +467,12 @@ body{
     margin-top: 30px;
 }
 
-
+.copy ul{
+    list-style-type: disc;
+}
+.copy ul ul{
+    list-style-type: disc;
+}
 
 /*============================================
         RESONSIVE SLIDES CALL TO ACTION
