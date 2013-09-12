@@ -430,7 +430,7 @@ footer{
     margin: 0 0 50px 0;    
 }
 
-.list-icon { background-image: url('../img/sidebars/icon-a-z-product-listing.jpg'); }
+.list-icon { background-image: url('../img/sidebars/icon-list.jpg'); }
 .download-icon { background-image: url('../img/sidebars/icon-download-pdf.jpg'); }
 .contact-icon { background-image: url('../img/sidebars/icon-contact-us.jpg'); }
 
@@ -488,6 +488,23 @@ footer{
     width: 214px;
     height: 53px;
     padding: 11px 13px;
+}
+
+#sidebar .widget ul {
+    padding: 0;
+    margin: 30px 0 0 0;
+}
+
+#sidebar .widget ul li {
+    border-top: thin dotted #999;
+    padding: 8px 0px 8px 30px;
+    margin: 0;
+    list-style-type: none;
+    background: url('../img/sidebars/icon-list-item.jpg') no-repeat left;
+}
+
+#sidebar .widget ul .last-li {
+    border-bottom: thin dotted #999;
 }
 
 /* ==========================================================================

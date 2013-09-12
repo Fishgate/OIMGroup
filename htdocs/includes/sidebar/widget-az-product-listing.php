@@ -23,6 +23,6 @@
         <li><a href="#">This is the second option</a></li>
         <li><a href="#">This is the first option.</a></li>
         <li><a href="#">This is the second option</a></li>
-        <li><a href="#">This is the second option</a></li>
+        <li class="last-li"><a href="#">This is the second option</a></li>
     </ul>
 </div>
