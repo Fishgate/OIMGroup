@@ -22,13 +22,43 @@
         <!-- BEGIN BODY -->
         <div id='contentwrap' class='clearfix'>
             <div id='body' class='left'>
-                <div class='breadcrumb'><i class="icon-map-marker icon-large red"></i> &nbsp;YOU ARE HERE: <a href='#'>Products & Services</a> / <span class='red'>Individual Performance Management</span></div>
-                <h1>Individual Performance Management</h1>
-                <div class='caption'>Implement and sustain a customised <strong>performance management system</strong></div>
+                <div class='breadcrumb'><i class="icon-map-marker icon-large red"></i> &nbsp;YOU ARE HERE: <a href='#'>Products & Services</a> / <span class='red'>Leadership Assessments</span></div>
+                <h1>Leadership Assessments</h1>
+                <div class='caption'>Measuring competencies, potential and job fit </div>
                 <div class='copy'>
-                    <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. Typi non habent claritatem insitam; est usus legentis in iis qui facit eorum claritatem. Investigationes demonstraverunt lectores legere me lius quod ii legunt saepius. Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium lectorum. Mirum est notare quam littera gothica, quam nunc putamus parum claram, anteposuerit litterarum formas humanitatis per seacula quarta decima et quinta decima. Eodem modo typi, qui nunc nobis videntur parum clari, fiant sollemnes in futurum.</p>
-                    <p><h2>Our Offering</h2>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. Typi non habent claritatem insitam; est usus legentis in iis qui facit eorum claritatem. Investigationes demonstraverunt lectores legere me lius quod ii legunt saepius. Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium lectorum. Mirum est notare quam littera gothica, quam nunc putamus parum claram, anteposuerit litterarum formas humanitatis per seacula quarta decima et quinta decima. Eodem modo typi, qui nunc nobis videntur parum clari, fiant sollemnes in futurum.</p>
-                    <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. Typi non habent claritatem insitam; est usus legentis in iis qui facit eorum claritatem. Investigationes demonstraverunt lectores legere me lius quod ii legunt saepius. Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium lectorum. Mirum est notare quam littera gothica, quam nunc putamus parum claram, anteposuerit litterarum formas humanitatis per seacula quarta decima et quinta decima. Eodem modo typi, qui nunc nobis videntur parum clari, fiant sollemnes in futurum.</p>
+                    <p>An assessment battery is one of the most successful methods to gain a more accurate picture of an employee’s aptitudes, behavioural preferences, work style, cultural fit and potential.</p>
+
+<p>Ideally, people’s competencies should match the responsibilities entrusted to them. When this balance prevails, their productivity rate increases and the organisation benefits.</p> 
+
+<p>OIM helps you to find this critical balance.</p> 
+
+<p>Simply put, our assessments help you to deploy the right people in the right positions at the right time in their careers.</p>
+
+
+<h2>Our offering</h2>
+
+<p>
+<ul>
+    <li><strong>Personality:</strong> Outline a person’s preferred behaviour, strengths and development areas</li>
+<li><strong>Cognition and abilities:</strong> Evaluate aspects such as verbal, numerical and abstract reasoning abilities</li>
+<li><strong>Capabilities:</strong> Gauge what job level or complexity of work a person is capable of</li>
+<li><strong>Values and motives:</strong> Measure cultural and job fit requirements and inform career path planning</li>
+<li><strong>Observable behaviour:</strong> Observe individual behaviour under various circumstances and determine competencies (including in-tray case studies, role play for individuals and groups, as well as fact-finding and leaderless group exercises)</li>
+<li><strong>360° assessments:</strong> Feedback from peers, line managers and subordinates to obtain a comprehensive view of a person’s performance and behaviour</li>
+</ul>
+                </p>
+                
+<h2>The OIM difference</h2> 
+
+<p>
+<ul>
+<li>OIM offers a range of leading assessment batteries which our leadership specialists are accredited to implement.</li>
+<li>The models are benchmarked against international standards, offering results that are valid, reliable and culturally fair.</li>
+<li>We can customise assessments for your organisation’s needs.</li>
+<li>OIM’s leadership talent team comprises registered industrial psychologists and organisational development practitioners many years’ experience in <strong>talent management, team dynamics</strong> and <strong>leadership development</strong>.</li>
+<li>Clients who are already using OIM’s integrated performance methodology can benefit from assessments that have been aligned to this model.</li>
+</ul>
+                </p>
                 </div>
             </div>
             <div id='sidebar' class='left'>SIDEBAR</div>

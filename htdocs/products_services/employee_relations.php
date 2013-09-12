@@ -22,16 +22,82 @@
         <!-- BEGIN BODY -->
         <div id='contentwrap' class='clearfix'>
             <div id='body' class='left'>
-                <div class='breadcrumb'><i class="icon-map-marker icon-large red"></i> &nbsp;YOU ARE HERE: <a href='#'>Products & Services</a> / <span class='red'>Individual Performance Management</span></div>
-                <h1>Individual Performance Management</h1>
-                <div class='caption'>Implement and sustain a customised <strong>performance management system</strong></div>
+                <div class='breadcrumb'><i class="icon-map-marker icon-large red"></i> &nbsp;YOU ARE HERE: <a href='#'>Products & Services</a> / <span class='red'>Employee Relations</span></div>
+                <h1>Employee Relations</h1>
+                <div class='caption'>Sustainable labour peace and stability</div>
                 <div class='copy'>
-                    <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. Typi non habent claritatem insitam; est usus legentis in iis qui facit eorum claritatem. Investigationes demonstraverunt lectores legere me lius quod ii legunt saepius. Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium lectorum. Mirum est notare quam littera gothica, quam nunc putamus parum claram, anteposuerit litterarum formas humanitatis per seacula quarta decima et quinta decima. Eodem modo typi, qui nunc nobis videntur parum clari, fiant sollemnes in futurum.</p>
-                    <p><h2>Our Offering</h2>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. Typi non habent claritatem insitam; est usus legentis in iis qui facit eorum claritatem. Investigationes demonstraverunt lectores legere me lius quod ii legunt saepius. Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium lectorum. Mirum est notare quam littera gothica, quam nunc putamus parum claram, anteposuerit litterarum formas humanitatis per seacula quarta decima et quinta decima. Eodem modo typi, qui nunc nobis videntur parum clari, fiant sollemnes in futurum.</p>
-                    <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. Typi non habent claritatem insitam; est usus legentis in iis qui facit eorum claritatem. Investigationes demonstraverunt lectores legere me lius quod ii legunt saepius. Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium lectorum. Mirum est notare quam littera gothica, quam nunc putamus parum claram, anteposuerit litterarum formas humanitatis per seacula quarta decima et quinta decima. Eodem modo typi, qui nunc nobis videntur parum clari, fiant sollemnes in futurum.</p>
+                    <p>Labour peace and stability is crucial for business success.</p> 
+
+                    <p>Given South Africa’s history the area is particularly complex in our country and since 2010 violence and unprotected strikes have steadily gained momentum.</p> 
+
+                    <p>The 2012/3 World Competitiveness Report confirms this state of affairs with SA ranking last out of 144 countries in the category labour-employer relations.</p>  
+
+                    <p>OIM helps organisations to actively manage these relations.</p>
+
+                    <p>With 28 years’ experience in <strong>employee</strong> and <strong>labour relations</strong>, we assist organisations to:
+                    <ul>
+                            <li>Develop and implement a comprehensive <strong>employee relations</strong> strategy in line with overall business goals.</li>
+                            <li>Promote labour peace and stability.</li>
+                            <li>Foster a climate conducive to optimal performance.</li>
+                            <li>Proactively manage and resolve conflict.</li>
+                            <li>Position <strong>employee relations</strong> as a strategic instrument; not a tactical tool.</li>
+                            <li>Move from a legalistic <strong>industrial relations</strong> approach to a more inclusive, people-orientated <strong>employee relations</strong> approach.</li> 
+                    </ul>
+                    </p>
+
+                    <h2>Our offering</h2>
+
+                    <p><strong>OIM helps clients to develop a comprehensive employee relations (ER) strategy.</strong> This is translated into support processes, policies, structures, practices, skills development and measurements to ensure proper implementation and sustainability.</p>
+
+                    <p><strong>Our approach consists of eight main elements with related products.</strong></p> 
+
+                    <ul>
+                        <li><strong>Baseline measurement and culture survey</strong> to establish the current reality</li>
+                        <li><strong>ER strategy development</strong></li>
+                        <li><strong>ER structure alignment</strong><br />
+                        Once the ER strategy has been designed, it is cascaded to all organisational levels and areas. The first step is the alignment of business structures, the design of engagement forums and policy development/compliance.</li>
+                        <li><strong>Equip leaders and prepare the climate</strong><br />
+                        Train stakeholders in:</li> 
+                            <ul>
+                                <li>ER effectiveness</li>
+                                <li>Industrial relations effectiveness</li>
+                                <li>Engagement forums</li>
+                                <li>Team engagement</li>
+                            </ul>
+                        <li><strong>Stakeholder engagement</strong><br />
+                        Implement various stakeholder forums and familiarise employees with business and employee relations principles.</li>
+                        <li><strong>Continuous improvement and optimisation</strong><br />
+                        Continuously identify improvements to the strategy, climate, operations and practices and launch special projects to encourage ongoing improvements.</li>
+                        <li><strong>Measure performance and progress</strong><br />
+                        Measurements to gain a performance dashboard and use results to inform your strategy.</li>
+                        <li><strong>Conflict resolution</strong><br />
+                        With a track record dating back to 1985, OIM has developed a proven approach to <strong>conflict resolution</strong> and gained experience in tailoring the approach to various situations.</li>  
+                    </ul>
+
+                    <h2>The OIM difference</h2>
+
+                    <p>
+                        <ul>
+                            <li>OIM offers an integrated solution, targeting all key <strong>employee relations</strong> areas and focusing on both legal and human aspects.</li> 
+                            <li>This comprehensive strategy is aligned to your business goals and integrates all <strong>employee relations</strong> practices.</li>
+                            <li>Our approach offers long-term results; not short-term tactics.</li>
+                            <li>The elements of the integrated offering are also available as stand-alone interventions.</li>
+                            <li>We follow a practical, no-nonsense approach when designing the intervention.</li> 
+                            <li>OIM is not in the business of consultant dependency. We build internal capacity through the transfer of skills and knowledge and the establishment of regular engagement forums.</li>
+                            <li>Our stakeholder training, especially management-union relations, focuses on the intent, not the letter of the law. This approach deepens people’s understanding of and ability to interpret and apply legislation.</li>
+                            <li>The offering is aligned with OIM’s proven performance cycle and offers seamless integration with other OIM interventions.</li>
+                            <li>If required, clients also benefit from the expertise embedded in all OIM’s core business areas, namely people management, operational optimisation and organisational performance improvement. Other services include <strong>strategic planning, business process management, leadership development</strong> and individual <strong>performance management</strong>.</li>
+                        </ul>
+                    <p>
                 </div>
             </div>
-            <div id='sidebar' class='left'>SIDEBAR</div>
+            <div id='sidebar' class='left'>
+                <?php 
+                include "../includes/sidebar/widget-az-product-listing.php"; 
+                include "../includes/sidebar/widget-download-pdf-temp1.php"; 
+                include "../includes/sidebar/widget-contact-us.php"; 
+                ?>
+            </div>
         </div>
         <!-- END BODY -->
         

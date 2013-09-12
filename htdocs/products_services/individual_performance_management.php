@@ -26,12 +26,60 @@
                 <h1>Individual Performance Management</h1>
                 <div class='caption'>Implement and sustain a customised <strong>performance management system</strong></div>
                 <div class='copy'>
-                    <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. Typi non habent claritatem insitam; est usus legentis in iis qui facit eorum claritatem. Investigationes demonstraverunt lectores legere me lius quod ii legunt saepius. Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium lectorum. Mirum est notare quam littera gothica, quam nunc putamus parum claram, anteposuerit litterarum formas humanitatis per seacula quarta decima et quinta decima. Eodem modo typi, qui nunc nobis videntur parum clari, fiant sollemnes in futurum.</p>
-                    <p><h2>Our Offering</h2>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. Typi non habent claritatem insitam; est usus legentis in iis qui facit eorum claritatem. Investigationes demonstraverunt lectores legere me lius quod ii legunt saepius. Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium lectorum. Mirum est notare quam littera gothica, quam nunc putamus parum claram, anteposuerit litterarum formas humanitatis per seacula quarta decima et quinta decima. Eodem modo typi, qui nunc nobis videntur parum clari, fiant sollemnes in futurum.</p>
-                    <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. Typi non habent claritatem insitam; est usus legentis in iis qui facit eorum claritatem. Investigationes demonstraverunt lectores legere me lius quod ii legunt saepius. Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium lectorum. Mirum est notare quam littera gothica, quam nunc putamus parum claram, anteposuerit litterarum formas humanitatis per seacula quarta decima et quinta decima. Eodem modo typi, qui nunc nobis videntur parum clari, fiant sollemnes in futurum.</p>
+                    <p>Any employee, regardless of position or job level, needs to understand the following:
+                    <ul>
+                        <li>What output and behaviour is expected of me?</li>
+                        <li>How does my role contribute to organisational success?</li>
+                        <li>How is my performance measured?</li>
+                        <li>How is good performance recognised and/or rewarded?</li>
+                        <li>What support is available to improve my skills and/or performance when required?</li>
+                    </ul>
+                    </p>
+                    
+                    <p><strong>OIM helps organisations to match these individual expectations with their business goals.</strong></p>
+
+                    <p>Accordingly we:
+                        <ul>
+                            <li>Define, design and implement a suitable individual <strong>performance management system</strong>.</li>
+                            <li>Equip leaders with the necessary skills to sustain this system.</li>
+                        </ul>
+                    </p>
+
+                    <p><strong>This is done in an integrated way, aligning the performance management process with business strategy and organisational systems.</strong></p>
+
+                    <h2>Our offering</h2>
+
+                    <p><strong>Consulting</strong><br/>The design of a customised individual <strong>performance management</strong> system and approach. This is supported by policies, processes, practices and a toolkit to facilitate implementation and sustainability.</p>
+
+                    <p><strong>Training</strong><br/>This involves equipping leaders with the necessary skills and knowledge to action the <strong>performance management system</strong>. Clients can choose between two options where OIM: 
+                        <ul>
+                            <li>Trains all leaders in workshop sessions.
+                            <li>Conducts a train-the-trainer programme.
+                        </ul>
+                    </p>
+
+                    <h2>The OIM difference</h2>
+                    
+                    <p>
+                        <ul>
+                            <li>We do not sell off-the-shelf products. Instead we pride ourselves in providing customised solutions based on client needs and drawing on OIM’s experience.</li>
+                            <li>We have since 1985 successfully implemented individual <strong>performance management</strong> principles across a range of industries, both locally and abroad.</li>
+                            <li>Our offering allows proper integration of both team (INVOCOM®) and individual <strong>performance management</strong>.</li>
+                            <li>The approach is aligned with business strategy and integrates with the scorecard process and other people management focus areas.</li>
+                            <li>We don’t believe in consultant dependency. We build internal capacity by equipping leaders and key stakeholders with the necessary skills and knowledge to implement the performance solution in a sustainable way.</li>
+                            <li>The offering seamlessly integrates with other OIM products and services.</li>
+                            <li>If required, clients also benefit from the expertise embedded in all OIM’s core business areas, namely people management, operational optimisation and organisational performance improvement. This includes <strong>strategic planning, business process management, leadership development</strong> and <strong>employee relations</strong>.</li>
+                        </ul>
+                    </p>
                 </div>
             </div>
-            <div id='sidebar' class='left'>SIDEBAR</div>
+            <div id='sidebar' class='left'>
+                <?php 
+                include "../includes/sidebar/widget-az-product-listing.php"; 
+                include "../includes/sidebar/widget-download-pdf-temp1.php"; 
+                include "../includes/sidebar/widget-contact-us.php"; 
+                ?>
+            </div>
         </div>
         <!-- END BODY -->
         

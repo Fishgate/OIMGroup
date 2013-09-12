@@ -3,7 +3,7 @@
     <div class="left">
         <img src="../img/logo.png" alt="OIM Logo" />
     </div>
-    <div id="slogan" class="right">Business Performance Specialist</div>
+    <div id="slogan" class="right">Business Performance Specialists</div>
 </div>
 <!-- END BRANDING -->
 

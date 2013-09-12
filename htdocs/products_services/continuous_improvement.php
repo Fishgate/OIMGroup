@@ -22,16 +22,49 @@
         <!-- BEGIN BODY -->
         <div id='contentwrap' class='clearfix'>
             <div id='body' class='left'>
-                <div class='breadcrumb'><i class="icon-map-marker icon-large red"></i> &nbsp;YOU ARE HERE: <a href='#'>Products & Services</a> / <span class='red'>Individual Performance Management</span></div>
-                <h1>Individual Performance Management</h1>
-                <div class='caption'>Implement and sustain a customised <strong>performance management system</strong></div>
+                <div class='breadcrumb'><i class="icon-map-marker icon-large red"></i> &nbsp;YOU ARE HERE: <a href='#'>Products & Services</a> / <span class='red'>Continuous Improvement</span></div>
+                <h1>Continuous Improvement</h1>
+                <div class='caption'>Establish a culture of ongoing operational optimisation</div>
                 <div class='copy'>
-                    <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. Typi non habent claritatem insitam; est usus legentis in iis qui facit eorum claritatem. Investigationes demonstraverunt lectores legere me lius quod ii legunt saepius. Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium lectorum. Mirum est notare quam littera gothica, quam nunc putamus parum claram, anteposuerit litterarum formas humanitatis per seacula quarta decima et quinta decima. Eodem modo typi, qui nunc nobis videntur parum clari, fiant sollemnes in futurum.</p>
-                    <p><h2>Our Offering</h2>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. Typi non habent claritatem insitam; est usus legentis in iis qui facit eorum claritatem. Investigationes demonstraverunt lectores legere me lius quod ii legunt saepius. Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium lectorum. Mirum est notare quam littera gothica, quam nunc putamus parum claram, anteposuerit litterarum formas humanitatis per seacula quarta decima et quinta decima. Eodem modo typi, qui nunc nobis videntur parum clari, fiant sollemnes in futurum.</p>
-                    <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. Typi non habent claritatem insitam; est usus legentis in iis qui facit eorum claritatem. Investigationes demonstraverunt lectores legere me lius quod ii legunt saepius. Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium lectorum. Mirum est notare quam littera gothica, quam nunc putamus parum claram, anteposuerit litterarum formas humanitatis per seacula quarta decima et quinta decima. Eodem modo typi, qui nunc nobis videntur parum clari, fiant sollemnes in futurum.</p>
+                    <p>Ongoing operational improvement is an essential part of successful <strong>operations management</strong>.</p>
+
+                    <p>OIM has developed a programme to equip employees with the necessary skills and mindsets to optimise operations and exploit innovation opportunities long term. The aim is to establish a culture of and capacity for continuous improvement.</p>
+
+                    <p>Given the practical nature of this topic, our programme addresses a fundamental weakness in skills development and the building of capacity – <strong>the ability to transfer theoretical knowledge to the workplace, resulting in sustainable operational improvements</strong>.</p>
+
+                    <h2>Our offering</h2>
+
+                    <p>To bridge this knowledge transfer gap our intervention focuses on two key aspects.</p>
+                    
+                        <ul>
+                            <li><strong>Skills development: With emphasis on coaching</strong></li>
+                            <li><strong>Workshops and assignments:</strong> Classroom training and assignments to reinforce learning [20% of training programme]</li> 
+                            <li><strong>On-the-floor coaching:</strong> OIM consultants work with employees in the workplace to practise skills application and remove operational constraints [80% of programme]</li>
+                            <li><strong>Consultation: Prepare the system for continuous improvement</strong></li>
+                        </ul>
+
+                    <p>Running parallel to the skills development is a task team working on the technical implementation of improvement tools and systems such as statistical process control, workplace organisation and management operation systems (MOS). This approach ensures that business operations are geared for the upcoming changes and staff are competent in running the systems and tools. The task team consists of key employees and OIM operations management consultants, many of whom are industrial engineers.</p>
+
+                    <h2>The OIM difference</h2>
+
+                    <p>
+                        <ul>
+                            <li>OIM’s <strong>operations management</strong> team has experience in <strong>both business processes and systems management</strong>, providing clients with a comprehensive service and depth of knowledge in these fields.</li>
+                            <li>With a track recording date back to the late 90’s, the team has experience in various industries including manufacturing, mining, retail, financial services and local government sectors. Some of the clients who’ve benefited from our operational solutions are Allan Gray, Assmang Khumani Mine, Metropolitan, Meatco and Glacier by Sanlam.</li>
+                            <li>We pride ourselves in our ability to design customised interventions for clients, with a proven ability to identify inefficiencies and scope relevant solutions.</li>
+                            <li>When designing these interventions, we draw on a range of methodologies and best practices to create the appropriate structures, processes and systems for effective strategy execution and operations management.</li> 
+                            <li>If required, clients also have access to the expertise embedded in the rest of OIM’s specialist areas, namely organisational improvement and people management. This includes <strong>strategic planning, business architecture, employee engagement, leadership development and employee relations</strong>. All of these solutions are seamlessly implemented by specialists in the core business areas.</li>
+                        </ul>
+                    </p>
                 </div>
             </div>
-            <div id='sidebar' class='left'>SIDEBAR</div>
+            <div id='sidebar' class='left'>
+                <?php 
+                include "../includes/sidebar/widget-az-product-listing.php"; 
+                include "../includes/sidebar/widget-download-pdf-temp1.php"; 
+                include "../includes/sidebar/widget-contact-us.php"; 
+                ?>
+            </div>
         </div>
         <!-- END BODY -->
         

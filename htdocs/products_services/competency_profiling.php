@@ -22,16 +22,43 @@
         <!-- BEGIN BODY -->
         <div id='contentwrap' class='clearfix'>
             <div id='body' class='left'>
-                <div class='breadcrumb'><i class="icon-map-marker icon-large red"></i> &nbsp;YOU ARE HERE: <a href='#'>Products & Services</a> / <span class='red'>Individual Performance Management</span></div>
-                <h1>Individual Performance Management</h1>
-                <div class='caption'>Implement and sustain a customised <strong>performance management system</strong></div>
+                <div class='breadcrumb'><i class="icon-map-marker icon-large red"></i> &nbsp;YOU ARE HERE: <a href='#'>Products & Services</a> / <span class='red'>Competency Profiling</span></div>
+                <h1>Competency Profiling</h1>
+                <div class='caption'>A framework against which to assess, develop and manage your organisation’s talent</div>
                 <div class='copy'>
-                    <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. Typi non habent claritatem insitam; est usus legentis in iis qui facit eorum claritatem. Investigationes demonstraverunt lectores legere me lius quod ii legunt saepius. Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium lectorum. Mirum est notare quam littera gothica, quam nunc putamus parum claram, anteposuerit litterarum formas humanitatis per seacula quarta decima et quinta decima. Eodem modo typi, qui nunc nobis videntur parum clari, fiant sollemnes in futurum.</p>
-                    <p><h2>Our Offering</h2>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. Typi non habent claritatem insitam; est usus legentis in iis qui facit eorum claritatem. Investigationes demonstraverunt lectores legere me lius quod ii legunt saepius. Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium lectorum. Mirum est notare quam littera gothica, quam nunc putamus parum claram, anteposuerit litterarum formas humanitatis per seacula quarta decima et quinta decima. Eodem modo typi, qui nunc nobis videntur parum clari, fiant sollemnes in futurum.</p>
-                    <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. Typi non habent claritatem insitam; est usus legentis in iis qui facit eorum claritatem. Investigationes demonstraverunt lectores legere me lius quod ii legunt saepius. Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium lectorum. Mirum est notare quam littera gothica, quam nunc putamus parum claram, anteposuerit litterarum formas humanitatis per seacula quarta decima et quinta decima. Eodem modo typi, qui nunc nobis videntur parum clari, fiant sollemnes in futurum.</p>
+                    <p>Competency profiling is an essential component of HR management. It identifies the competencies – skills, knowledge, attributes and attitudes – required for each job level or role to optimise your organisation’s performance.</p>
+
+                    <p>Simply put, it provides you with a scientific framework to help ensure you deploy the right talent in the right role with the right responsibilities.</p>
+
+                    <p>This framework is therefore key to the rest of your HR and <strong>talent management</strong> processes, guiding aspects such as recruitment and selection, training and development, <strong>performance management</strong>, as well as retention and succession planning.</p>
+
+                    <h2>Our offering</h2>
+                    <p>
+                        <ul>
+                            <li><strong>Leading international frameworks:</strong> OIM offers a range of leading competency framework models and provides clients with advice about the most suitable model for their needs.</li>
+                            <li><strong>Scientific online tools:</strong> Following a systematic approach, we use scientific online tools to provide valid and reliable results that are benchmarked against international standards.</li>
+                            <li><strong>Competency analysis and profile design:</strong> We work with strategic stakeholders in business to conduct a competency analysis and design a competency profile per job level, outlining which competencies are essential, desirable and less desirable.</li>
+                            <li><strong>Customised frameworks:</strong> The available competency models are customised according to the client’s environment and business needs. OIM also has the expertise to design a unique framework if required.</li>
+                        </ul>
+                    </p>
+                    <h2>The OIM difference</h2>
+                    <p>
+                        <ul>
+                            <li>OIM’s leadership talent team can lay claim to solid knowledge of both business and human behaviour. They are all registered industrial psychologists and organisational development practitioners with years’ experience in <strong>talent management</strong>, <strong>team dynamics</strong> and <strong>leadership development</strong>.</li>
+                            <li>The team has successfully facilitated competency profiling interventions in a range of industries, including finance, retail, manufacturing, fast-moving consumer goods and mining.</li>
+                            <li>OIM works in partnership with leading talent assessment companies SHL and Saville giving clients peace of mind that results are reliable, valid and benchmarked against international standards.</li>
+                            <li>We don’t simply offer standard frameworks, but customise profiles for clients’ specific needs and business objectives. We can also design truly unique frameworks for clients.</li>
+                        </ul>
+                    </p>
                 </div>
             </div>
-            <div id='sidebar' class='left'>SIDEBAR</div>
+            <div id='sidebar' class='left'>
+                <?php 
+                include "../includes/sidebar/widget-az-product-listing.php"; 
+                include "../includes/sidebar/widget-download-pdf-temp1.php"; 
+                include "../includes/sidebar/widget-contact-us.php"; 
+                ?>
+            </div>
         </div>
         <!-- END BODY -->
         

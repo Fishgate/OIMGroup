@@ -160,10 +160,13 @@ textarea {
     padding-top: 15px;
 }
 #slogan{
-    font-family: 'opensans-reg', 'Helvetica', 'Arial', sans-serif;
-    color: #00204E;/* BLUE DARK */
-    font-weight: bold;
+    font-family: 'open_sansbold', 'Arial', sans-serif;
+    font-size: 14px;
+    font-weight: 800;
+    color: #00204E;
     padding-top: 10px;
+    letter-spacing: -1px;
+    text-transform: uppercase;
 }
 
 /*============================================
@@ -279,7 +282,7 @@ textarea {
     border-right: 1px solid #508abc;
     color: #ffffff;
     font-family: 'opensans';
-    font-size: 11px;
+    font-size: 12px;
 }
 #secondary-nav ul li:hover{
     background: #A22B38;
@@ -451,7 +454,9 @@ footer{
 
 #sidebar h1 {
     background-color: #4D89BD;
-    font-size: 15px;
+    font-family: 'opensans-reg', 'Helvetica', 'Arial', sans-serif;
+    font-size: 14px;
+    font-weight: 300;
     color: white;
     text-transform: uppercase;
     padding: 13px 13px 13px 63px;
