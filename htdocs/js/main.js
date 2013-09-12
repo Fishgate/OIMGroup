@@ -35,6 +35,9 @@ $(".sidebar-select").click(function(){
     $(".sidebar-select-list").toggleClass("hidden");
 });
 
+//------------ TYRONE simply scroll init
+$("#scroller").simplyScroll();
+
 //=======================================
 //     INPUTS PLACEHOLDER BEHAVIOUR
 //=======================================
