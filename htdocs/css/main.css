@@ -127,7 +127,7 @@ textarea {
     font-style: normal;
 }
 @font-face {
-    font-family: 'open_sanssemibold';
+    font-family: 'opensans_semibold';
     src: url('../fonts/OpenSans-Semibold-webfont.eot');
     src: url('../fonts/OpenSans-Semibold-webfont.eot?#iefix') format('embedded-opentype'),
          url('../fonts/OpenSans-Semibold-webfont.woff') format('woff'),
@@ -140,6 +140,16 @@ textarea {
 /* ------------- FONT-FAMILY NAME: 'FontAwesome' --------------------------- */
 
 
+
+/*============================================
+                MINI RESETS
+=============================================*/
+ul{
+    list-style-type: none;
+}
+ul ul{
+    list-style-type: none;
+}
 
 /*============================================
                 BRANDING
@@ -216,7 +226,7 @@ textarea {
     width: 970px;
     padding: 20px 10px;
 /*    height: 380px;*/
-    background: rgba(0, 0, 0, 0.8);
+    background: rgba(0, 0, 0, 0.9);
     color: #333;
 }
 .footer mega-holder{
@@ -238,11 +248,6 @@ textarea {
     background: #f8f8f8;
     margin: 0 0 15px 0;
 }
-.footer-mega-head{
-    padding: 10px;
-    background: #f1f1f1;
-    margin: 0 0 15px 0;
-}
 .mega-flyout{
     display: none;
     padding: 0 0 0 15px!important;
@@ -254,6 +259,7 @@ textarea {
     cursor: pointer;
     color: #508abc;
     border-bottom: 1px dotted #ccc;
+    padding: 5px 0;
 }
 .mega-flyout li{
     margin-left: 40px;
@@ -439,7 +445,44 @@ footer{
     margin: 0 auto;
     padding: 25px 0;
 }
+#footer h2{
 
+    color: #00204E;
+    font-family: 'opensans_semibold';
+    font-size: 16px;
+}
+.footer-mega-head{
+    padding: 10px;
+    background: #f1f1f1;
+    margin: 0 0 15px 0;
+}
+#copyright-holder{
+    background: white;
+    padding: 20px;
+}
+#copyright-inner{
+    width: 960px;
+    margin: 0 auto;
+}
+#copyright{
+    color: #cdcdcd;
+    font-size: 11px;
+}
+#alt-menu li{
+    display: inline;
+    border-right: 1px solid #999;
+    padding: 0 15px;
+}
+#alt-menu li a{
+    color: #666;
+    text-decoration: none;
+}
+#alt-menu li a:hover{
+    color: #A22B38;
+}
+#last-alt{
+    border-right: 1px solid transparent!important;
+}
 /*============================================
                SIDEBAR STYLES
 =============================================*/
