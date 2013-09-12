@@ -22,6 +22,7 @@ $(document).ready(function(){
     
     $('.mega-list li').each(function(){
         $(this).bind('click', function(){
+            $('.mega-flyout').css('display', '');
             $(this).find('.mega-flyout').css('display', 'block');
         });
     });
@@ -33,6 +34,9 @@ $(document).ready(function(){
 $(".sidebar-select").click(function(){
     $(".sidebar-select-list").toggleClass("hidden");
 });
+
+//------------ TYRONE simply scroll init
+$("#scroller").simplyScroll();
 
 //=======================================
 //     INPUTS PLACEHOLDER BEHAVIOUR

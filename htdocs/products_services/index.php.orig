@@ -23,6 +23,8 @@
         <div id='contentwrap' class='clearfix'>
             <div id='body' class='left'>BODY</div>
             <div id='sidebar' class='left'>
+<<<<<<< HEAD
+=======
                 <?php
                 include "../includes/sidebar/widget-other-team-members.php";
                 include "../includes/sidebar/widget-az-product-listing.php"; 
@@ -35,13 +37,18 @@
                 include "../includes/sidebar/widget-archive.php";
                 include "../includes/sidebar/widget-prosperity-partnership.php";
                 ?>
+>>>>>>> 1c24460a40720a34aaa9695a52b8636172b2580c
             </div>
         </div>
         <!-- END BODY -->
         
         <!-- BEGIN FOOTER -->
         <footer>
+<<<<<<< HEAD
+            <?php include 'includes/footer.php' ?>
+=======
             <?php include '../includes/footer.php' ?>
+>>>>>>> 1c24460a40720a34aaa9695a52b8636172b2580c
         </footer>
         <!-- END FOOTER -->
     </body>

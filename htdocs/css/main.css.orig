@@ -170,12 +170,17 @@ ul ul{
     padding-top: 15px;
 }
 #slogan{
-    font-family: 'opensans-reg', 'Helvetica', 'Arial', sans-serif;
-    color: #00204E;/* BLUE DARK */
-    font-weight: bold;
+    font-family: 'open_sansbold', 'Arial', sans-serif;
+    font-size: 14px;
+    font-weight: 800;
+    color: #00204E;
     padding-top: 10px;
-    font-size: 16px;
+<<<<<<< HEAD
+    letter-spacing: -1px;
     text-transform: uppercase;
+=======
+    font-size: 16px;
+>>>>>>> 1c24460a40720a34aaa9695a52b8636172b2580c
 }
 
 /*============================================
