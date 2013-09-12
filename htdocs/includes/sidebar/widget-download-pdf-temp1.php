@@ -5,5 +5,5 @@
         <a href="#"><img src="../img/pdf-thumbs/temp1.jpg" /></a>
     </div>
     
-    <a class="sidebar-large-link" href="#">Download Now</a>
+    <a class="sidebar-large-link" href="#"><img src="../img/sidebars/icon-large-link.jpg" alt=">" />Download Now</a>
 </div>
