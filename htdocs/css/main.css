@@ -127,7 +127,7 @@ textarea {
     font-style: normal;
 }
 @font-face {
-    font-family: 'open_sanssemibold';
+    font-family: 'opensans_semibold';
     src: url('../fonts/OpenSans-Semibold-webfont.eot');
     src: url('../fonts/OpenSans-Semibold-webfont.eot?#iefix') format('embedded-opentype'),
          url('../fonts/OpenSans-Semibold-webfont.woff') format('woff'),
@@ -142,6 +142,16 @@ textarea {
 
 
 /*============================================
+                MINI RESETS
+=============================================*/
+ul{
+    list-style-type: none;
+}
+ul ul{
+    list-style-type: none;
+}
+
+/*============================================
                 BRANDING
 =============================================*/
 #branding{
@@ -154,6 +164,7 @@ textarea {
     color: #00204E;/* BLUE DARK */
     font-weight: bold;
     padding-top: 10px;
+    font-size: 16px;
 }
 
 /*============================================
@@ -165,12 +176,16 @@ textarea {
 .details{
     padding: 8px 20px;
     font-size: 14px;
+    font-family: 'opensans';
+}
+.details i, #house{
+    font-size: 20px;
 }
 .border-left{
     border-left: 1px solid #ccc;
 }
 #house{
-    padding:  10px 10px 5px 0;
+    padding: 5px 10px;
 }
 #main-nav{
     padding: 5px 15px;
@@ -210,8 +225,14 @@ textarea {
     top: 49px;
     width: 970px;
     padding: 20px 10px;
-    height: 380px;
-    background: rgba(0, 0, 0, 0.8);
+/*    height: 380px;*/
+    background: rgba(0, 0, 0, 0.9);
+    color: #333;
+}
+.footer mega-holder{
+    
+    width: 970px;
+    padding: 20px 10px;
     color: #333;
 }
 .mega-thirds{
@@ -235,8 +256,10 @@ textarea {
     padding: 0;
 }
 .mega-list li{
+    cursor: pointer;
     color: #508abc;
     border-bottom: 1px dotted #ccc;
+    padding: 5px 0;
 }
 .mega-flyout li{
     margin-left: 40px;
@@ -422,7 +445,44 @@ footer{
     margin: 0 auto;
     padding: 25px 0;
 }
+#footer h2{
 
+    color: #00204E;
+    font-family: 'opensans_semibold';
+    font-size: 16px;
+}
+.footer-mega-head{
+    padding: 10px;
+    background: #f1f1f1;
+    margin: 0 0 15px 0;
+}
+#copyright-holder{
+    background: white;
+    padding: 20px;
+}
+#copyright-inner{
+    width: 960px;
+    margin: 0 auto;
+}
+#copyright{
+    color: #cdcdcd;
+    font-size: 11px;
+}
+#alt-menu li{
+    display: inline;
+    border-right: 1px solid #999;
+    padding: 0 15px;
+}
+#alt-menu li a{
+    color: #666;
+    text-decoration: none;
+}
+#alt-menu li a:hover{
+    color: #A22B38;
+}
+#last-alt{
+    border-right: 1px solid transparent!important;
+}
 /*============================================
                SIDEBAR STYLES
 =============================================*/
@@ -433,6 +493,8 @@ footer{
 .list-icon { background-image: url('../img/sidebars/icon-list.jpg'); }
 .download-icon { background-image: url('../img/sidebars/icon-download-pdf.jpg'); }
 .contact-icon { background-image: url('../img/sidebars/icon-contact-us.jpg'); }
+.graph-icon { background-image: url('../img/sidebars/icon-graph.jpg'); }
+.team-icon { background-image: url('../img/sidebars/icon-team.jpg'); }
 
 #sidebar h1 {
     background-color: #4D89BD;
@@ -442,6 +504,7 @@ footer{
     padding: 13px 13px 13px 63px;
     margin: 0 0 30px 0;
     background-repeat: no-repeat;
+    font-weight: lighter;
 }
 
 #sidebar .widget .sidebar-select {
@@ -449,6 +512,7 @@ footer{
     padding: 14px 14px 14px 29px;
     font-size: 14px;
     cursor: pointer;
+    margin: 0 0 30px 0;
 }
 
 #sidebar .widget .sidebar-content-holder {
@@ -458,17 +522,26 @@ footer{
     margin: 0 0 30px 0;
 }
 
+#sidebar .widget .sidebar-form-holder {
+    background: #F8F8F8;
+    padding: 30px 30px;
+    text-align: center;
+    margin: 0 0 30px 0;
+}
+
 #sidebar .widget .sidebar-large-link {
     border-top: thin dotted #999;
     border-bottom: thin dotted #999;
     padding: 15px;
     display: block;
-    background: url('../img/sidebars/icon-large-link.jpg') no-repeat 84px 0px;
+    /*background: url('../img/sidebars/icon-large-link.jpg') no-repeat 84px 0px;*/
     text-align: center;
 }
 
-#sidebar p {
+#sidebar .widget .sidebar-form-holder p {
     text-align: left;
+    margin: 0;
+    padding: 0;
 }
 
 #sidebar .widget input, 
@@ -490,9 +563,23 @@ footer{
     padding: 11px 13px;
 }
 
+#sidebar .widget form {
+    margin: 30px 0 0 0;
+}
+
+#sidebar .widget form #contact-submit {
+    color: white;
+    background: url('../img/sidebars/icon-submit.jpg') no-repeat #B32C32 right;
+    text-align: left;
+    width: 120px;
+    height: 39px;
+    padding: 2px 0 0 20px;
+    margin: 30px 0 0 0;
+}
+
 #sidebar .widget ul {
     padding: 0;
-    margin: 30px 0 0 0;
+    margin: 0;
 }
 
 #sidebar .widget ul li {
@@ -506,6 +593,39 @@ footer{
 #sidebar .widget ul .last-li {
     border-bottom: thin dotted #999;
 }
+
+#sidebar .widget .team-row > div:first-child {
+    margin: 0 30px 30px 0;
+}
+
+#sidebar .widget .team-member {
+    float: left;
+    width: 135px;
+    margin: 0 0 30px 0;
+}
+
+#sidebar .widget .team-member img {
+    margin: 0 0 30px 0;
+}
+
+#sidebar .widget .team-member p {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+
+/* ==========================================================================
+                                FOOTER STYLES
+========================================================================== */
+.footer-thirds{
+    width: 30%;
+    outline: 1px dotted #00b3ff;
+}
+.footer-mid{
+    margin: 0 5%;
+}
+
 
 /* ==========================================================================
    Helper classes

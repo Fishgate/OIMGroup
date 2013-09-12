@@ -1,7 +1,9 @@
 <!-- BRANDING -->
 <div id="branding" class="clearfix">
     <div class="left">
-        <img src="../img/logo.png" alt="OIM Logo" />
+        <a href="../index.php">
+            <img src="../img/logo.png" alt="OIM Logo" />
+        </a>
     </div>
     <div id="slogan" class="right">Business Performance Specialist</div>
 </div>

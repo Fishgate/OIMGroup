@@ -32,10 +32,17 @@
                 </div>
             </div>
             <div id='sidebar' class='left'>
-                <?php 
+                <?php
+                include "../includes/sidebar/widget-other-team-members.php";
                 include "../includes/sidebar/widget-az-product-listing.php"; 
                 include "../includes/sidebar/widget-download-pdf-temp1.php"; 
                 include "../includes/sidebar/widget-contact-us.php"; 
+                include "../includes/sidebar/widget-enquiries.php"; 
+                include "../includes/sidebar/widget-more-about-oim.php";
+                include "../includes/sidebar/widget-client-case-studies.php";
+                include "../includes/sidebar/widget-categories.php";
+                include "../includes/sidebar/widget-archive.php";
+                include "../includes/sidebar/widget-prosperity-partnership.php";
                 ?>
             </div>
         </div>

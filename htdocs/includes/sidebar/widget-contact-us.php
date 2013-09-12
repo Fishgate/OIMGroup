@@ -1,13 +1,10 @@
 <div class="widget">
     <h1 class="contact-icon">Contact Us</h1>
     
-    <div class="sidebar-content-holder">
+    <div class="sidebar-form-holder">
         <p>Contact OIM for more information about Individual Performance Management</p>
-        <form>
-            <input type="text" data-placeholder="Name" value="Name" />
-            <input type="text" data-placeholder="Contact Number" value="Contact Number" />
-            <input type="text" data-placeholder="Email Address" value="Email Address" />
-            <textarea data-placeholder="Message">Message</textarea>
-        </form>
-    </div>    
+        <?php include "contact-form.php"; ?>
+    </div>
+    
+    <a class="sidebar-large-link" href="#"><img src="../img/sidebars/icon-large-link.jpg" alt=">" />Visit the Contact Us page</a>
 </div>
