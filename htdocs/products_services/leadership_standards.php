@@ -15,29 +15,71 @@
 
         <!-- BEGIN HEADER -->
         <header id='header'>
-            <?php include '../includes/header_products.php' ?>
+            <?php include '../includes/header_generic.php' ?>
         </header>
         <!-- END HEADER -->
 
         <!-- BEGIN BODY -->
         <div id='contentwrap' class='clearfix'>
             <div id='body' class='left'>
-                <div class='breadcrumb'><i class="icon-map-marker icon-large red"></i> &nbsp;YOU ARE HERE: <a href='#'>Products & Services</a> / <span class='red'>Individual Performance Management</span></div>
-                <h1>Individual Performance Management</h1>
-                <div class='caption'>Implement and sustain a customised <strong>performance management system</strong></div>
+                <div class='breadcrumb'><i class="icon-map-marker icon-large red"></i> &nbsp;YOU ARE HERE: <a href='#'>Products & Services</a> / <span class='red'>Leadership Standards</span></div>
+                <h1>Leadership Standards</h1>
+                <div class='caption'>Establish the standard for successful leadership</div>
                 <div class='copy'>
-                    <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. Typi non habent claritatem insitam; est usus legentis in iis qui facit eorum claritatem. Investigationes demonstraverunt lectores legere me lius quod ii legunt saepius. Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium lectorum. Mirum est notare quam littera gothica, quam nunc putamus parum claram, anteposuerit litterarum formas humanitatis per seacula quarta decima et quinta decima. Eodem modo typi, qui nunc nobis videntur parum clari, fiant sollemnes in futurum.</p>
-                    <p><h2>Our Offering</h2>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. Typi non habent claritatem insitam; est usus legentis in iis qui facit eorum claritatem. Investigationes demonstraverunt lectores legere me lius quod ii legunt saepius. Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium lectorum. Mirum est notare quam littera gothica, quam nunc putamus parum claram, anteposuerit litterarum formas humanitatis per seacula quarta decima et quinta decima. Eodem modo typi, qui nunc nobis videntur parum clari, fiant sollemnes in futurum.</p>
-                    <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. Typi non habent claritatem insitam; est usus legentis in iis qui facit eorum claritatem. Investigationes demonstraverunt lectores legere me lius quod ii legunt saepius. Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium lectorum. Mirum est notare quam littera gothica, quam nunc putamus parum claram, anteposuerit litterarum formas humanitatis per seacula quarta decima et quinta decima. Eodem modo typi, qui nunc nobis videntur parum clari, fiant sollemnes in futurum.</p>
+                    <p>Leaders are the undeniable drivers of your organisational culture and <strong>strategy implementation</strong>. Their behaviour and practices largely determine a business’ success or failure.</p>
+
+                    <p>OIM helps organisations to set out leadership standards that are in line with their business strategy.</p> 
+
+                    <p>After more than 25 years’ experience in business <strong>performance management</strong> we have concluded that the following leadership capabilities are required for a high-performing organisational culture:
+                        <ul>
+                            <li>Create shared purpose and direction
+                            <li>Establish functional alignment and focus</li>
+                            <li>Build credibility and the right climate</li>
+                            <li>Facilitate stakeholder engagement</li>
+                            <li>Enable continuous improvement</li>
+                            <li>Facilitate measurement and feedback</li>
+                        </ul>
+                    </p>
+
+                    <p>
+                    <strong>Manage leadership in an integrated way</strong><br/>
+                    Leadership standards cannot be defined or implemented in isolation. They form part of a larger organisational performance initiative and serve as a foundation for the integrated management of <strong>leadership development</strong>, including:
+                        <ul>
+                            <li><strong>Competency profiling:</strong> Use the standards framework to define the <strong>leadership skills</strong>, competencies, knowledge, attributes and attitudes required for each level.</li> 
+                            [link to competency profiling]
+                            <li><strong>Leadership assessments:</strong> Gain a more accurate picture of your leaders’ aptitudes, behavioural preferences, work styles, cultural fit and potential.</li>
+                            <li><strong>Leadership development:</strong> Use the competency profile and assessment outcomes as a basis for organisational and individual leadership development plans. This is a valuable performance tool to develop leaders in critical areas for business success.</li>
+                            <li><strong>Coaching:</strong> Where required, use one-on-one sessions to help leaders with career transitioning, identified development areas and leadership-specific challenges. </li>
+                            [link to coaching]
+                            <li><strong>Talent management:</strong> Leadership development should form a crucial part of your overall talent management. </li>
+                        [link to talent management]
+                        </ul>
+                    </p>
+
+                    <h2>The OIM difference</h2>
+                    <p>
+                        <ul>
+                            <li>We offer a comprehensive solution to define, assess, develop and manage your organisation’s leadership talent.</li>
+                            <li>OIM’s leadership talent team comprises registered industrial psychologists and organisational development practitioners with comprehensive experience in <strong>talent management, team dynamics</strong> and <strong>leadership development</strong>.</li>
+                            <li>The offering complements other OIM products and services.</li>
+                            <li>When drafting and conducting the competency assessments, we use a range of internationally benchmarked tools from <strong>talent management</strong> companies such as Saville, Shl, Insights and Bioss.</li>
+                        </ul>
+                    </p>
                 </div>
             </div>
-            <div id='sidebar' class='left'>SIDEBAR</div>
+            <div id='sidebar' class='left'>
+                <?php 
+                include "../includes/sidebar/widget-az-product-listing.php"; 
+                include "../includes/sidebar/widget-download-pdf-temp1.php"; 
+                include "../includes/sidebar/widget-contact-us.php"; 
+                ?>
+            </div>
         </div>
         <!-- END BODY -->
         
         <!-- BEGIN FOOTER -->
         <footer>
-            <?php include '../includes/footer.php' ?>
+            <?php include '../includes/footer_generic.php' ?>
         </footer>
         <!-- END FOOTER -->
     </body>

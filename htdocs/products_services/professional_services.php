@@ -15,29 +15,73 @@
 
         <!-- BEGIN HEADER -->
         <header id='header'>
-            <?php include '../includes/header_products.php' ?>
+            <?php include '../includes/header_generic.php' ?>
         </header>
         <!-- END HEADER -->
 
         <!-- BEGIN BODY -->
         <div id='contentwrap' class='clearfix'>
             <div id='body' class='left'>
-                <div class='breadcrumb'><i class="icon-map-marker icon-large red"></i> &nbsp;YOU ARE HERE: <a href='#'>Products & Services</a> / <span class='red'>Individual Performance Management</span></div>
-                <h1>Individual Performance Management</h1>
-                <div class='caption'>Implement and sustain a customised <strong>performance management system</strong></div>
+                <div class='breadcrumb'><i class="icon-map-marker icon-large red"></i> &nbsp;YOU ARE HERE: <a href='#'>Products & Services</a> / <span class='red'>Professional Services</span></div>
+                <h1>Professional Services</h1>
+                <div class='caption'>IT systems: Specialised resources and <strong>project management</strong></div>
                 <div class='copy'>
-                    <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. Typi non habent claritatem insitam; est usus legentis in iis qui facit eorum claritatem. Investigationes demonstraverunt lectores legere me lius quod ii legunt saepius. Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium lectorum. Mirum est notare quam littera gothica, quam nunc putamus parum claram, anteposuerit litterarum formas humanitatis per seacula quarta decima et quinta decima. Eodem modo typi, qui nunc nobis videntur parum clari, fiant sollemnes in futurum.</p>
-                    <p><h2>Our Offering</h2>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. Typi non habent claritatem insitam; est usus legentis in iis qui facit eorum claritatem. Investigationes demonstraverunt lectores legere me lius quod ii legunt saepius. Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium lectorum. Mirum est notare quam littera gothica, quam nunc putamus parum claram, anteposuerit litterarum formas humanitatis per seacula quarta decima et quinta decima. Eodem modo typi, qui nunc nobis videntur parum clari, fiant sollemnes in futurum.</p>
-                    <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. Typi non habent claritatem insitam; est usus legentis in iis qui facit eorum claritatem. Investigationes demonstraverunt lectores legere me lius quod ii legunt saepius. Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium lectorum. Mirum est notare quam littera gothica, quam nunc putamus parum claram, anteposuerit litterarum formas humanitatis per seacula quarta decima et quinta decima. Eodem modo typi, qui nunc nobis videntur parum clari, fiant sollemnes in futurum.</p>
+                   <p>OIM’s <strong>operations management</strong> consultants have been assisting clients with the implementation of IT systems to help them achieve optimised business effectiveness since the late ’90s.</p>
+
+                    <p><strong>The outcome is applied systems, configured to meet your operational and strategic business requirements.</strong></p>
+
+                    <h2>Our offering</h2>
+
+                    <p><strong>Project management</strong><br/>OIM regularly manages IT projects on behalf of clients, including helping them with:
+                        <ul>
+                            <li>System selection</li>
+                            <li>System implementation</li>
+                            <li>Turnkey solutions</li>
+                        </ul>
+                    </p>
+
+                    <p>Various methodologies are used to ensure the successful implementation of projects, including SDLC and Agile. We also have extensive experience in <strong>business process management</strong> technologies such as workflow and electronic content management (ECM).</p>
+
+                    <p><strong>Specialised resources</strong><br/>OIM has a network of specialists who can be placed on IT projects, including: 
+                            <ul>
+                                <li><strong>Programme managers:</strong> To manage multiple projects in a programme</li>
+                                <li><strong>Project managers:</strong> To implement a specific IT project</li>
+                                <li><strong>Process analysts:</strong> To map processes for various architectural needs in the IT environment</li>
+                                <li><strong>Business analysts:</strong> To create business and functional specifications for the design and testing of systems</li>
+                            </ul>
+                    </p>
+
+                    <h2>The OIM difference</h2>
+
+                    <p>
+                        <ul>
+                            <li>Our experienced <strong>operations management</strong> consultants have worked on systems in the following areas:</li>
+                            <ul>
+                                <li>Point of sale</li>
+                                <li>Call centres</li>
+                                <li>Line of business (LOB)</li>
+                                <li>Electronic content management (ECM) and workflow</li> 
+                                <li>New business applications</li>
+                            </ul>
+                            <li>Clients that have benefited from our expertise in systems management include Absa Life, Metropolitan, Mutual & Federal, Old Mutual, Sanlam, Southern Sun, Clickatell and Clicks.</li>
+                            <li>Clients also have access to OIM’s expertise in organisational improvement and people management. This includes <strong>strategic planning, business architecture, leadership development, employee relations</strong> and <strong>employee engagement</strong>. All of these solutions are seamlessly implemented by specialists in the core business areas.</li>
+                        </ul>
+                    </p>
                 </div>
             </div>
-            <div id='sidebar' class='left'>SIDEBAR</div>
+            <div id='sidebar' class='left'>
+                <?php 
+                include "../includes/sidebar/widget-az-product-listing.php"; 
+                include "../includes/sidebar/widget-download-pdf-temp1.php"; 
+                include "../includes/sidebar/widget-contact-us.php"; 
+                ?>
+            </div>
         </div>
         <!-- END BODY -->
         
         <!-- BEGIN FOOTER -->
         <footer>
-            <?php include '../includes/footer.php' ?>
+            <?php include '../includes/footer_generic.php' ?>
         </footer>
         <!-- END FOOTER -->
     </body>

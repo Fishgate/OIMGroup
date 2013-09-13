@@ -2,7 +2,7 @@
     <h1 class="contact-icon">Contact Us</h1>
     
     <div class="sidebar-form-holder">
-        <p>Contact OIM for more information about Individual Performance Management</p>
+        <p>Contact OIM for more information</p>
         <?php include "contact-form.php"; ?>
     </div>
     

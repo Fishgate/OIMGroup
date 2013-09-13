@@ -13,22 +13,22 @@
                 <ul>
                     <li>
                         <i class="icon-angle-right blue"></i>
-                        <a href="#">Employee engagement (INVOCOMS)</a>
+                        <a>Employee engagement (INVOCOMS)</a>
                     </li>
                     <li>
                         <i class="icon-angle-right blue"></i>
-                        <a href="#">Leadership and team interventions</a>
+                        <a>Leadership and team interventions</a>
                         <ul class="mega-flyout">
                             <li>TWO</li>
                         </ul>
                     </li>
                     <li>
                         <i class="icon-angle-right blue"></i>
-                        <a href="#">Supervisory skills</a>
+                        <a>Supervisory skills</a>
                     </li>
                     <li>
                         <i class="icon-angle-right blue"></i>
-                        <a href="#">Talent management</a>
+                        <a>Performance and talent management</a>
                     </li>
                 </ul>
             </div>
@@ -41,22 +41,22 @@
                 <ul>
                     <li>
                         <i class="icon-angle-right blue"></i>
-                        <a href="#">Business strategy development</a>
+                        <a>Business strategy</a>
                     </li>
                     <li>
                         <i class="icon-angle-right blue"></i>
-                        <a href="#">Business architecture</a>
+                        <a>Business architecture</a>
                         <ul class="mega-flyout">
                             <li>TWO</li>
                         </ul>
                     </li>
                     <li>
                         <i class="icon-angle-right blue"></i>
-                        <a href="#">Employee relations</a>
+                        <a>Employee relations</a>
                     </li>
                     <li>
                         <i class="icon-angle-right blue"></i>
-                        <a href="#">Stakeholder perception surveys</a>
+                        <a>Stakeholder perception surveys</a>
                     </li>
                 </ul>
             </div>
@@ -69,22 +69,22 @@
                 <ul>
                     <li>
                         <i class="icon-angle-right blue"></i>
-                        <a href="#">Business/operations review</a>
+                        <a>Business/operations review</a>
                     </li>
                     <li>
                         <i class="icon-angle-right blue"></i>
-                        <a href="#">Operations management interventions</a>
+                        <a>Operations management interventions</a>
                         <ul class="mega-flyout">
                             <li>TWO</li>
                         </ul>
                     </li>
                     <li>
                         <i class="icon-angle-right blue"></i>
-                        <a href="#">Continuous improvement</a>
+                        <a>Continuous improvement</a>
                     </li>
                     <li>
                         <i class="icon-angle-right blue"></i>
-                        <a href="#">IT systems management and project resourcing</a>
+                        <a>IT systems management & project resourcing</a>
                     </li>
                 </ul>
             </div>
@@ -101,9 +101,11 @@
         <div id="alt-menu" class="right">
             <nav>
                 <ul>
-                    <li><a href="#">Home</a></li>
-                    <li><a href="#">About OIM</a></li>
-                    <li id="last-alt"><a href="#">Contact</a></li>
+                    <li><a>Home</a></li>
+                    <li><a>About OIM</a></li>
+                    <li><a>Contact</a></li>
+                    <li><a>Privacy Policy</a></li>
+                    <li id="last-alt"><a>Sitemap</a></li>
                 </ul>
             </nav>
         </div>

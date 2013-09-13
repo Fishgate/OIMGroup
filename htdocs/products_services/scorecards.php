@@ -15,44 +15,45 @@
 
         <!-- BEGIN HEADER -->
         <header id='header'>
-            <?php include '../includes/header_products.php' ?>
+            <?php include '../includes/header_generic.php' ?>
         </header>
         <!-- END HEADER -->
 
         <!-- BEGIN BODY -->
         <div id='contentwrap' class='clearfix'>
             <div id='body' class='left'>
-                <div class='breadcrumb'><i class="icon-map-marker icon-large red"></i> &nbsp;YOU ARE HERE: <a href='#'>Products & Services</a> / <span class='red'>Coaching</span></div>
-                <h1>Coaching</h1>
-                <div class='caption'>Improve performance time and again</div>
+                <div class='breadcrumb'><i class="icon-map-marker icon-large red"></i> &nbsp;YOU ARE HERE: <a href='#'>Products & Services</a> / <span class='red'>Scorecards</span></div>
+                <h1>Scorecards</h1>
+                <div class='caption'>Translate strategy into performance</div>
                 <div class='copy'>
-                    <p>The benefits of coaching to develop personal effectiveness and enhance overall work performance are widely recognised.</p>
+                    <p>Scorecards play a crucial role in organisational, team and individual performance management. They are used to translate strategic priorities to all organisational levels to establish overall alignment and a collective focus on the right goals and targets.</p>
 
-                    <p>OIM’s coaching solutions offer lateral thinking techniques within a wide framework of coaching methods and tools to improve individual effectiveness.</p> 
+                    <p>Using a structured approach, OIM’s scorecard development process aligns functional and team performance to the business strategy and standard operational areas. We clearly define goals and targets and cascade them throughout the business to accurately reflect level and content of work. This ensures that all functions add value to the business based on a common understanding of the organisational goals.</p>
 
-                    <p>They address a wide spectrum of competencies, including communication and interpersonal skills, management performance, conflict resolution, self-confidence, decision making, problem solving, attitudes and preparation for a new role.</p>
+                    <p>We also train staff in the use of scorecards and the contracting of performance.</p>
 
                     <h2>Our offering</h2>
-
-                    <p>OIM offers coaching solutions in the following vital development paths:</p>
-
-                    <p><strong>Career-transitioning coaching</strong><br/>
-                    People often find it challenging when transitioning from one job level to another where they are expected to display higher skills levels and manage the delegation of duties for which they used to be responsible. OIM’s coaching supports them through this challenging, yet vital process, and helps them to operate more effectively at their new job level.</p>
-
-                    <p><strong>Performance improvement coaching</strong><br/>
-                    A focused and customised intervention that equips people with the skills to overcome problems in identified development areas.</p>
-
-                    <p><strong>Leadership coaching</strong><br/>
-                    Leadership coaching targets the specific objectives and challenges facing leaders and provides support to develop the skills they require.</p>
-
-                    <h2>The OIM difference</h2>
-
                     <p>
                         <ul>
-                            <li>OIM’s coaching team comprises registered industrial psychologists and organisational development practitioners with years’ experience in talent management, team dynamics and leadership development.</li>
-                            <li>They have successfully run coaching interventions at executive, middle management, first-line leadership and team levels in sectors such as finance, retail and manufacturing.</li>
-                            <li>OIM’s coaches are trained in a wide range of leading coaching methodologies and are affiliated to the professional body, Coaches and Mentors of South Africa (Comensa).</li>
-                        </ul>                    
+                            <li><strong>Consultation and scorecard design:</strong> Managing and facilitating the scorecard process. This includes reaching agreement on design principles, templates, roll-out method and timelines. An inclusive approach is adopted when designing the scorecards to generate a sense of ownership and buy-in among line managers.</li>
+                            <li><strong>Training:</strong> Equipping leaders with the necessary skills to design and manage scorecards and agree on a performance contract with teams/individuals.</li>
+                            <li><strong>Toolkit:</strong> Designing and customising a toolkit for ease of implementation, eg templates and user guides.</li>
+                        </ul>
+                    </p>
+
+                    <p><strong>The link with strategy, operational goals and individual performance</strong> 
+                    Scorecards are the tool that links strategy with operational goals as well as team and individual performance. OIM has the expertise to assist clients with strategic planning, developing operational scorecards, setting up teams to manage their <a href='invocoms.php'>own performance</a> and <a href='individual_performance_management.php'>individual performance</a>, allowing for a seamless integration of the scorecard process with performance.
+                    </p>
+
+                    <h2>The OIM difference</h2>
+                    <p>
+                        <ul>
+                            <li>OIM’s integrated approach ensures that scorecards – and therefore performance management – are incorporated in the day-to-day running of the organisation.</li>  
+                            <li>Our process includes vertical and horizontal alignment, thereby addressing business processes and areas such as value chain performance that are often poorly managed in organisations.</li> 
+                            <li>Our offering enables an organisation to seamlessly execute its strategy, align teams and individuals and achieve engagement and buy-in.</li>
+                            <li>Our approach is based on OIM’s proven performance improvement methodology and its basic performance elements, being clear purpose and direction, alignment and focus, effective leadership, business process/system integration and “knowing the score” through continuous performance measurement and improvement.</li> 
+                            <li>We enable an organisation to develop and implement team performance scorecards that are managed using OIM’s employee engagement methodology, INVOCOM®.</li>
+                        </ul>
                     </p>
                 </div>
             </div>
@@ -68,7 +69,7 @@
         
         <!-- BEGIN FOOTER -->
         <footer>
-            <?php include '../includes/footer.php' ?>
+            <?php include '../includes/footer_generic.php' ?>
         </footer>
         <!-- END FOOTER -->
     </body>

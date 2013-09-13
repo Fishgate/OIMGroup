@@ -68,7 +68,7 @@
         
         <!-- BEGIN FOOTER -->
         <footer>
-            <?php include '../includes/footer_generic.php' ?>
+            <?php include '../includes/footer.php' ?>
         </footer>
         <!-- END FOOTER -->
     </body>
