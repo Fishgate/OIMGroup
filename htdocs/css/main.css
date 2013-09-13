@@ -233,7 +233,7 @@ ul ul{
     margin-left: -495px;
     left: -999px;
 /*    left: 50%;*/
-    top: 49px;
+    top: 52px;
     width: 970px;
     padding: 20px 10px;
 /*    height: 380px;*/
@@ -284,7 +284,7 @@ ul ul{
     position: absolute;
     margin-left: -480px;
     left: 50%;
-    top: 499px;
+    top: 497px;
     z-index: 100;
     width: 960px;
 }
@@ -547,6 +547,7 @@ footer{
 #copyright{
     color: #cdcdcd;
     font-size: 11px;
+    padding-top: 13px;
 }
 #alt-menu li{
     display: inline;

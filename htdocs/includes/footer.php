@@ -103,7 +103,9 @@
                 <ul>
                     <li><a>Home</a></li>
                     <li><a>About OIM</a></li>
-                    <li id="last-alt"><a>Contact</a></li>
+                    <li><a>Contact</a></li>
+                    <li><a>Privacy Policy</a></li>
+                    <li id="last-alt"><a>Sitemap</a></li>
                 </ul>
             </nav>
         </div>
