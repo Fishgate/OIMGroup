@@ -1,3 +1,5 @@
+<?php require_once '../config.php'; ?>
+
 <!DOCTYPE html>
 <!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
 <!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
@@ -5,7 +7,7 @@
 <!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
     <head>
         <!-- BEGIN HEAD -->
-        <?php include '../includes/styles_generic.php' ?>
+        <?php include '../includes/styles.php' ?>
         <!-- END HEAD -->
     </head>
     <body>
@@ -15,7 +17,7 @@
 
         <!-- BEGIN HEADER -->
         <header id='header'>
-            <?php include '../includes/header_generic.php' ?>
+            <?php include '../includes/header.php' ?>
         </header>
         <!-- END HEADER -->
 
@@ -68,7 +70,7 @@
         
         <!-- BEGIN FOOTER -->
         <footer>
-            <?php include '../includes/footer_generic.php' ?>
+            <?php include '../includes/footer.php' ?>
         </footer>
         <!-- END FOOTER -->
     </body>
