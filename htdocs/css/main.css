@@ -232,12 +232,17 @@ ul ul{
     z-index: 999;
     margin-left: -495px;
     left: -999px;
-    top: 52px;    
+    top: 47px;    
     width: 970px;
-    padding: 20px 10px;
-    background: rgba(0, 0, 0, 0.9);
+    padding: 5px 0 0 0;    
     color: #333;
 }
+
+.mega-holder .mega-bg {
+    background: rgba(0, 0, 0, 0.9);
+    padding: 20px 10px;
+}
+
 .footer mega-holder{
     
     width: 970px;
