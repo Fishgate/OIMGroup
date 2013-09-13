@@ -344,12 +344,50 @@ body{
 
 
 /* ==========================================================================
-                               SECONDARY FULL WIDTH
+                     SECONDARY FULL WIDTH - Methodology page
    ========================================================================== */
 .secondary-full-width{
     width: 100%;
-    padding: 25px 0;
+    margin-bottom: 50px;
 }
+.meth-block{
+    padding: 20px;
+    width: 27.835%;
+/*    outline: 1px solid red;*/
+    margin-bottom: 2%;
+    color: #fff;
+    height: 120px;
+    font-family: 'opensans', 'Helvetica', 'Arial', sans-serif;
+}
+.meth-block ul{
+    margin: 0;
+    padding: 0 0 0 20px;
+}
+.meth-block ul li{
+    list-style-type: disc;
+}
+.meth-head{
+    height: auto;
+    padding: 0 20px;
+    font-family: 'Helvetica', 'Arial', sans-serif;
+}
+.meth-divider{
+    width: 2%;
+}
+.meth-divider i{
+    padding: 5px 10px;
+    background: #fff;
+    position: relative;
+    left: -3px;
+    top: 67px;
+}
+
+.bg-blue-dk{background: #203256;}
+.bg-blue-md{background: #1C4E7F;}
+.bg-blue-lt{background: #6784AE;}
+.bg-red{background: #A93938;}
+.bg-green{background: #528E8E;}
+.bg-purple{background: #702238;}
 /* ==========================================================================
                                BODY 3 OVERVIEWS
    ========================================================================== */
