@@ -431,7 +431,7 @@ body{
     color: #508abc;/* OIM BLUE LT */
 }
 
-#contentwrap h1{
+#contentwrap h1, .member-name{
     color: #999;
     font-family: 'opensans', 'Arial', sans-serif;
     font-size: 25px;
@@ -791,6 +791,10 @@ footer{
 #meet-team i{
     margin: 0 10px 0 0;
     line-height: 1em;
+}
+.response-img{
+    min-width: 100%;
+    max-width: 100%;
 }
 /* ==========================================================================
                                 FOOTER STYLES
