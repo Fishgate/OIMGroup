@@ -2,7 +2,7 @@
 /**
  * Holds constants/variables used in the configuration of the application.
  *
- * @author Kyle Vermeulen <kyle@source-lab.co.za>
+ * @author Kyle Vermeulen <kyle@source-lab.co.za> <kyle@fishgate.co.za>
  */
 
 /**
@@ -14,7 +14,7 @@
 define('DB_HOST',       'localhost');
 define('DB_NAME',       'OIMGroup');
 define('DB_USERNAME',   'root');
-define('DB_PASSWORD',   'root');
+define('DB_PASSWORD',   '');
 define('DB_LOGS_TBL',   'contactlogs');
 
 /**

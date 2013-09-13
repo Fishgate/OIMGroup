@@ -2,9 +2,9 @@
 //     RESPONSIVE SLIDES
 //============================
 // Slideshow 1
-      $("#slider1").responsiveSlides({
-        "timeout": 10000
-      });
+$("#slider1").responsiveSlides({
+"timeout": 10000
+});
 
 //============================
 //     MEGAMENU CONTROL
@@ -39,7 +39,7 @@ $(".sidebar-select").click(function(){
 $("#scroller").simplyScroll();
 
 //=======================================
-//     INPUTS PLACEHOLDER BEHAVIOUR
+//     INPUTS PLACEHOLDER BEHAVIOUR 
 //=======================================
 $("input, textarea").bind({
     focus: function() {
@@ -65,3 +65,11 @@ $("input, textarea").bind({
         }
     }
 });
+
+
+//=======================
+//     CONTACT FORM
+//=======================
+if($("#contact-form").length > 0){
+    
+}
