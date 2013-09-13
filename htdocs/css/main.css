@@ -342,6 +342,14 @@ body{
     margin-top: 30px;
 }
 
+
+/* ==========================================================================
+                               SECONDARY FULL WIDTH
+   ========================================================================== */
+.secondary-full-width{
+    width: 100%;
+    padding: 25px 0;
+}
 /* ==========================================================================
                                BODY 3 OVERVIEWS
    ========================================================================== */
@@ -441,6 +449,9 @@ body{
 .dotted-top-bottom{
     border-top: 1px dotted #999;
     border-bottom: 1px dotted #999;
+}
+.dotted-top{
+    border-top: 1px dotted #999;
 }
 /* ==========================================================================
    Product Styles
@@ -579,6 +590,7 @@ footer{
 .contact-icon { background-image: url('../img/sidebars/icon-contact-us.jpg'); }
 .graph-icon { background-image: url('../img/sidebars/icon-graph.jpg'); }
 .team-icon { background-image: url('../img/sidebars/icon-team.jpg'); }
+.methodology-icon { background-image: url('../img/sidebars/icon-methodology.jpg'); }
 
 #sidebar h1 {
     background-color: #4D89BD;

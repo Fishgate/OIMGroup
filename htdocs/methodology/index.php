@@ -22,47 +22,24 @@
         <!-- BEGIN BODY -->
         <div id='contentwrap' class='clearfix'>
             <div id='body' class='left'>
-                <div class='breadcrumb'><i class="icon-map-marker icon-large red"></i> &nbsp;YOU ARE HERE: <a href='#'>Products & Services</a> / <span class='red'>Coaching</span></div>
-                <h1>Coaching</h1>
-                <div class='caption'>Improve performance time and again</div>
+                <div class='breadcrumb'><i class="icon-map-marker icon-large red"></i> &nbsp;YOU ARE HERE: <a href='#'>Our Methodology</a></div>
+                <h1>Our Methodology</h1>
                 <div class='copy'>
-                    <p>The benefits of coaching to develop personal effectiveness and enhance overall work performance are widely recognised.</p>
-
-                    <p>OIM’s coaching solutions offer lateral thinking techniques within a wide framework of coaching methods and tools to improve individual effectiveness.</p> 
-
-                    <p>They address a wide spectrum of competencies, including communication and interpersonal skills, management performance, conflict resolution, self-confidence, decision making, problem solving, attitudes and preparation for a new role.</p>
-
-                    <h2>Our offering</h2>
-
-                    <p>OIM offers coaching solutions in the following vital development paths:</p>
-
-                    <p><strong>Career-transitioning coaching</strong><br/>
-                    People often find it challenging when transitioning from one job level to another where they are expected to display higher skills levels and manage the delegation of duties for which they used to be responsible. OIM’s coaching supports them through this challenging, yet vital process, and helps them to operate more effectively at their new job level.</p>
-
-                    <p><strong>Performance improvement coaching</strong><br/>
-                    A focused and customised intervention that equips people with the skills to overcome problems in identified development areas.</p>
-
-                    <p><strong>Leadership coaching</strong><br/>
-                    Leadership coaching targets the specific objectives and challenges facing leaders and provides support to develop the skills they require.</p>
-
-                    <h2>The OIM difference</h2>
-
-                    <p>
-                        <ul>
-                            <li>OIM’s coaching team comprises registered industrial psychologists and organisational development practitioners with years’ experience in talent management, team dynamics and leadership development.</li>
-                            <li>They have successfully run coaching interventions at executive, middle management, first-line leadership and team levels in sectors such as finance, retail and manufacturing.</li>
-                            <li>OIM’s coaches are trained in a wide range of leading coaching methodologies and are affiliated to the professional body, Coaches and Mentors of South Africa (Comensa).</li>
-                        </ul>                    
-                    </p>
+                    <p></p>
                 </div>
             </div>
             <div id='sidebar' class='left'>
                 <?php 
-                include "../includes/sidebar/widget-az-product-listing.php"; 
-                include "../includes/sidebar/widget-download-pdf-temp1.php"; 
-                include "../includes/sidebar/widget-contact-us.php"; 
+                include "../includes/sidebar/widget-methodology.php";
                 ?>
             </div>
+            <!-- BEGIN FULL WIDTH SECTION -->
+                <div class="left dotted-top secondary-full-width clearfix">
+                    <div class="left">ONE</div>
+                    <div class="left">22</div>
+                    <div class="left">333</div>
+                </div>
+            <!-- END FULL WIDTH SECTION -->
         </div>
         <!-- END BODY -->
         
