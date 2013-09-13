@@ -433,9 +433,22 @@ body{
     font-weight: 300;
 }
 
-#body h1 {
+#body h1{
     display: block;
     width: 585px;
+    height: 50px;
+    background-color: #4E8ABE;
+    font-family: 'opensans', 'Arial', sans-serif;
+    font-size: 24px;
+    font-weight: 300;
+    line-height: 2em;
+    color: #FFF !important;
+    margin-top: 30px; 
+    padding-left: 30px;
+}
+.full-width h1 {
+    display: block;
+    /*width: 585px;*/
     height: 50px;
     background-color: #4E8ABE;
     font-family: 'opensans', 'Arial', sans-serif;
@@ -751,7 +764,29 @@ footer{
     text-align: center;
 }
 
-
+/* ==========================================================================
+   TEAM Styles
+   ========================================================================== */
+.profile{
+    width: 15%;
+    margin-right: 2%;
+}
+.profile img{
+    min-width: 100%;
+    max-width: 100%;
+}
+.last-profile{
+    margin-right: 0;
+}
+#meet-team{
+    display: inline-block;
+    padding: 10px;
+    margin: 50px 0;
+}
+#meet-team i{
+    margin: 0 10px 0 0;
+    line-height: 1em;
+}
 /* ==========================================================================
                                 FOOTER STYLES
 ========================================================================== */
