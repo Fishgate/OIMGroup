@@ -5,7 +5,7 @@
 <!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
     <head>
         <!-- BEGIN HEAD -->
-        <?php include '../includes/styles_generic.php' ?>
+        <?php include '../includes/styles.php' ?>
         <!-- END HEAD -->
     </head>
     <body>
@@ -15,7 +15,7 @@
 
         <!-- BEGIN HEADER -->
         <header id='header'>
-            <?php include '../includes/header_generic.php' ?>
+            <?php include '../includes/header.php' ?>
         </header>
         <!-- END HEADER -->
 
@@ -110,7 +110,7 @@
         
         <!-- BEGIN FOOTER -->
         <footer>
-            <?php include '../includes/footer_generic.php' ?>
+            <?php include '../includes/footer.php' ?>
         </footer>
         <!-- END FOOTER -->
     </body>

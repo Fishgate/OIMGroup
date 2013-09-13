@@ -232,11 +232,9 @@ ul ul{
     z-index: 999;
     margin-left: -495px;
     left: -999px;
-/*    left: 50%;*/
-    top: 52px;
+    top: 52px;    
     width: 970px;
     padding: 20px 10px;
-/*    height: 380px;*/
     background: rgba(0, 0, 0, 0.9);
     color: #333;
 }

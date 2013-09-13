@@ -1,4 +1,3 @@
-$(document).ready(function(){
 //============================
 //     RESPONSIVE SLIDES
 //============================
@@ -10,21 +9,20 @@ $(document).ready(function(){
 //============================
 //     MEGAMENU CONTROL
 //============================
-    $('.menu-item').each(function(){
-        $(this).mouseenter(function(){
-           $(this).find('.mega-holder').css('left', '50%');
-        });
-        $(this).mouseleave(function(){
-           $(this).find('.mega-holder').css('left', '');
-           $('.mega-flyout').css('display', '');
-        });
+$('.menu-item').each(function(){
+    $(this).mouseenter(function(){
+       $(this).find('.mega-holder').css('left', '50%');
     });
-    
-    $('.mega-list li').each(function(){
-        $(this).bind('click', function(){
-            $('.mega-flyout').css('display', '');
-            $(this).find('.mega-flyout').css('display', 'block');
-        });
+    $(this).mouseleave(function(){
+       $(this).find('.mega-holder').css('left', '');
+       $('.mega-flyout').css('display', '');
+    });
+});
+
+$('.mega-list li').each(function(){
+    $(this).bind('click', function(){
+        $('.mega-flyout').css('display', '');
+        $(this).find('.mega-flyout').css('display', 'block');
     });
 });
 

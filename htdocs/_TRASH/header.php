@@ -1,9 +1,7 @@
 <!-- BRANDING -->
 <div id="branding" class="clearfix">
     <div class="left">
-        <a href="../index.php">
-            <img src="../img/logo.png" alt="OIM Logo" />
-        </a>
+        <img src="img/logo.png" alt="OIM Logo" />
     </div>
     <div id="slogan" class="right">Business Performance Specialists</div>
 </div>
@@ -17,15 +15,15 @@
     <div id="nav-holder" class="left"><!-- TOP LVL NAV -->
         <div class="left menu-item methodology_toplvl">
             Our Methodology&nbsp;<i class="icon-angle-down"></i>
-            <?php include '../includes/mega-methodology.php' ?>
+            <?php include 'includes/mega-methodology.php' ?>
         </div>
         <div class="left menu-item products_toplvl">
             Products &amp; Services&nbsp;<i class="icon-angle-down"></i>
-            <?php include '../includes/mega-products.php' ?>
+            <?php include 'includes/mega-products.php' ?>
         </div>
         <div class="left menu-item contact_toplvl">
             Contact&nbsp;<i class="icon-angle-down"></i>
-            <?php include '../includes/mega-contact.php' ?>
+            <?php include 'includes/mega-contact.php' ?>
         </div>
     </div>
     <div class="right clearfix"><!-- CONTACT DETAILS -->
@@ -42,12 +40,25 @@
 <div style="height: 420px; overflow: hidden;">
     <ul class="rslides" id="slider1" style="margin: 0 auto;">
       <li>
-<!--          CALL TO ACTION COMMENTED OUT-->
-<!--          <div class="calltoaction">
+          <div class="calltoaction">
               <span class="quote">In an ever-changing world,<br />constant improvement is an integral part<br />of continued success</span>
               <div class="button">Read More &nbsp;<i class="icon-angle-right icon-large"></i></div>
-          </div>-->
-          <img src="../img/1.jpg" alt="">
+          </div>
+          <img src="img/1.jpg" alt="">
+      </li>
+      <li>
+          <div class="calltoaction">
+              <span class="quote">Adventure Time!<br />with Jake the dog<br />and Fin the human</span>
+              <div class="button">Read More &nbsp;<i class="icon-angle-right icon-large"></i></div>
+          </div>
+          <img src="img/2.jpg" alt="">
+      </li>
+      <li>
+          <div class="calltoaction">
+              <span class="quote">Yoghurt Factory,<br />possibly the worst place<br />you could imagine</span>
+              <div class="button">Read More &nbsp;<i class="icon-angle-right icon-large"></i></div>
+          </div>
+          <img src="img/3.jpg" alt="">
       </li>
     </ul>
 </div>
