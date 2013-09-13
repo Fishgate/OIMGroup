@@ -15,29 +15,84 @@
 
         <!-- BEGIN HEADER -->
         <header id='header'>
-            <?php include '../includes/header_products.php' ?>
+            <?php include '../includes/header_generic.php' ?>
         </header>
         <!-- END HEADER -->
 
         <!-- BEGIN BODY -->
         <div id='contentwrap' class='clearfix'>
             <div id='body' class='left'>
-                <div class='breadcrumb'><i class="icon-map-marker icon-large red"></i> &nbsp;YOU ARE HERE: <a href='#'>Products & Services</a> / <span class='red'>Individual Performance Management</span></div>
-                <h1>Individual Performance Management</h1>
-                <div class='caption'>Implement and sustain a customised <strong>performance management system</strong></div>
+                <div class='breadcrumb'><i class="icon-map-marker icon-large red"></i> &nbsp;YOU ARE HERE: <a href='#'>Products & Services</a> / <span class='red'>Strategic Planning</span></div>
+                <h1>Strategic Planning</h1>
+                <div class='caption'>Stay on course, current and competitive</div>
                 <div class='copy'>
-                    <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. Typi non habent claritatem insitam; est usus legentis in iis qui facit eorum claritatem. Investigationes demonstraverunt lectores legere me lius quod ii legunt saepius. Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium lectorum. Mirum est notare quam littera gothica, quam nunc putamus parum claram, anteposuerit litterarum formas humanitatis per seacula quarta decima et quinta decima. Eodem modo typi, qui nunc nobis videntur parum clari, fiant sollemnes in futurum.</p>
-                    <p><h2>Our Offering</h2>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. Typi non habent claritatem insitam; est usus legentis in iis qui facit eorum claritatem. Investigationes demonstraverunt lectores legere me lius quod ii legunt saepius. Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium lectorum. Mirum est notare quam littera gothica, quam nunc putamus parum claram, anteposuerit litterarum formas humanitatis per seacula quarta decima et quinta decima. Eodem modo typi, qui nunc nobis videntur parum clari, fiant sollemnes in futurum.</p>
-                    <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. Typi non habent claritatem insitam; est usus legentis in iis qui facit eorum claritatem. Investigationes demonstraverunt lectores legere me lius quod ii legunt saepius. Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium lectorum. Mirum est notare quam littera gothica, quam nunc putamus parum claram, anteposuerit litterarum formas humanitatis per seacula quarta decima et quinta decima. Eodem modo typi, qui nunc nobis videntur parum clari, fiant sollemnes in futurum.</p>
+                    <p>At OIM we understand that the <strong>strategic planning</strong> and thinking process isn’t a once-off event. If you want to remain current and competitive you need continuous review and alignment.</p>
+
+                    <p>We partner with organisations to help facilitate and establish this process. The outcome is:
+                        <ul>
+                            <li><strong>A well-planned strategy</strong>
+                                <ul>
+                                    <li>Informed by sound research and debate.</li>
+                                    <li>With clearly articulated implementation plans.</li>
+                                </ul>
+                            </li>
+                            <li><strong>Internal capability </strong>
+                                <ul>
+                                    <li>A method for ongoing reviews.</li>
+                                    <li>A database that guides decision making.</li>
+                                </ul>
+                            </li>
+                            <li><strong>Execution methodology</strong>
+                                <ul>
+                                <li>To ensure everyone in the organisations is engaged and focused on the performance goals and plays their part in strategy execution.</li>
+                                <li>Relevant tools for communication and <strong>strategy implementation</strong>, eg business and functional scorecards.</li>
+                                </ul>
+                            </li>
+                        </ul>
+                    </p>
+
+
+                    <h2>Our offering</h2>
+
+                    <p>
+                    <strong>OIM can facilitate:</strong>
+                        <ul>
+                            <li>A comprehensive <strong>strategic planning</strong> intervention spanning about three months.</li> 
+                            <li>A one- or two-day workshop to re-focus priorities and action plans.</li>
+                            <li>Regular strategic reviews and updates.</li>
+                        </ul>
+                    </p>
+
+                    <h2>The OIM difference</h2>
+
+                    <p>
+                        <ul>
+                            <li>We do not believe in consultant dependency. Therefore sustainability, inclusivity and building internal capacity for the design, implementation and execution of strategy are key elements in our process.</li>
+                            <li>An inherent part of this approach is the establishment of a framework for ongoing reviews.</li>
+                            <li>We have successfully facilitated <strong>strategic planning</strong> interventions for a range of clients, many of whom still rely on our expertise to help facilitate workshops or interventions at critical junctures in their business journey.</li>
+                            <li>OIM has also been leaders in the field of employee engagement (INVOCOM) since the early 80s with implementation in a range of industries and countries. INVOCOM is the execution methodology we establish at organisations as part of the <strong>strategic planning</strong> offering.</li>
+                            <li>If required, clients also have access to the expertise embedded in the rest of OIM’s specialist areas, namely organisational performance improvement, operational optimisation and people management.</li> 
+                        </ul>
+                    </p>
+                    
+                    <p><i>"The annual strategy review is a key element of Iliad's corporate calendar. This process needs to address the relevant issues in a structured way, delivering a meaningful set of outcomes essential to the wellbeing of the business. The OIM team has shown the ability to understand our requirements in this regard and delivered an effective framework for our ongoing future use. They are a valued 'member' of our strategy review team - their role is highly respected and much appreciated."
+                    </i><br/>Eugene Beneke, CEO: Iliad</p> 
+
                 </div>
             </div>
-            <div id='sidebar' class='left'>SIDEBAR</div>
+            <div id='sidebar' class='left'>
+                <?php 
+                include "../includes/sidebar/widget-az-product-listing.php"; 
+                include "../includes/sidebar/widget-download-pdf-temp1.php"; 
+                include "../includes/sidebar/widget-contact-us.php"; 
+                ?>
+            </div>
         </div>
         <!-- END BODY -->
         
         <!-- BEGIN FOOTER -->
         <footer>
-            <?php include '../includes/footer.php' ?>
+            <?php include '../includes/footer_generic.php' ?>
         </footer>
         <!-- END FOOTER -->
     </body>

@@ -28,7 +28,7 @@
                     </li>
                     <li>
                         <i class="icon-angle-right blue"></i>
-                        <a>Talent management</a>
+                        <a>Performance and talent management</a>
                     </li>
                 </ul>
             </div>
@@ -41,7 +41,7 @@
                 <ul>
                     <li>
                         <i class="icon-angle-right blue"></i>
-                        <a>Business strategy development</a>
+                        <a>Business strategy</a>
                     </li>
                     <li>
                         <i class="icon-angle-right blue"></i>
@@ -84,7 +84,7 @@
                     </li>
                     <li>
                         <i class="icon-angle-right blue"></i>
-                        <a>IT systems management and project resourcing</a>
+                        <a>IT systems management & project resourcing</a>
                     </li>
                 </ul>
             </div>

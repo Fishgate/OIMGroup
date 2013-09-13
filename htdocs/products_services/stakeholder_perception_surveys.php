@@ -15,29 +15,68 @@
 
         <!-- BEGIN HEADER -->
         <header id='header'>
-            <?php include '../includes/header_products.php' ?>
+            <?php include '../includes/header_generic.php' ?>
         </header>
         <!-- END HEADER -->
 
         <!-- BEGIN BODY -->
         <div id='contentwrap' class='clearfix'>
             <div id='body' class='left'>
-                <div class='breadcrumb'><i class="icon-map-marker icon-large red"></i> &nbsp;YOU ARE HERE: <a href='#'>Products & Services</a> / <span class='red'>Individual Performance Management</span></div>
-                <h1>Individual Performance Management</h1>
-                <div class='caption'>Implement and sustain a customised <strong>performance management system</strong></div>
+                <div class='breadcrumb'><i class="icon-map-marker icon-large red"></i> &nbsp;YOU ARE HERE: <a href='#'>Products & Services</a> / <span class='red'>Stakeholder Perception Surveys</span></div>
+                <h1>Stakeholder Perception Surveys</h1>
+                <div class='caption'>Gaining insight to inform strategy</div>
                 <div class='copy'>
-                    <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. Typi non habent claritatem insitam; est usus legentis in iis qui facit eorum claritatem. Investigationes demonstraverunt lectores legere me lius quod ii legunt saepius. Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium lectorum. Mirum est notare quam littera gothica, quam nunc putamus parum claram, anteposuerit litterarum formas humanitatis per seacula quarta decima et quinta decima. Eodem modo typi, qui nunc nobis videntur parum clari, fiant sollemnes in futurum.</p>
-                    <p><h2>Our Offering</h2>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. Typi non habent claritatem insitam; est usus legentis in iis qui facit eorum claritatem. Investigationes demonstraverunt lectores legere me lius quod ii legunt saepius. Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium lectorum. Mirum est notare quam littera gothica, quam nunc putamus parum claram, anteposuerit litterarum formas humanitatis per seacula quarta decima et quinta decima. Eodem modo typi, qui nunc nobis videntur parum clari, fiant sollemnes in futurum.</p>
-                    <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. Typi non habent claritatem insitam; est usus legentis in iis qui facit eorum claritatem. Investigationes demonstraverunt lectores legere me lius quod ii legunt saepius. Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium lectorum. Mirum est notare quam littera gothica, quam nunc putamus parum claram, anteposuerit litterarum formas humanitatis per seacula quarta decima et quinta decima. Eodem modo typi, qui nunc nobis videntur parum clari, fiant sollemnes in futurum.</p>
+                    <p>At OIM we believe you manage what you measure.</p> 
+
+                    <p>By asking the right stakeholders the right questions, our surveys create new insights that guide you to make informed decisions and shape your strategies and tactics.</p>
+
+                    <p>OIM offers a range of customised surveys that measure key business perception indicators.</p>
+
+                    <h2>Our offering</h2>
+                    
+                    <p>
+                    <strong>Surveys</strong>
+                        <ul>
+                            <li>Culture surveys</li>
+                            <li>Employee satisfaction surveys</li>
+                            <li>Leadership surveys</li>
+                            <li>Communication effectiveness surveys</li>
+                            <li>Customer perception surveys</li>
+                            <li>Supplier perception surveys</li>
+                        </ul>
+                    </p>
+
+                    <p>These surveys are used to measure the way internal and external stakeholders perceive your organisational practices in areas such as leadership, teamwork, reward and recognition, communication, engagement, policies and procedures, organisational vision and goals, structure and roles. The results can inform future interventions or evaluate the success of past interventions.</p>
+
+                    <p><strong>Action-plan development</strong><br/>
+                    OIM offers action-plan development and implementation support to ensure the survey results are used for continuous improvement. 
+                    </p>
+
+                    <h2>The OIM difference</h2>
+                    <p>
+                        <ul>
+                            <li>What sets OIM’s offering apart from its competitors is that clients own their survey data. Our web-based surveys offer various client-based data-management options, making them extremely cost effective and giving clients ready access to the analysis of results.</li>
+                            <li>OIM not only has the expertise to manage surveys on your behalf, we also have the knowledge and experience to recommend the required action and assist you with implementation thanks to the specialists in our key business areas: organisational performance improvement, operational optimisation and people management.</li> 
+                            <li>Various service options are available, from clients being responsible for data collection and OIM for the data analysis and reporting to outsourcing the entire process to us to develop and validate the survey, administer data collection and do the analysis, reporting and interpretation.</li>
+                            <li>Our perception surveys enable organisations to monitor progress from various angles against set organisational systems, parameters and individual behaviours.</li>
+                            <li>When working with new clients we recommend a baseline study to provide an objective benchmark for gap analyses, customised questionnaires and action plans in key performance areas.</li> 
+                        </ul>
+                    </p>
                 </div>
             </div>
-            <div id='sidebar' class='left'>SIDEBAR</div>
+            <div id='sidebar' class='left'>
+                <?php 
+                include "../includes/sidebar/widget-az-product-listing.php"; 
+                include "../includes/sidebar/widget-download-pdf-temp1.php"; 
+                include "../includes/sidebar/widget-contact-us.php"; 
+                ?>
+            </div>
         </div>
         <!-- END BODY -->
         
         <!-- BEGIN FOOTER -->
         <footer>
-            <?php include '../includes/footer.php' ?>
+            <?php include '../includes/footer_generic.php' ?>
         </footer>
         <!-- END FOOTER -->
     </body>

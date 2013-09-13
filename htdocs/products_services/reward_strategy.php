@@ -15,29 +15,74 @@
 
         <!-- BEGIN HEADER -->
         <header id='header'>
-            <?php include '../includes/header_products.php' ?>
+            <?php include '../includes/header_generic.php' ?>
         </header>
         <!-- END HEADER -->
 
         <!-- BEGIN BODY -->
         <div id='contentwrap' class='clearfix'>
             <div id='body' class='left'>
-                <div class='breadcrumb'><i class="icon-map-marker icon-large red"></i> &nbsp;YOU ARE HERE: <a href='#'>Products & Services</a> / <span class='red'>Individual Performance Management</span></div>
-                <h1>Individual Performance Management</h1>
-                <div class='caption'>Implement and sustain a customised <strong>performance management system</strong></div>
+                <div class='breadcrumb'><i class="icon-map-marker icon-large red"></i> &nbsp;YOU ARE HERE: <a href='#'>Products & Services</a> / <span class='red'>Reward Consultation</span></div>
+                <h1>Reward Consultation</h1>
+                <div class='caption'>Develop a reward strategy to attract, motivate and retain key talent</div>
                 <div class='copy'>
-                    <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. Typi non habent claritatem insitam; est usus legentis in iis qui facit eorum claritatem. Investigationes demonstraverunt lectores legere me lius quod ii legunt saepius. Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium lectorum. Mirum est notare quam littera gothica, quam nunc putamus parum claram, anteposuerit litterarum formas humanitatis per seacula quarta decima et quinta decima. Eodem modo typi, qui nunc nobis videntur parum clari, fiant sollemnes in futurum.</p>
-                    <p><h2>Our Offering</h2>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. Typi non habent claritatem insitam; est usus legentis in iis qui facit eorum claritatem. Investigationes demonstraverunt lectores legere me lius quod ii legunt saepius. Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium lectorum. Mirum est notare quam littera gothica, quam nunc putamus parum claram, anteposuerit litterarum formas humanitatis per seacula quarta decima et quinta decima. Eodem modo typi, qui nunc nobis videntur parum clari, fiant sollemnes in futurum.</p>
-                    <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. Typi non habent claritatem insitam; est usus legentis in iis qui facit eorum claritatem. Investigationes demonstraverunt lectores legere me lius quod ii legunt saepius. Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium lectorum. Mirum est notare quam littera gothica, quam nunc putamus parum claram, anteposuerit litterarum formas humanitatis per seacula quarta decima et quinta decima. Eodem modo typi, qui nunc nobis videntur parum clari, fiant sollemnes in futurum.</p>
+                    <p>If you want to attract, motivate and retain key talent − and drive positive behaviour and performance throughout your organisation − you must have a well-designed reward strategy that is aligned to your business goals.</p> 
+
+                    <p>Reward is an overarching philosophy to remunerate, recognise and incentivise through monetary and non-monetary means.</p>
+
+                    <p>OIM helps organisations to design and align their reward strategies by:
+                        <ul>
+                            <li>Defining and co-designing the reward philosophy and strategy.</li>
+                            <li>Developing remuneration policies to support the strategy.</li>
+                            <li>Facilitating the implementation of remuneration practices to ensure sustained support and alignment with the chosen strategy.</li>
+                            <li>Providing practical guidance to ensure that the human resources function focuses on policy development and maintenance, while line management governs remuneration autonomously following agreed guidelines.</li>
+                        </ul>
+                    </p>
+
+                    <h2>Our offering</h2>
+
+                    <p>
+                        <ul>
+                            <li><strong>Reward strategy and policy design</strong><br/>
+                            The co-design of a customised reward philosophy and strategy, aligned with your business and human resources strategies and supported by remuneration policies and practices.</li> 
+
+                            <li><strong>Job and remuneration package benchmarking</strong><br/>
+                            The benchmarking of individual posts and/or job levels across the board against an externally selected market. This ensures external and internal equity in respect of job complexity, remuneration practices and pay levels. The outcome serves as a foundation for many other human resource processes, including <strong>performance management, talent management</strong> and <strong>succession planning</strong>.</li>
+
+                            <li><strong>Variable pay structuring</strong><br/>
+                            The design and implementation of variable pay schemes (short- and long-term incentives) as part of the total remuneration package. This is essential if you want to attract, retain and motivate key talent, and drive and reward positive behaviour across the board.</li> 
+
+                            <li><strong>Mergers: Pay and benefits comparison/alignment</strong><br/>
+                            The comparison and alignment of pay and fringe benefit structures and practices during mergers and acquisitions in accordance with the requirements of the Labour Relations Act.</li>
+                        </ul>
+                    </p>
+
+                    <h2>The OIM difference</h2>
+
+                    <p>
+                        <ul>
+                            <li>Drawing on OIM’s experience, we co-design solutions based on client needs.</li>
+                            <li>We have successfully implemented reward solutions across several industries, for both medium-sized and large companies.</li>
+                            <li>Our approach is aligned with business strategy and integrates with the scorecard process and other people management focus areas in your business.</li> 
+                            <li>We build internal capacity by equipping human resource functions with the necessary skills and knowledge to implement reward solutions in a sustainable way.</li>
+                            <li>The offering complements other OIM products and services.</li>
+                        </ul>
+                    </p>
                 </div>
             </div>
-            <div id='sidebar' class='left'>SIDEBAR</div>
+            <div id='sidebar' class='left'>
+                <?php 
+                include "../includes/sidebar/widget-az-product-listing.php"; 
+                include "../includes/sidebar/widget-download-pdf-temp1.php"; 
+                include "../includes/sidebar/widget-contact-us.php"; 
+                ?>
+            </div>
         </div>
         <!-- END BODY -->
         
         <!-- BEGIN FOOTER -->
         <footer>
-            <?php include '../includes/footer.php' ?>
+            <?php include '../includes/footer_generic.php' ?>
         </footer>
         <!-- END FOOTER -->
     </body>
