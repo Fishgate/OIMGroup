@@ -232,14 +232,17 @@ ul ul{
     z-index: 999;
     margin-left: -495px;
     left: -999px;
-/*    left: 50%;*/
-    top: 52px;
+    top: 47px;    
     width: 970px;
-    padding: 20px 10px;
-/*    height: 380px;*/
-    background: rgba(0, 0, 0, 0.9);
+    padding: 5px 0 0 0;    
     color: #333;
 }
+
+.mega-holder .mega-bg {
+    background: rgba(0, 0, 0, 0.9);
+    padding: 20px 10px;
+}
+
 .footer mega-holder{
     
     width: 970px;
@@ -342,6 +345,52 @@ body{
     margin-top: 30px;
 }
 
+
+/* ==========================================================================
+                     SECONDARY FULL WIDTH - Methodology page
+   ========================================================================== */
+.secondary-full-width{
+    width: 100%;
+    margin-bottom: 50px;
+}
+.meth-block{
+    padding: 20px;
+    width: 27.835%;
+/*    outline: 1px solid red;*/
+    margin-bottom: 2%;
+    color: #fff;
+    height: 120px;
+    font-family: 'opensans', 'Helvetica', 'Arial', sans-serif;
+}
+.meth-block ul{
+    margin: 0;
+    padding: 0 0 0 20px;
+}
+.meth-block ul li{
+    list-style-type: disc;
+}
+.meth-head{
+    height: auto;
+    padding: 0 20px;
+    font-family: 'Helvetica', 'Arial', sans-serif;
+}
+.meth-divider{
+    width: 2%;
+}
+.meth-divider i{
+    padding: 5px 10px;
+    background: #fff;
+    position: relative;
+    left: -3px;
+    top: 67px;
+}
+
+.bg-blue-dk{background: #203256;}
+.bg-blue-md{background: #1C4E7F;}
+.bg-blue-lt{background: #6784AE;}
+.bg-red{background: #A93938;}
+.bg-green{background: #528E8E;}
+.bg-purple{background: #702238;}
 /* ==========================================================================
                                BODY 3 OVERVIEWS
    ========================================================================== */
@@ -389,9 +438,22 @@ body{
     font-weight: 300;
 }
 
-#body h1 {
+#body h1{
     display: block;
     width: 585px;
+    height: 50px;
+    background-color: #4E8ABE;
+    font-family: 'opensans', 'Arial', sans-serif;
+    font-size: 24px;
+    font-weight: 300;
+    line-height: 2em;
+    color: #FFF !important;
+    margin-top: 30px; 
+    padding-left: 30px;
+}
+.full-width h1 {
+    display: block;
+    /*width: 585px;*/
     height: 50px;
     background-color: #4E8ABE;
     font-family: 'opensans', 'Arial', sans-serif;
@@ -445,6 +507,9 @@ body{
 .dotted-top-bottom{
     border-top: 1px dotted #999;
     border-bottom: 1px dotted #999;
+}
+.dotted-top{
+    border-top: 1px dotted #999;
 }
 /* ==========================================================================
    Product Styles
@@ -582,6 +647,7 @@ footer{
 .contact-icon { background-image: url('../img/sidebars/icon-contact-us.jpg'); }
 .graph-icon { background-image: url('../img/sidebars/icon-graph.jpg'); }
 .team-icon { background-image: url('../img/sidebars/icon-team.jpg'); }
+.methodology-icon { background-image: url('../img/sidebars/icon-methodology.jpg'); }
 
 #sidebar h1 {
     background-color: #4D89BD;
@@ -703,7 +769,29 @@ footer{
     text-align: center;
 }
 
-
+/* ==========================================================================
+   TEAM Styles
+   ========================================================================== */
+.profile{
+    width: 15%;
+    margin-right: 2%;
+}
+.profile img{
+    min-width: 100%;
+    max-width: 100%;
+}
+.last-profile{
+    margin-right: 0;
+}
+#meet-team{
+    display: inline-block;
+    padding: 10px;
+    margin: 50px 0;
+}
+#meet-team i{
+    margin: 0 10px 0 0;
+    line-height: 1em;
+}
 /* ==========================================================================
                                 FOOTER STYLES
 ========================================================================== */

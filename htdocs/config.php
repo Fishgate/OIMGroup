@@ -14,7 +14,7 @@
 define('DB_HOST',       'localhost');
 define('DB_NAME',       'OIMGroup');
 define('DB_USERNAME',   'root');
-define('DB_PASSWORD',   '');
+define('DB_PASSWORD',   'root');
 define('DB_LOGS_TBL',   'contactlogs');
 
 /**
@@ -29,7 +29,7 @@ define('ADMIN_NAME', 'Kyle');
  * getting exceptions thrown at them, set to true/false.
  * 
  */
-define('DEV', false);
+define('DEV', true);
 define('DEV_EMAIL', 'kyle@fishgate.co.za, tyrone@fishgate.co.za');
 
 /**
@@ -37,18 +37,17 @@ define('DEV_EMAIL', 'kyle@fishgate.co.za, tyrone@fishgate.co.za');
  *
  */
 $root = pathinfo($_SERVER['SCRIPT_FILENAME']);
+define('ABS_PATH',      dirname(__FILE__));
 define('BASE_FOLDER',   basename($root['dirname']));
 define('SITE_ROOT',     realpath(dirname(__FILE__)));
 define('SITE_URL',      'http://'.$_SERVER['HTTP_HOST'].'/'.BASE_FOLDER);
-define('ERROR_LOG',     SITE_ROOT.'/logs/errors.txt');
-define('TEMPLATE_DIR',  SITE_ROOT.'/templates/');
 
 /**
  * Setup autoloader to initiate classes with ease.
  *
  */
 function __autoload($className) {
-    require_once "./classes/$className.php";
+    require_once "../classes/$className.php";
 }
 
 ?>
