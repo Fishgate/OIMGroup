@@ -15,7 +15,7 @@
 
         <!-- BEGIN HEADER -->
         <header id='header'>
-            <?php include '../includes/header_products.php' ?>
+            <?php include '../includes/header_generic.php' ?>
         </header>
         <!-- END HEADER -->
 
@@ -33,6 +33,8 @@
 <p>The methodology can be likened to a coach setting up his players for success. It entails reviewing the team’s previous performance and match results, setting goals for the next game, analysing the opposition and obstacles and agreeing the game plan with clearly allocated individual responsibilities. This all happens against the backdrop of continuous improvement and everyone understanding their role, the strategy and the opposition they will encounter.</p>
 
 <p>Similarly the INVOCOM methodology is used to review team performance, set goals, identify obstacles, agree actions and evaluate conduct to ensure high performance and appropriate behaviour in day-to-day operations.</p>
+
+<p><img src='../img/image_invocoms.jpg' /></p>
 
 <h2>The outcome of effective INVOCOM methodology</h2>
 
@@ -94,7 +96,7 @@ Several products form part of a comprehensive INVOCOM roll-out, but implementati
         
         <!-- BEGIN FOOTER -->
         <footer>
-            <?php include '../includes/footer.php' ?>
+            <?php include '../includes/footer_generic.php' ?>
         </footer>
         <!-- END FOOTER -->
     </body>

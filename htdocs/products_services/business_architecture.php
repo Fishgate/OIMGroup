@@ -15,7 +15,7 @@
 
         <!-- BEGIN HEADER -->
         <header id='header'>
-            <?php include '../includes/header_products.php' ?>
+            <?php include '../includes/header_generic.php' ?>
         </header>
         <!-- END HEADER -->
 
@@ -37,11 +37,11 @@
                     <p>OIM’s <strong>business architecture</strong> offering <strong>aligns</strong> the following elements with your business strategy: 
                         <ul>
                             <li><strong>Strategic initiatives:</strong> The strategy is transformed into strategic initiatives to create a common focus throughout the organisation.</li>
-                            <li><strong>Business scorecards:</strong> These initiatives are translated into measurable goals and targets to allow for implementation and ongoing performance evaluation. [Read more - click through to scorecards]</li>        
+                            <li><strong>Business scorecards:</strong> These initiatives are translated into measurable goals and targets to allow for implementation and ongoing performance evaluation...<a href='scorecards.php'>Read more</a></li>        
                             <li><strong>Organisational structure:</strong> We define the high-level structure of the business’ capabilities and functional abilities that are required for strategy execution.</li>
                             <li><strong>Operational structure:</strong> The organisational structure is unpacked into a detailed operational structure for all levels, outlining roles and responsibilities, functional scorecards, performance standards, resources and controls.</li> 
-                            <li><strong>Business processes and productivity standards:</strong> To optimise efficiency and ensure compliance, business capabilities and functional abilities are set out in business rules (policies and procedures), processes and standard operating procedures (SOPs). [Read more - click through to interventions]</li>           
-                            <li><strong>Business systems:</strong> We project manage the implementation of IT systems to meet your business architecture requirements. [Read more - click through to professional services]</li>           
+                            <li><strong>Business processes and productivity standards:</strong> To optimise efficiency and ensure compliance, business capabilities and functional abilities are set out in business rules (policies and procedures), processes and standard operating procedures (SOPs)...<a href='operations_management_interventions.php'>Read more</a></li>           
+                            <li><strong>Business systems:</strong> We project manage the implementation of IT systems to meet your business architecture requirements...<a href='professional_services.php'>Read more</a></li>           
                         </ul>
                     </p>
 
@@ -77,7 +77,7 @@
         
         <!-- BEGIN FOOTER -->
         <footer>
-            <?php include '../includes/footer.php' ?>
+            <?php include '../includes/footer_generic.php' ?>
         </footer>
         <!-- END FOOTER -->
     </body>

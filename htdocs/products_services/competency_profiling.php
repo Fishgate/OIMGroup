@@ -15,7 +15,7 @@
 
         <!-- BEGIN HEADER -->
         <header id='header'>
-            <?php include '../includes/header_products.php' ?>
+            <?php include '../includes/header_generic.php' ?>
         </header>
         <!-- END HEADER -->
 
@@ -24,7 +24,7 @@
             <div id='body' class='left'>
                 <div class='breadcrumb'><i class="icon-map-marker icon-large red"></i> &nbsp;YOU ARE HERE: <a href='#'>Products & Services</a> / <span class='red'>Competency Profiling</span></div>
                 <h1>Competency Profiling</h1>
-                <div class='caption'>A framework against which to assess, develop and manage your organisation’s talent</div>
+                <div class='caption'>A framework against which to assess, develop & manage your organisation’s talent</div>
                 <div class='copy'>
                     <p>Competency profiling is an essential component of HR management. It identifies the competencies – skills, knowledge, attributes and attitudes – required for each job level or role to optimise your organisation’s performance.</p>
 
@@ -64,7 +64,7 @@
         
         <!-- BEGIN FOOTER -->
         <footer>
-            <?php include '../includes/footer.php' ?>
+            <?php include '../includes/footer_generic.php' ?>
         </footer>
         <!-- END FOOTER -->
     </body>

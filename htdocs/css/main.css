@@ -170,11 +170,11 @@ ul ul{
     padding-top: 15px;
 }
 #slogan{
-    font-family: 'opensans-reg', 'Helvetica', 'Arial', sans-serif;
+    font-family: 'open_sansbold', 'Helvetica', 'Arial', sans-serif;
     color: #00204E;/* BLUE DARK */
-    font-weight: bold;
+    font-weight: 800;
     padding-top: 10px;
-    font-size: 16px;
+    font-size: 14px;
     text-transform: uppercase;
 }
 
@@ -429,6 +429,10 @@ body{
     text-transform: uppercase;
 }
 
+#body strong {
+    color: #00204E;
+}
+
 .h2-custom{
     display: inline-block;
     color: #00204E;
@@ -538,11 +542,10 @@ footer{
     padding: 25px 0;
 }
 #footer h2{
-
-    color: #00204E;
-    font-family: 'opensans_semibold';
+    font-family: 'open_sansbold', 'Arial', sans-serif;
     font-size: 14px;
     font-weight: 800;
+    color: #00204E;
     text-transform: uppercase;
 }
 .footer-mega-head{

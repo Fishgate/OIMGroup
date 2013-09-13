@@ -15,29 +15,63 @@
 
         <!-- BEGIN HEADER -->
         <header id='header'>
-            <?php include '../includes/header_products.php' ?>
+            <?php include '../includes/header_generic.php' ?>
         </header>
         <!-- END HEADER -->
 
         <!-- BEGIN BODY -->
         <div id='contentwrap' class='clearfix'>
             <div id='body' class='left'>
-                <div class='breadcrumb'><i class="icon-map-marker icon-large red"></i> &nbsp;YOU ARE HERE: <a href='#'>Products & Services</a> / <span class='red'>Individual Performance Management</span></div>
-                <h1>Individual Performance Management</h1>
-                <div class='caption'>Implement and sustain a customised <strong>performance management system</strong></div>
+                <div class='breadcrumb'><i class="icon-map-marker icon-large red"></i> &nbsp;YOU ARE HERE: <a href='#'>Products & Services</a> / <span class='red'>Supervisory Skills</span></div>
+                <h1>Supervisory Skills</h1>
+                <div class='caption'>The critical fit between <strong>supervisory skills</strong> and measurable operational results</div>
                 <div class='copy'>
-                    <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. Typi non habent claritatem insitam; est usus legentis in iis qui facit eorum claritatem. Investigationes demonstraverunt lectores legere me lius quod ii legunt saepius. Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium lectorum. Mirum est notare quam littera gothica, quam nunc putamus parum claram, anteposuerit litterarum formas humanitatis per seacula quarta decima et quinta decima. Eodem modo typi, qui nunc nobis videntur parum clari, fiant sollemnes in futurum.</p>
-                    <p><h2>Our Offering</h2>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. Typi non habent claritatem insitam; est usus legentis in iis qui facit eorum claritatem. Investigationes demonstraverunt lectores legere me lius quod ii legunt saepius. Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium lectorum. Mirum est notare quam littera gothica, quam nunc putamus parum claram, anteposuerit litterarum formas humanitatis per seacula quarta decima et quinta decima. Eodem modo typi, qui nunc nobis videntur parum clari, fiant sollemnes in futurum.</p>
-                    <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. Typi non habent claritatem insitam; est usus legentis in iis qui facit eorum claritatem. Investigationes demonstraverunt lectores legere me lius quod ii legunt saepius. Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium lectorum. Mirum est notare quam littera gothica, quam nunc putamus parum claram, anteposuerit litterarum formas humanitatis per seacula quarta decima et quinta decima. Eodem modo typi, qui nunc nobis videntur parum clari, fiant sollemnes in futurum.</p>
+                    <p>It’s a well-known fact that South Africa suffers from a skills shortage. This is a growing concern across several industries and most economists agree that it poses a significant threat to the country’s long-term economic growth.</p> 
+
+                    <p>Middle management and supervisors are among the categories that are most affected. Given the crucial role supervisors play daily as the drivers of sustainable workforce productivity, it is particularly important to equip them with the necessary knowledge and skills to optimally perform their functions.</p>
+
+                    <p><strong>We have designed an intervention that addresses a fundamental weakness in supervisory development – the ability to transfer classroom knowledge to the workplace, resulting in operational improvements.</strong></p>
+
+                    <h2>Our offering</h2>
+                    <p>OIM offers a multidisciplinary intervention that will:
+                        <ul>
+                            <li><strong>Define</strong> what supervisors need to do – an internationally benchmarked framework outlining the required competencies and capabilities.</li> 
+                            <li><strong>Assess</strong> supervisors against these competencies to determine the development needs, establish a baseline and track progress. Supervisors undergo a series of pre- and post-assessments while operations solutions consultants conduct regular on-the-floor evaluations.</li> 
+                            <li><strong>Develop supervisory skills</strong> through an 80-20 intervention. This is a unique blend of classroom training and assignments (20% focus), complemented by on-the-floor coaching and evaluations (80% focus). This approach bridges the learning transfer gap by ensuring that knowledge is properly applied in the workplace while clients benefit from ongoing operational optimisation.</li>
+                            <li><strong>Manage talent </strong> through a model that includes recruitment, retention, succession planning and leadership development in your organisation.</li>
+                        </ul>
+                    </p>
+
+                    <p>You may find programmes that offer these elements in isolation, but few present them as a single intervention led by a multidisciplinary team of specialists with years of experience in performance improvement, process and operational optimisation, and leadership development.</p>
+
+                    <h2>The OIM difference</h2>
+                    <p>OIM’s <strong>supervisory skills</strong> offering provides you with: 
+                        <ul>
+                            <li>A programme that is aligned to your company’s strategy, culture and specific leadership requirements.</li>
+                            <li>A programme that measures the intervention effectiveness against improved operational performance, efficiency and throughput.</li>
+                            <li>A multidisciplinary team of experienced business consultants in the areas of performance improvement, process and operational optimisation, and <strong>leadership development</strong>.</li>
+                            <li>A competency framework that is benchmarked against international leadership competencies and proven elements for high-performing organisations.</li>
+                            <li>An emphasis on skills transfer: On-the-floor coaching and evaluations (80% of development intervention) complemented by classroom training and assignments.</li>
+                            <li>Coaching by specialists in operational optimisation who also help design workforce, process and other operational solutions.</li> 
+                            <li>A series of pre- and post-assessments, measuring both psychometrics and operational results.</li>
+                            <li>If required, clients also benefit from the expertise embedded in all OIM’s core business areas, namely people management, operational optimisation and organisational performance improvement. Other services include <strong>strategic planning, business process management, leadership development, employee relations</strong> and <strong>individual performance management</strong>.</li>
+                        </ul>
+                    </p>
                 </div>
             </div>
-            <div id='sidebar' class='left'>SIDEBAR</div>
+            <div id='sidebar' class='left'>
+                <?php 
+                include "../includes/sidebar/widget-az-product-listing.php"; 
+                include "../includes/sidebar/widget-download-pdf-temp1.php"; 
+                include "../includes/sidebar/widget-contact-us.php"; 
+                ?>
+            </div>
         </div>
         <!-- END BODY -->
         
         <!-- BEGIN FOOTER -->
         <footer>
-            <?php include '../includes/footer.php' ?>
+            <?php include '../includes/footer_generic.php' ?>
         </footer>
         <!-- END FOOTER -->
     </body>

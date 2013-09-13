@@ -60,7 +60,13 @@
                     </p>
                 </div>
             </div>
-            <div id='sidebar' class='left'>SIDEBAR</div>
+            <div id='sidebar' class='left'>
+                <?php 
+                include "../includes/sidebar/widget-az-product-listing.php"; 
+                include "../includes/sidebar/widget-download-pdf-temp1.php"; 
+                include "../includes/sidebar/widget-contact-us.php"; 
+                ?>
+            </div>
         </div>
         <!-- END BODY -->
         
