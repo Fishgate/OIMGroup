@@ -7,3 +7,14 @@ example the LIKE icon probably needs a FB library.
 The DOWNLOAD and PRINT will require custom JS written, also what documents do they download...
 
 The EMAIL icon needs to mailto a designated person, who is it?   eg: person@email.co.za
+
+
+
+
+
+-------------------------------
+TEAM
+-------------------------------
+Need profile photos of each team member (team>index.php)
+
+Individual team member pages(team>team_member_chris.php) ect, they all need images inserted
