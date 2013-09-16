@@ -212,10 +212,9 @@ ul ul{
     /*margin: 0 0 0 25px;*/
 }
 .menu-item{
-    font-family: 'opensans';
-    font-size: 12px;
-    padding: 0 10px;
+    font-family: 'Arial', sans-serif;
     font-size: 14px;
+    padding: 0 10px;
     color: #999;
     padding: 10px 20px;
 }
@@ -239,7 +238,7 @@ ul ul{
 }
 
 .mega-holder .mega-bg {
-    background: rgba(0, 0, 0, 0.9);
+    background: rgba(250, 250, 250, 0.9);
     padding: 20px 10px;
 }
 
@@ -274,6 +273,7 @@ ul ul{
     color: #508abc;
     border-bottom: 1px dotted #ccc;
     padding: 5px 0;
+    font-size: 12px;
 }
 .mega-flyout li{
     margin-left: 40px;
@@ -287,7 +287,7 @@ ul ul{
     position: absolute;
     margin-left: -480px;
     left: 50%;
-    top: 497px;
+    top: 447px;
     z-index: 100;
     width: 960px;
 }
@@ -573,21 +573,19 @@ body{
     color: #FFF;
     font-family: 'opensans', 'Helvetica', 'Arial', sans-serif;
     padding: 0 0 20px 0;
-    font-style: italic;
 }
 /*********************
 BUTTONS
 *********************/
 
 .button, .button:visited {
-        font-family: 'opensans';
+        font-family: 'Arial', sans-serif;
 	padding: 10px 15px;
 	color: #FFF;
 	display: inline-block;
 	font-size: 12px;
-	font-weight: bold;
 	text-decoration: none;
-	text-shadow: 0 1px rgba(0,0,0, .75);
+	/*text-shadow: 0 1px rgba(0,0,0, .75);*/
 	cursor: pointer;
 	margin-bottom: 20px;
 	line-height: 21px;
