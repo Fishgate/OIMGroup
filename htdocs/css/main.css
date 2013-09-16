@@ -431,7 +431,7 @@ body{
     color: #508abc;/* OIM BLUE LT */
 }
 
-#contentwrap h1, .member-name{
+#contentwrap h1, .member-name, .news-article h1{
     color: #999;
     font-family: 'opensans', 'Arial', sans-serif;
     font-size: 25px;
@@ -511,6 +511,9 @@ body{
 .dotted-top{
     border-top: 1px dotted #999;
 }
+.dotted-bottom{
+    border-bottom: 1px dotted #999;
+}
 /* ==========================================================================
    Product Styles
    ========================================================================== */
@@ -543,6 +546,16 @@ body{
 .copy ul ul{
     list-style-type: disc;
 }
+
+/* ==========================================================================
+                                NEWS STYLES
+   ========================================================================== */
+
+.news-holder{}
+.news-article h1{}
+
+
+
 
 /*============================================
         RESONSIVE SLIDES CALL TO ACTION
