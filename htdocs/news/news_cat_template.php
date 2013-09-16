@@ -24,8 +24,8 @@
         <!-- BEGIN BODY -->
         <div id='contentwrap' class='clearfix'>
             <div id='body' class='left'>
-                <div class='breadcrumb'><i class="icon-map-marker icon-large red"></i> &nbsp;YOU ARE HERE: <a href='#'>News</a></div>
-                <h1>News</h1>
+                <div class='breadcrumb'><i class="icon-map-marker icon-large red"></i> &nbsp;YOU ARE HERE: <a href='#'>News</a> / <span class='red'>Category Name</span></div>
+                <h1>Category Name</h1>
                 <!--==================================== NEWS ARTICLE =====-->
                 <div class="news-holder dotted-bottom clearfix">
                     <div class="left news-date"><span class="day">09</span><span class="month">Sep</span></div>

@@ -1,0 +1,9 @@
+-------------------------------
+NEWS>ARTICLE
+-------------------------------
+Sharing icons link to various places, and perform various actions some require external libraries
+example the LIKE icon probably needs a FB library.
+
+The DOWNLOAD and PRINT will require custom JS written, also what documents do they download...
+
+The EMAIL icon needs to mailto a designated person, who is it?   eg: person@email.co.za

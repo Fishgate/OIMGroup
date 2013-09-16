@@ -431,7 +431,7 @@ body{
     color: #508abc;/* OIM BLUE LT */
 }
 
-#contentwrap h1, .member-name, .news-article h1{
+#contentwrap h1, .member-name{
     color: #999;
     font-family: 'opensans', 'Arial', sans-serif;
     font-size: 25px;
@@ -550,11 +550,54 @@ body{
 /* ==========================================================================
                                 NEWS STYLES
    ========================================================================== */
+.news-date{
+    background: #f1f1f1;
+    color: #999;
+    text-align: center;
+    padding: 10px 15px;
+    margin: 0 20px 0 0;
+}
+.day, .month{
+    display: block;
+    line-height: 1em;
+    font-family: 'opensans';
+}
+.day{
+    font-size: 25px;
+}
+.month{
+    font-size: 16px;
+}
 
-.news-holder{}
-.news-article h1{}
+.news-holder{
+    padding-bottom: 25px;
+    margin-bottom: 25px;
+    position: relative;
+}
 
-
+.news-head{
+    color: #999;
+    font-family: 'opensans', 'Arial', sans-serif;
+    font-size: 25px;
+    font-weight: 300;
+}
+.news-article{
+    width: 537px;
+}
+.news-readmore a{
+    margin: 0 0 0 20px;
+}
+.sharing{
+    position: absolute;
+    top: 100px;
+}
+.sharing a{
+    text-decoration: none;
+}
+.sharing i{
+    padding: 0 10px;
+    display: block;
+}
 
 
 /*============================================

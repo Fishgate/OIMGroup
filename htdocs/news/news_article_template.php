@@ -24,26 +24,36 @@
         <!-- BEGIN BODY -->
         <div id='contentwrap' class='clearfix'>
             <div id='body' class='left'>
-                <div class='breadcrumb'><i class="icon-map-marker icon-large red"></i> &nbsp;YOU ARE HERE: <a href='#'>News</a></div>
-                <h1>News</h1>
+                <div class='breadcrumb'><i class="icon-map-marker icon-large red"></i> &nbsp;YOU ARE HERE: <a href='#'>News</a> / <a href='#'>Category</a> / <span class='red'>Article Name</span></div>
+                <h1>Article Name</h1>
                 <!--==================================== NEWS ARTICLE =====-->
                 <div class="news-holder dotted-bottom clearfix">
-                    <div class="left news-date"><span class="day">09</span><span class="month">Sep</span></div>
-                    <div class="left news-article">
-                        <article class="clearfix">
-                            <header class="news-head">Heading</header>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer at iaculis sapien, et mollis quam. Duis lobortis, risus ac iaculis tincidunt, ipsum elit aliquet felis, nec adipiscing lacus enim quis mi. In sit amet sem et augue elementum cursus congue id lorem. Sed vehicula a dolor in mollis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean a eros sit amet nunc sodales pellentesque at at massa. Etiam sed est scelerisque, feugiat ipsum ac, venenatis mi.</p>
-                            <div class="left news-readmore"><i class="icon-angle-right icon-large"></i>&nbsp;<a href="#">Read More</a></div>
-                            <div class="right">Posted in <a href="#">Coverage</a></div>
-                        </article>
+                    <div class="left news-date">
+                        <span class="day">09</span><span class="month">Sep</span>
                     </div>
-                </div>
-                <!--==================================== NEWS ARTICLE =====-->
-                <div class="news-holder dotted-bottom clearfix">
-                    <div class="left news-date"><span class="day">17</span><span class="month">Sep</span></div>
+                    <div class="sharing">
+                        <a href="#">
+                            <i class="icon-thumbs-up icon-2x"></i>
+                        </a>
+                        <br />
+                        <a href="#">
+                            <i class="icon-envelope icon-2x"></i>
+                        </a>
+                        <br />
+                        <a href="#">
+                            <i class="icon-print icon-2x"></i>
+                        </a>
+                        <br />
+                        <a href="#">
+                            <i class="icon-download-alt icon-2x"></i>
+                        </a>
+                    </div>
                     <div class="left news-article">
                         <article class="clearfix">
                             <header class="news-head">Heading</header>
+                            <img class="response-img" src="http://www.placehold.it/500x250" alt="News article" />
+                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer at iaculis sapien, et mollis quam. Duis lobortis, risus ac iaculis tincidunt, ipsum elit aliquet felis, nec adipiscing lacus enim quis mi. In sit amet sem et augue elementum cursus congue id lorem. Sed vehicula a dolor in mollis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean a eros sit amet nunc sodales pellentesque at at massa. Etiam sed est scelerisque, feugiat ipsum ac, venenatis mi.</p>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer at iaculis sapien, et mollis quam. Duis lobortis, risus ac iaculis tincidunt, ipsum elit aliquet felis, nec adipiscing lacus enim quis mi. In sit amet sem et augue elementum cursus congue id lorem. Sed vehicula a dolor in mollis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean a eros sit amet nunc sodales pellentesque at at massa. Etiam sed est scelerisque, feugiat ipsum ac, venenatis mi.</p>
                             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer at iaculis sapien, et mollis quam. Duis lobortis, risus ac iaculis tincidunt, ipsum elit aliquet felis, nec adipiscing lacus enim quis mi. In sit amet sem et augue elementum cursus congue id lorem. Sed vehicula a dolor in mollis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean a eros sit amet nunc sodales pellentesque at at massa. Etiam sed est scelerisque, feugiat ipsum ac, venenatis mi.</p>
                             <div class="left news-readmore"><i class="icon-angle-right icon-large"></i>&nbsp;<a href="#">Read More</a></div>
                             <div class="right">Posted in <a href="#">Coverage</a></div>
