@@ -829,6 +829,14 @@ footer{
 .profile{
     width: 15%;
     margin-right: 2%;
+    height: 250px;
+}
+.profile a{
+    color: #666;
+    text-decoration: none;
+}
+.profile a:hover{
+    color: #666;
 }
 .profile img{
     min-width: 100%;

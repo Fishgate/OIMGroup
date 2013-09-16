@@ -32,113 +32,137 @@
             <div class="clearfix">
                 <!--======================================================= ROW 1 ======-->
                 <div class="left profile">
-                    <img src="http://www.placehold.it/150x150" />
-                    <center>
-                        <p>
-                            <span class="light_blue">Name Here</span><br />
-                            Job Title Here
-                        </p>
-                    </center>
+                    <a href="team_member_tjaart.php">
+                        <img src="http://www.placehold.it/150x150" />
+                        <center>
+                            <p>
+                                <span class="light_blue">Tjaart Minnaar</span><br />
+                                CEO
+                            </p>
+                        </center>
+                    </a>
                 </div>
                 <div class="left profile">
+                    <a href="team_member_arjen.php">
                     <img src="http://www.placehold.it/150x150" />
                     <center>
                         <p>
-                            <span class="light_blue">Name Here</span><br />
-                            Job Title Here
+                            <span class="light_blue">Arjen de Bruin</span><br />
+                            MD: Operations Solutions
                         </p>
                     </center>
+                    </a>
                 </div>
                 <div class="left profile">
+                    <a href="team_member_frank.php">
                     <img src="http://www.placehold.it/150x150" />
                     <center>
                         <p>
-                            <span class="light_blue">Name Here</span><br />
-                            Job Title Here
+                            <span class="light_blue">Frank Hickman</span><br />
+                            MD: Performance Improvement
                         </p>
                     </center>
+                    </a>
                 </div>
                 <div class="left profile">
+                    <a href="team_member_leezelle.php.php">
                     <img src="http://www.placehold.it/150x150" />
                     <center>
                         <p>
-                            <span class="light_blue">Name Here</span><br />
-                            Job Title Here
+                            <span class="light_blue">Leez&eacute;lle Kotz&eacute;</span><br />
+                            MD: Leadership Talent
                         </p>
                     </center>
+                    </a>
                 </div>
                 <div class="left profile">
+                    <a href="team_member_marie.php">
                     <img src="http://www.placehold.it/150x150" />
                     <center>
                         <p>
-                            <span class="light_blue">Name Here</span><br />
-                            Job Title Here
+                            <span class="light_blue">Mari&eacute; Burger</span><br />
+                            Financial director
                         </p>
                     </center>
+                    </a>
                 </div>
                 <div class="left profile last-profile">
+                    <a href="team_member_fred.php">
                     <img src="http://www.placehold.it/150x150" />
                     <center>
                         <p>
-                            <span class="light_blue">Name Here</span><br />
-                            Job Title Here
+                            <span class="light_blue">Fred Arendse</span><br />
+                            Non-executive director
                         </p>
                     </center>
+                    </a>
+                </div>
+                <div class="left profile">
+                    <a href="team_member_kobus.php">
+                    <img src="http://www.placehold.it/150x150" />
+                    <center>
+                        <p>
+                            <span class="light_blue">Kobus Grobler</span><br />
+                            Director
+                        </p>
+                    </center>
+                    </a>
                 </div>
                 <!--====================================================== ROW 2 ======-->
                 <div class="left profile">
+                    <a href="team_member_ben.php">
                     <img src="http://www.placehold.it/150x150" />
                     <center>
                         <p>
-                            <span class="light_blue">Name Here</span><br />
-                            Job Title Here
+                            <span class="light_blue">Ben Nel</span><br />
+                            Director
                         </p>
                     </center>
+                    </a>
                 </div>
                 <div class="left profile">
+                    <a href="team_member_christian.php">
                     <img src="http://www.placehold.it/150x150" />
                     <center>
                         <p>
-                            <span class="light_blue">Name Here</span><br />
-                            Job Title Here
+                            <span class="light_blue">Christian Kaiser</span><br />
+                            Principal Consultant: Operations Solutions
                         </p>
                     </center>
+                    </a>
                 </div>
                 <div class="left profile">
+                    <a href="team_member_francois.php">
                     <img src="http://www.placehold.it/150x150" />
                     <center>
                         <p>
-                            <span class="light_blue">Name Here</span><br />
-                            Job Title Here
+                            <span class="light_blue">Francois Bedeker</span><br />
+                            Director
                         </p>
                     </center>
+                    </a>
                 </div>
                 <div class="left profile">
+                    <a href="team_member_willem.php">
                     <img src="http://www.placehold.it/150x150" />
                     <center>
                         <p>
-                            <span class="light_blue">Name Here</span><br />
-                            Job Title Here
+                            <span class="light_blue">Willem Lombard</span><br />
+                            Senior Consultant: Performance Improvement
                         </p>
                     </center>
-                </div>
-                <div class="left profile">
-                    <img src="http://www.placehold.it/150x150" />
-                    <center>
-                        <p>
-                            <span class="light_blue">Name Here</span><br />
-                            Job Title Here
-                        </p>
-                    </center>
+                    </a>
                 </div>
                 <div class="left profile last-profile">
+                    <a href="team_member_chris.php">
                     <img src="http://www.placehold.it/150x150" />
                     <center>
                         <p>
-                            <span class="light_blue">Name Here</span><br />
-                            Job Title Here
+                            <span class="light_blue">Chris Jacobs</span><br />
+                            Director
                         </p>
                     </center>
+                    </a>
                 </div>
                 <!--============ END ROW 2 =======-->
             </div>
