@@ -1,5 +1,3 @@
-<?php require_once '../config.php'; ?>
-
 <!DOCTYPE html>
 <!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
 <!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
@@ -24,7 +22,7 @@
         <!-- BEGIN BODY -->
         <div id='contentwrap' class='clearfix'>
             <div id='body' class='left'>
-                <div class='breadcrumb'><i class="icon-map-marker icon-large red"></i> &nbsp;YOU ARE HERE: <span class='red'>Clients</span></div>
+                <div class='breadcrumb'><i class="icon-map-marker icon-large red"></i> &nbsp;YOU ARE HERE: <a href="../index.php">Clients</a> <span class='red'>/ Case Studies / Afripak</span></div>
                 <h1>Clients</h1>
                 <div class='copy'>
                     <p>OIM has a proven track record in many countries, across several continents and industries.</p>
