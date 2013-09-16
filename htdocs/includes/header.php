@@ -1,7 +1,7 @@
 <!-- BRANDING -->
 <div id="branding" class="clearfix">
     <div class="left">
-        <img src="../img/logo.png" alt="OIM Logo" />
+        <a href="../home"><img src="../img/logo.png" alt="OIM Logo" border="0" /></a>
     </div>
     <div id="slogan" class="right">Business Performance Specialists</div>
 </div>
@@ -10,7 +10,7 @@
 <!-- BEGIN MAIN NAV -->
 <nav id="main-nav" class="clearfix">
     <div id="house" class="left oim-blue"><!-- HOUSE ICON -->
-        <span class="icon">&#xf015;</span>
+        <a href="../home"><span class="icon">&#xf015;</span></a>
     </div>
     <div id="nav-holder" class="left"><!-- TOP LVL NAV -->
         <div class="left menu-item methodology_toplvl">
@@ -37,7 +37,7 @@
 <!-- END MAIN NAV -->
 
 <!-- Header Slideshow  -->
-<div style="height: 420px; overflow: hidden;">
+<div style="height: 370px; overflow: hidden;">
     <ul class="rslides" id="slider1" style="margin: 0 auto;">
       <li>
           <div class="calltoaction">
@@ -51,26 +51,26 @@
               <span class="quote">Adventure Time!<br />with Jake the dog<br />and Fin the human</span>
               <div class="button">Read More &nbsp;<i class="icon-angle-right icon-large"></i></div>
           </div>
-          <img src="../img/2.jpg" alt="">
+          <img src="../img/1.jpg" alt="">
       </li>
       <li>
           <div class="calltoaction">
               <span class="quote">Yoghurt Factory,<br />possibly the worst place<br />you could imagine</span>
               <div class="button">Read More &nbsp;<i class="icon-angle-right icon-large"></i></div>
           </div>
-          <img src="../img/3.jpg" alt="">
+          <img src="../img/1.jpg" alt="">
       </li>
     </ul>
 </div>
 <!--========================= SECONDARY NAV =====================-->
 <nav id="secondary-nav">
     <ul class="clearfix">
-        <a href="#"><li>About OIM</li></a>
-        <a href="#"><li>Clients</li></a>
-        <a href="#"><li>Team</li></a>
-        <a href="#"><li>News</li></a>
-        <a href="#"><li>Careers</li></a>
-        <a href="#"><li id="last">Partnerships</li></a>
+        <a href="../about"><li>About OIM</li></a>
+        <a href="../clients"><li>Clients</li></a>
+        <a href="../team"><li>Team</li></a>
+        <a href="../news"><li>News</li></a>
+        <a href="../careers"><li>Careers</li></a>
+        <a href="../partnerships"><li id="last">Partnerships</li></a>
     </ul>
 </nav>
 <!-- END Header Slideshow  -->
