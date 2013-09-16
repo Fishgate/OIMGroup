@@ -1,6 +1,9 @@
 <?php
-require_once('./IS-config.php');
+require_once('./config.php');
 
+print_r($_POST);
+
+/*
 // create a new instance of our Mailer class
 $mail = new Mailer();
 
@@ -27,5 +30,6 @@ try {
 } catch (Exception $ex) {
     return $ex->getMessage();
 }
+*/
 
 ?>

@@ -32,7 +32,7 @@
             </div>
             <div id='sidebar' class='left'>
                 <?php 
-                include "../includes/sidebar/widget-contact-us.php"; 
+                include "../includes/sidebar/widget-enquiries.php"; 
                 ?>
             </div>
         </div>

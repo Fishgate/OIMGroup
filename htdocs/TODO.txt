@@ -18,3 +18,12 @@ TEAM
 Need profile photos of each team member (team>index.php)
 
 Individual team member pages(team>team_member_chris.php) ect, they all need images inserted
+
+
+
+-------------------------------
+CONTACT
+-------------------------------
+Build the contact page
+
+Server side validation on the contact form
