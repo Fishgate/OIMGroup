@@ -33,7 +33,7 @@
                 <!--======================================================= ROW 1 ======-->
                 <div class="left profile">
                     <a href="team_member_tjaart.php">
-                        <img src="http://www.placehold.it/150x150" />
+                        <img src="../img/team/tjaart.jpg" />
                         <center>
                             <p>
                                 <span class="light_blue">Tjaart Minnaar</span><br />
@@ -44,7 +44,7 @@
                 </div>
                 <div class="left profile">
                     <a href="team_member_arjen.php">
-                    <img src="http://www.placehold.it/150x150" />
+                    <img src="../img/team/arjen.jpg" />
                     <center>
                         <p>
                             <span class="light_blue">Arjen de Bruin</span><br />
@@ -55,7 +55,7 @@
                 </div>
                 <div class="left profile">
                     <a href="team_member_frank.php">
-                    <img src="http://www.placehold.it/150x150" />
+                    <img src="../img/team/frank.jpg" />
                     <center>
                         <p>
                             <span class="light_blue">Frank Hickman</span><br />
@@ -65,8 +65,8 @@
                     </a>
                 </div>
                 <div class="left profile">
-                    <a href="team_member_leezelle.php.php">
-                    <img src="http://www.placehold.it/150x150" />
+                    <a href="team_member_leezelle.php">
+                    <img src="../img/team/leezelle.jpg" />
                     <center>
                         <p>
                             <span class="light_blue">Leez&eacute;lle Kotz&eacute;</span><br />
@@ -77,7 +77,7 @@
                 </div>
                 <div class="left profile">
                     <a href="team_member_marie.php">
-                    <img src="http://www.placehold.it/150x150" />
+                    <img src="../img/team/marie.jpg" />
                     <center>
                         <p>
                             <span class="light_blue">Mari&eacute; Burger</span><br />
@@ -87,31 +87,8 @@
                     </a>
                 </div>
                 <div class="left profile last-profile">
-                    <a href="team_member_fred.php">
-                    <img src="http://www.placehold.it/150x150" />
-                    <center>
-                        <p>
-                            <span class="light_blue">Fred Arendse</span><br />
-                            Non-executive director
-                        </p>
-                    </center>
-                    </a>
-                </div>
-                <div class="left profile">
-                    <a href="team_member_kobus.php">
-                    <img src="http://www.placehold.it/150x150" />
-                    <center>
-                        <p>
-                            <span class="light_blue">Kobus Grobler</span><br />
-                            Director
-                        </p>
-                    </center>
-                    </a>
-                </div>
-                <!--====================================================== ROW 2 ======-->
-                <div class="left profile">
                     <a href="team_member_ben.php">
-                    <img src="http://www.placehold.it/150x150" />
+                    <img src="../img/team/ben.jpg" />
                     <center>
                         <p>
                             <span class="light_blue">Ben Nel</span><br />
@@ -120,9 +97,25 @@
                     </center>
                     </a>
                 </div>
+                
+                
+                <!--====================================================== ROW 2 ======-->
+                
+                <div class="left profile">
+                    <a href="team_member_chris.php">
+                    <img src="../img/team/chris.jpg" />
+                    <center>
+                        <p>
+                            <span class="light_blue">Chris Jacobs</span><br />
+                            Director
+                        </p>
+                    </center>
+                    </a>
+                </div>
+                
                 <div class="left profile">
                     <a href="team_member_christian.php">
-                    <img src="http://www.placehold.it/150x150" />
+                    <img src="../img/team/christian.jpg" />
                     <center>
                         <p>
                             <span class="light_blue">Christian Kaiser</span><br />
@@ -133,7 +126,7 @@
                 </div>
                 <div class="left profile">
                     <a href="team_member_francois.php">
-                    <img src="http://www.placehold.it/150x150" />
+                    <img src="../img/team/francois.jpg" />
                     <center>
                         <p>
                             <span class="light_blue">Francois Bedeker</span><br />
@@ -143,8 +136,30 @@
                     </a>
                 </div>
                 <div class="left profile">
+                    <a href="team_member_fred.php">
+                    <img src="../img/team/fred.jpg" />
+                    <center>
+                        <p>
+                            <span class="light_blue">Fred Arendse</span><br />
+                            Non-executive director
+                        </p>
+                    </center>
+                    </a>
+                </div>
+                <div class="left profile">
+                    <a href="team_member_kobus.php">
+                    <img src="../img/team/kobus.jpg" />
+                    <center>
+                        <p>
+                            <span class="light_blue">Kobus Grobler</span><br />
+                            Director
+                        </p>
+                    </center>
+                    </a>
+                </div>
+                <div class="left profile  last-profile">
                     <a href="team_member_willem.php">
-                    <img src="http://www.placehold.it/150x150" />
+                    <img src="../img/team/willem.jpg" />
                     <center>
                         <p>
                             <span class="light_blue">Willem Lombard</span><br />
@@ -153,17 +168,7 @@
                     </center>
                     </a>
                 </div>
-                <div class="left profile last-profile">
-                    <a href="team_member_chris.php">
-                    <img src="http://www.placehold.it/150x150" />
-                    <center>
-                        <p>
-                            <span class="light_blue">Chris Jacobs</span><br />
-                            Director
-                        </p>
-                    </center>
-                    </a>
-                </div>
+                
                 <!--============ END ROW 2 =======-->
             </div>
             

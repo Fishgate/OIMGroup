@@ -25,8 +25,8 @@
                 <div class='breadcrumb'><i class="icon-map-marker icon-large red"></i> &nbsp;YOU ARE HERE: <a href='index.php'>Team</a> / <span class='red'>Christian Kaiser</span></div>
                 <h1>Our Leadership Team</h1>
                 <div class='copy'>
-                    <img class="response-img" src="http://placehold.it/500x200" />
-                    <span class="member-name">Christian Kaiser</span>
+                    <img src="../img/team/christian_large.jpg" />
+                    <p><span class="member-name">Christian Kaiser</span></p>
                     <p>Principal Consultant: Operations Solutions</p>
                     <p>Mechanical engineer Christian Kaiser has been involved in operational improvement consulting since 2006. His areas of expertise include continuous improvement, process engineering and improvement, and Lean Six Sigma implementations. He also boasts eight years’ research experience in production design.</p>
                     

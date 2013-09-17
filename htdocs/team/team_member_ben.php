@@ -25,8 +25,8 @@
                 <div class='breadcrumb'><i class="icon-map-marker icon-large red"></i> &nbsp;YOU ARE HERE: <a href='index.php'>Team</a> / <span class='red'>Ben Nel</span></div>
                 <h1>Our Leadership Team</h1>
                 <div class='copy'>
-                    <img class="response-img" src="http://placehold.it/500x200" />
-                    <span class="member-name">Ben Nel</span>
+                    <img src="../img/team/ben_large.jpg" />
+                    <p><span class="member-name">Ben Nel</span></p>
                     <p>Director</p>
                     <p>With a consulting career spanning 21 years, Ben Nel can lay claim to extensive expertise in production management optimisation, process analysis and improvement, process re-engineering and call centre optimisation in most industries.</p>
                     

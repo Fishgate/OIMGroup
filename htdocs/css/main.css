@@ -57,8 +57,9 @@ hr {
     display: block;
     height: 1px;
     border: 0;
-    border-top: 1px solid #ccc;
-    margin: 1em 0;
+    border-top: 1px dotted #999;
+    margin-top: 30px;
+    margin-bottom: 30px;
     padding: 0;
 }
 
@@ -218,9 +219,16 @@ ul ul{
     color: #999;
     padding: 10px 20px;
 }
+.menu-item-single a{ /* Added by Jan */
+    color: #999;
+}
 .menu-item:hover{
     background: #A22B38;
     color: #ffffff;
+}
+.menu-item-single a:hover{ /* Added by Jan */
+    color: #ffffff;
+    text-decoration: none;
 }
 .menu-item i{
     margin-left: 10px;
@@ -829,7 +837,7 @@ footer{
 .profile{
     width: 15%;
     margin-right: 2%;
-    height: 250px;
+    height: 230px;
 }
 .profile a{
     color: #666;
@@ -839,8 +847,8 @@ footer{
     color: #666;
 }
 .profile img{
-    min-width: 100%;
-    max-width: 100%;
+    /*min-width: 100%;
+    max-width: 100%;*/
 }
 .last-profile{
     margin-right: 0;
@@ -855,8 +863,8 @@ footer{
     line-height: 1em;
 }
 .response-img{
-    min-width: 100%;
-    max-width: 100%;
+    /*min-width: 100%;
+    max-width: 100%;*/
 }
 
 

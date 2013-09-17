@@ -25,8 +25,8 @@
                 <div class='breadcrumb'><i class="icon-map-marker icon-large red"></i> &nbsp;YOU ARE HERE: <a href='index.php'>Team</a> / <span class='red'>Arjen de Bruin</span></div>
                 <h1>Our Leadership Team</h1>
                 <div class='copy'>
-                    <img class="response-img" src="http://placehold.it/500x200" />
-                    <span class="member-name">Arjen de Bruin</span>
+                    <img src="../img/team/arjen_large.jpg" />
+                    <p><span class="member-name">Arjen de Bruin</span></p>
                     <p>MD: Operations Solutions</p>
                     
                     <p>Arjen de Bruin boasts 21 years’ consulting experience in process redesign, production management and process automation. He has successfully led business improvement projects for several leading South African companies in industries such as financial services, manufacturing, retail and debt collection as well as the public sector. During this time he gained extensive experience in productivity improvement, process re-engineering, business specifications for electronic content management (ECM) technologies, call-centre optimisation and improvement methodologies such as Lean.</p>

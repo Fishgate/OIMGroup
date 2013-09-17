@@ -13,17 +13,15 @@
         <a href="../home"><span class="icon">&#xf015;</span></a>
     </div>
     <div id="nav-holder" class="left"><!-- TOP LVL NAV -->
-        <div class="left menu-item methodology_toplvl">
-            Our Methodology&nbsp;<i class="icon-angle-down"></i>
-            <?php include '../includes/mega-methodology.php' ?>
+        <div class="left menu-item menu-item-single">
+            <a href="../methodology">Our Methodology</a>
         </div>
         <div class="left menu-item products_toplvl">
             Products &amp; Services&nbsp;<i class="icon-angle-down"></i>
             <?php include '../includes/mega-products.php' ?>
         </div>
-        <div class="left menu-item contact_toplvl">
-            Contact&nbsp;<i class="icon-angle-down"></i>
-            <?php include '../includes/mega-contact.php' ?>
+        <div class="left menu-item menu-item-single">
+            <a href="../contact">Contact</a>
         </div>
     </div>
     <div class="right clearfix"><!-- CONTACT DETAILS -->
