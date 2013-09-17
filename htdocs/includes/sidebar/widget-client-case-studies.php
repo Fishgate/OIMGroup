@@ -3,7 +3,7 @@
     
     <ul class="sidebar-select-list">
         <li><a href="#">Afripack</a></li>
-        <li><a href="#">Ilaid</a></li>
+        <li><a href="lliad.php">Ilaid</a></li>
         <li><a href="#">Woolworths</a></li>
         <li><a href="#">Glaciery by Sanlam</a></li>
         <li><a href="#">Khumani (Assmang)</a></li>
