@@ -27,12 +27,60 @@
                 <div class='breadcrumb'><i class="icon-map-marker icon-large red"></i> &nbsp;YOU ARE HERE: <span class='red'>Contact Us</span></div>
                 <h1>Contact Us</h1>
                 <div class='copy'>
+                    <div class="contact-details-container clearfix">
+                        <div>
+                            <h2>Contact Details</h2>
+                            <p>
+                                Tel: +27 21 913 8814/5<br />
+                                Email: info@oimgroup.com
+                            </p>
+
+                        </div>
+
+                        <div>
+                            <h2>Street Address</h2>
+                            <p>
+                                OIM (Pty) Ltd<br />
+                                The Vineyard Square South<br />
+                                The Vineyard Office Park<br />
+                                99 Jip de Jager<br />
+                                Welgemoed<br />
+                                7530
+                            </p>
+                        </div>
+
+                        <div>
+                            <h2>Postal Address</h2>
+                            <p>
+                                OIM (Pty) Ltd<br />
+                                PO Box 6286<br />
+                                Welgemoed<br />
+                                7538
+                            </p>
+                        </div>
+                    </div>
                     
+                    <div class="contact-map-container">
+                        <div class="map-container-header">
+                            <h2>Map to OIM International</h2>
+                            <div>
+                                <i class="icon-download-alt icon-2x"></i>
+                                <a href="#">Download Map</a>
+                            </div>
+                        </div>
+                        <a target="_blank" href="https://maps.google.com/maps?q=OIM+International+(Pty)+Ltd,+Cape+Town,+South+Africa&hl=en&ll=-33.855181,18.626032&spn=0.010995,0.019484&sll=37.0625,-95.677068&sspn=46.092115,79.804688&oq=OIM+International+(Pty)+Ltd&t=m&z=16&iwloc=A"><img src="../img/contact-map.jpg" alt="OIM International Map" /></a>
+                    </div>
+                    
+                    <div class="contact-information-container">
+                        <h2>Company Information</h2>
+                        <p>Registration Number: 0123456789</p>
+                        <p>Vat Number: 0123456789</p>                            
+                    </div>
                 </div>
             </div>
             <div id='sidebar' class='left'>
                 <?php 
-                include "../includes/sidebar/widget-enquiries.php"; 
+                    include "../includes/sidebar/widget-enquiries.php"; 
                 ?>
             </div>
         </div>
