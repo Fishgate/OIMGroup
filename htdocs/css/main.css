@@ -57,8 +57,9 @@ hr {
     display: block;
     height: 1px;
     border: 0;
-    border-top: 1px solid #ccc;
-    margin: 1em 0;
+    border-top: 1px dotted #999;
+    margin-top: 30px;
+    margin-bottom: 30px;
     padding: 0;
 }
 
@@ -218,9 +219,16 @@ ul ul{
     color: #999;
     padding: 10px 20px;
 }
+.menu-item-single a{ /* Added by Jan */
+    color: #999;
+}
 .menu-item:hover{
     background: #A22B38;
     color: #ffffff;
+}
+.menu-item-single a:hover{ /* Added by Jan */
+    color: #ffffff;
+    text-decoration: none;
 }
 .menu-item i{
     margin-left: 10px;
@@ -326,17 +334,14 @@ body{
 #contentwrap{
     width: 960px;
     margin: 0 auto;
-    /*outline: 1px dotted red;-- just for setup [can be removed] --*/
 }
 #body{
     width: 615px;
     margin: 0 45px 0 0;
-    /*outline: 1px dotted orange;-- just for setup [can be removed] --*/
 }
 #sidebar{
     width: 300px;
-    padding: 78px 0 0 0;
-    /*outline: 1px dotted yellowgreen;-- just for setup [can be removed] --*/
+    padding: 80px 0 0 0;
 }
 .icon{
     font-family: 'FontAwesome';
@@ -356,7 +361,6 @@ body{
 .meth-block{
     padding: 20px;
     width: 27.835%;
-/*    outline: 1px solid red;*/
     margin-bottom: 2%;
     color: #fff;
     height: 120px;
@@ -471,7 +475,6 @@ body{
     text-transform: uppercase;
     margin-top: 30px;
     padding: 0;
-/*    margin: 25px 0 15px 0;*/
 }
 
 #body h2 {
@@ -743,7 +746,6 @@ footer{
     border-bottom: thin dotted #999;
     padding: 15px;
     display: block;
-    /*background: url('../img/sidebars/icon-large-link.jpg') no-repeat 84px 0px;*/
     text-align: center;
 }
 
@@ -829,7 +831,7 @@ footer{
 .profile{
     width: 15%;
     margin-right: 2%;
-    height: 250px;
+    height: 230px;
 }
 .profile a{
     color: #666;
@@ -839,8 +841,8 @@ footer{
     color: #666;
 }
 .profile img{
-    min-width: 100%;
-    max-width: 100%;
+    /*min-width: 100%;
+    max-width: 100%;*/
 }
 .last-profile{
     margin-right: 0;
@@ -855,8 +857,8 @@ footer{
     line-height: 1em;
 }
 .response-img{
-    min-width: 100%;
-    max-width: 100%;
+    /*min-width: 100%;
+    max-width: 100%;*/
 }
 
 
@@ -876,6 +878,59 @@ footer{
 }
 .footer-mid{
     margin: 0 5%;
+}
+
+/* ==========================================================================
+                                CONTACT STYLES
+========================================================================== */
+.contact-details-container div {    
+    float: left;
+    width: 205px;
+}
+
+.contact-details-container,
+.contact-map-container
+{
+    border-bottom: thin dotted grey;
+    padding: 0 0 13px;
+}
+
+.contact-information-container {
+    margin: 0 0 73px 0;
+}
+
+.contact-map-container img {
+    border: 15px solid #F8F8F8;    
+    text-align: center;
+    margin: 10px 0 16px;
+}
+
+.contact-map-container .map-container-header {
+    background: pink;
+}
+
+.contact-map-container .map-container-header h2 {
+    width: 225px;
+    float: left;    
+}
+
+.contact-map-container .map-container-header div {    
+    width: 131px;
+    float: right;
+    margin-top: 25px;
+}
+
+.contact-map-container .map-container-header div i {
+    color: #B32C32;
+    margin: 0 23px 0 0;
+}
+
+.contact-details-container div h2 {    
+    margin-top: 0 !important;
+}
+
+.map-download-header h2 {
+    background: pink;
 }
 
 

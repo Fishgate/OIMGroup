@@ -25,8 +25,8 @@
                 <div class='breadcrumb'><i class="icon-map-marker icon-large red"></i> &nbsp;YOU ARE HERE: <a href='index.php'>Team</a> / <span class='red'>Mari&eacute; Burger</span></div>
                 <h1>Our Leadership Team</h1>
                 <div class='copy'>
-                    <img class="response-img" src="http://placehold.it/500x200" />
-                    <span class="member-name">Mari&eacute; Burger</span>
+                    <img src="../img/team/marie_large.jpg" />
+                    <p><span class="member-name">Mari&eacute; Burger</span></p>
                     <p>Financial director</p>
                     <p>As a chartered accountant and financial director of OIM, Marié has played a crucial rule in the restructuring and centralisation of the finance function, setting up new business ventures and negotiating shareholding contracts. </p>
                     

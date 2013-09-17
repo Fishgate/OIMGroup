@@ -25,8 +25,8 @@
                 <div class='breadcrumb'><i class="icon-map-marker icon-large red"></i> &nbsp;YOU ARE HERE: <a href='index.php'>Team</a> / <span class='red'>Francois Bedeker</span></div>
                 <h1>Our Leadership Team</h1>
                 <div class='copy'>
-                    <img class="response-img" src="http://placehold.it/500x200" />
-                    <span class="member-name">Francois Bedeker</span>
+                    <img src="../img/team/francois_large.jpg" />
+                    <p><span class="member-name">Francois Bedeker</span></p>
                     <p>Director</p>
                     <p>With over 15 years’ experience, Francois Bedeker has spent most of his career in management consulting. As an industrial engineer with an MComm in business management, he has been involved in projects covering business strategy, procurement transformation, operations management, facilities deployment, value engineering, productivity improvement, process re-engineering, systems integration, business modelling, supply chain management and the development of business reporting and measurement. He has consulted in a range of industries including financial services, manufacturing, mining, utilities, chemicals, transport, agriculture, food, textile and logistics.</p>
 

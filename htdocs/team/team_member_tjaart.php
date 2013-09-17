@@ -25,8 +25,8 @@
                 <div class='breadcrumb'><i class="icon-map-marker icon-large red"></i> &nbsp;YOU ARE HERE: <a href='index.php'>Team</a> / <span class='red'>Tjaart Minnaar</span></div>
                 <h1>Our Leadership Team</h1>
                 <div class='copy'>
-                    <img class="response-img" src="http://placehold.it/500x200" />
-                    <span class="member-name">Tjaart Minnaar</span>
+                    <img src="../img/team/tjaart_large.jpg" />
+                    <p><span class="member-name">Tjaart Minnaar</span></p>
                     <p>CEO</p>
                     
                     <p>OIM chief executive officer Tjaart Minnaar has 30 years’ experience in organisational performance improvement, industrial relations, and training and development. He advises several South African blue-chip companies and has international consulting experience in areas such as strategic planning organisational change and development, employee engagement, executive coaching, business structuring, industrial relations and conflict resolution.</p>

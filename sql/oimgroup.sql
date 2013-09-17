@@ -3,7 +3,7 @@
 -- http://www.phpmyadmin.net
 --
 -- Host: 127.0.0.1
--- Generation Time: Sep 13, 2013 at 12:18 PM
+-- Generation Time: Sep 17, 2013 at 01:05 PM
 -- Server version: 5.5.27
 -- PHP Version: 5.4.7
 
@@ -35,7 +35,14 @@ CREATE TABLE IF NOT EXISTS `contactlogs` (
   `date` text NOT NULL,
   `unix` text NOT NULL,
   PRIMARY KEY (`id`)
-) ENGINE=InnoDB DEFAULT CHARSET=latin1 AUTO_INCREMENT=1 ;
+) ENGINE=InnoDB  DEFAULT CHARSET=latin1 AUTO_INCREMENT=2 ;
+
+--
+-- Dumping data for table `contactlogs`
+--
+
+INSERT INTO `contactlogs` (`id`, `name`, `number`, `email`, `message`, `date`, `unix`) VALUES
+(1, 'kyle', '123', 'kyle@fishgate.co.za', '123', '17-09-2013', '1379408689');
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
 /*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;

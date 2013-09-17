@@ -5,7 +5,7 @@
  * @author Kyle Vermeulen <kyle@source-lab.co.za>
  */
 
-require_once(SITE_ROOT . '/classes/Connection.php');
+require_once('./classes/Connection.php');
 
 class Mailer {
     
@@ -74,17 +74,12 @@ class Mailer {
         require_once('class.phpmailer.php');
         $this->phpmailer = new PHPMailer();
         
-        /**
-         * removed because we dont have database credentials that allow us to create databases or tables
-         * 
         // create a new database connection
         $this->dbConn = new Connection();
         $this->dbConn = $this->dbConn->dbConnect();
         
         // set PDO error mode for exception catching
         if ($this->dbConn) $this->dbConn->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
-         * 
-         */
     }
     
     private function getTemplate() {
@@ -109,7 +104,7 @@ class Mailer {
     public function logEmail() {
         try {
             // prepare the sql query
-            $this->log = $this->dbConn->prepare('INSERT INTO '.DB_LOGS_TBL.' (name, number, email, message, date, unix, ip) VALUES (:name, :number, :email, :message, :date, :unix, :ip);');
+            $this->log = $this->dbConn->prepare('INSERT INTO '.DB_LOGS_TBL.' (name, number, email, message, date, unix) VALUES (:name, :number, :email, :message, :date, :unix);');
             
             // bind our values
             $this->log->bindValue(':name',      $this->client_name);
@@ -118,7 +113,6 @@ class Mailer {
             $this->log->bindValue(':message',   $this->client_message);
             $this->log->bindValue(':date',      date('d-m-Y'));
             $this->log->bindValue(':unix',      time());
-            $this->log->bindValue(':ip',        $_SERVER['REMOTE_ADDR']);
             
             // execute query
             if($this->log->execute()) return true;
@@ -138,13 +132,13 @@ class Mailer {
         $this->phpmailer->From = $this->admin_email;
         $this->phpmailer->FromName = $this->admin_name;
         $this->phpmailer->AddAddress($this->client_email);
-        $this->phpmailer->AddReplyTo($this->admin_email, 'Integrated Solutions');
+        $this->phpmailer->AddReplyTo($this->admin_email, 'OIM Group');
 
         $this->phpmailer->IsHTML(true);
 
-        $this->phpmailer->Subject = 'Integrated Solutions';
+        $this->phpmailer->Subject = 'OIM Group';
         $this->phpmailer->Body    = $this->getTemplate();
-        $this->phpmailer->AltBody = 'Thank you for completing the contact form on our website. We have received your contact request and will be in touch with you shortly to discuss your needs./r/n/r/nRegards,/r/nIntegrated Solutions';
+        $this->phpmailer->AltBody = 'Thank you for completing the contact form on our website. We have received your contact request and will be in touch with you shortly to discuss your needs./r/n/r/nRegards,/r/nOIM Group';
 
         if(!$this->phpmailer->Send()) {
             throw new Exception('Error sending confirmation email.');
@@ -185,7 +179,7 @@ class Mailer {
 
         $this->phpmailer->IsHTML(true);
 
-        $this->phpmailer->Subject = 'IS Website Contact Notification';
+        $this->phpmailer->Subject = 'Website Contact Form Notification';
         $this->phpmailer->Body    = $this->prepNotification();
         $this->phpmailer->AltBody = '';
 

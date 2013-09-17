@@ -25,8 +25,8 @@
                 <div class='breadcrumb'><i class="icon-map-marker icon-large red"></i> &nbsp;YOU ARE HERE: <a href='index.php'>Team</a> / <span class='red'>Chris Jacobs</span></div>
                 <h1>Our Leadership Team</h1>
                 <div class='copy'>
-                    <img class="response-img" src="http://placehold.it/500x200" />
-                    <span class="member-name">Chris Jacobs</span>
+                    <img src="../img/team/chris_large.jpg" />
+                    <p><span class="member-name">Chris Jacobs</span></p>
                     <p>Director</p>
                     <p>Since 1988 Chris Jacobs has consulted widely in a range of industries, both locally and abroad. During this time he has gained an impressive 20 years’ experience in OIM’s proven performance improvement methodology. </p>
 

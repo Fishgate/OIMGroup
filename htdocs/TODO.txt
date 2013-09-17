@@ -8,7 +8,7 @@ The DOWNLOAD and PRINT will require custom JS written, also what documents do th
 
 The EMAIL icon needs to mailto a designated person, who is it?   eg: person@email.co.za
 
-
+news_article_template.php is broken in firefox and IE
 
 
 
@@ -24,6 +24,6 @@ Individual team member pages(team>team_member_chris.php) ect, they all need imag
 -------------------------------
 CONTACT
 -------------------------------
-Build the contact page
+The "Download Map" button on the contact page needs a PDF or something to link to
 
-Server side validation on the contact form
+An HTML email along with copy and notification (error/success) needs to be put together for the contact form process.

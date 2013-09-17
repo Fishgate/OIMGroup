@@ -25,8 +25,8 @@
                 <div class='breadcrumb'><i class="icon-map-marker icon-large red"></i> &nbsp;YOU ARE HERE: <a href='index.php'>Team</a> / <span class='red'>Fred Arendse</span></div>
                 <h1>Our Leadership Team</h1>
                 <div class='copy'>
-                    <img class="response-img" src="http://placehold.it/500x200" />
-                    <span class="member-name">Fred Arendse</span>
+                    <img src="../img/team/fred_large.jpg" />
+                    <p><span class="member-name">Fred Arendse</span></p>
                     <p>Non-executive director</p>
                     <p>Fred Arendse joined OIM in 2005 as a non-executive director and shareholder. He is also the CEO and founder of the Siyakhula Sonke Empowerment Corporation (SSC), a new generation diversified company that is majority black owned and operates in the mineral producing sector.</p>
                     

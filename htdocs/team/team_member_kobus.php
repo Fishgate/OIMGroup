@@ -25,8 +25,8 @@
                 <div class='breadcrumb'><i class="icon-map-marker icon-large red"></i> &nbsp;YOU ARE HERE: <a href='index.php'>Team</a> / <span class='red'>Kobus Grobler</span></div>
                 <h1>Our Leadership Team</h1>
                 <div class='copy'>
-                    <img class="response-img" src="http://placehold.it/500x200" />
-                    <span class="member-name">Kobus Grobler</span>
+                    <img src="../img/team/kobus_large.jpg" />
+                    <p><span class="member-name">Kobus Grobler</span></p>
                     <p>Director</p>
                     <p>Director Kobus Grobler has 24 years’ experience in business and organisational development, both locally and abroad. He has consulted widely in sectors such as broadcasting, mining, petroleum, production, the food and aviation industries and for non-profit organisations.</p>
                     

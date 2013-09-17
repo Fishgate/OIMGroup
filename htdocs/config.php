@@ -17,6 +17,13 @@ define('DB_USERNAME',   'root');
 define('DB_PASSWORD',   '');
 define('DB_LOGS_TBL',   'contactlogs');
 
+//staging
+/*define('DB_HOST',       'dedi130.cpt1.host-h.net');
+define('DB_NAME',       'stagidazas_db23');
+define('DB_USERNAME',   'stagidazas_25');
+define('DB_PASSWORD',   'Z5d4iiW8');
+define('DB_LOGS_TBL',   'contactlogs');*/
+
 /**
  * Contact information of the admin, generaly used as "FROM" headers for email.
  * 
@@ -47,7 +54,7 @@ define('SITE_URL',      'http://'.$_SERVER['HTTP_HOST'].'/'.BASE_FOLDER);
  *
  */
 function __autoload($className) {
-    require_once "../classes/$className.php";
+    require_once "./classes/$className.php";
 }
 
 ?>

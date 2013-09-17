@@ -54,10 +54,13 @@
                     </ul>
                     </p>
 
-                    <p>Our Client list include:</p>
-                    <div class="clients-all-holder">
-                        <img src="../img/oim_clients.jpg" alt="OIM Clients" />
-                    </div>
+                    <h2>Our Client list include:</h2>
+                    <p>&nbsp;</p>
+                    <p>
+                        <div class="clients-all-holder">
+                            <img src="../img/oim_clients.jpg" alt="OIM Clients" />
+                        </div>
+                    </p>
                 </div>
             </div>
             <div id='sidebar' class='left'>

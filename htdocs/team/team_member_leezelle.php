@@ -25,8 +25,8 @@
                 <div class='breadcrumb'><i class="icon-map-marker icon-large red"></i> &nbsp;YOU ARE HERE: <a href='index.php'>Team</a> / <span class='red'>Leez&eacute;lle Kotz&eacute;</span></div>
                 <h1>Our Leadership Team</h1>
                 <div class='copy'>
-                    <img class="response-img" src="http://placehold.it/500x200" />
-                    <span class="member-name">Leez&eacute;lle Kotz&eacute;</span>
+                    <img src="../img/team/leezelle_large.jpg" />
+                    <p><span class="member-name">Leez&eacute;lle Kotz&eacute;</span></p>
                     <p>MD: Leadership Talent</p>
                     <p>Registered industrial psychologist Leezélle Kotzé has worked in the HR field since 1999, holding senior positions at among others The Foschini Group and Shoprite Group of Companies. She has also consulted for among others Capitec Bank, BHP Billiton, Woolworths, Tiger Brands, Meatco and Stellenbosch University.</p>
 

@@ -25,8 +25,8 @@
                 <div class='breadcrumb'><i class="icon-map-marker icon-large red"></i> &nbsp;YOU ARE HERE: <a href='index.php'>Team</a> / <span class='red'>Frank Hickman</span></div>
                 <h1>Our Leadership Team</h1>
                 <div class='copy'>
-                    <img class="response-img" src="http://placehold.it/500x200" />
-                    <span class="member-name">Frank Hickman</span>
+                    <img src="../img/team/frank_large.jpg" />
+                    <p><span class="member-name">Frank Hickman</span></p>
                     <p>MD: Performance Improvement</p>
                     <p>Frank Hickman has 22 years’ consulting and project management experience in various industries. He specialises in process design and productivity improvement but has also worked extensively in areas such as employee relations, performance improvement and conflict resolution.</p>
                    

@@ -25,8 +25,8 @@
                 <div class='breadcrumb'><i class="icon-map-marker icon-large red"></i> &nbsp;YOU ARE HERE: <a href='index.php'>Team</a> / <span class='red'>Willem Lombard</span></div>
                 <h1>Our Leadership Team</h1>
                 <div class='copy'>
-                    <img class="response-img" src="http://placehold.it/500x200" />
-                    <span class="member-name">Willem Lombard</span>
+                    <img class="response-img" src="../img/team/willem_large.jpg" />
+                    <p><span class="member-name">Willem Lombard</span></p>
                     <p>Senior Consultant: Performance Improvement</p>
                     <p>Senior consultant Willem Lombard’s expertise covers logistics management (warehousing, distribution and supply chain), planning and research for new ventures and marketing management. He has consulted in sectors such as construction, finance and banking, fast-moving consumer goods, manufacturing and retail.</p>
                     
