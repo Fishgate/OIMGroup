@@ -25,3 +25,5 @@ Individual team member pages(team>team_member_chris.php) ect, they all need imag
 CONTACT
 -------------------------------
 The "Download Map" button on the contact page needs a PDF or something to link to
+
+An HTML email along with copy and notification (error/success) needs to be put together for the contact form process.
