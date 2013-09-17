@@ -47,7 +47,7 @@ define('SITE_URL',      'http://'.$_SERVER['HTTP_HOST'].'/'.BASE_FOLDER);
  *
  */
 function __autoload($className) {
-    require_once "../classes/$className.php";
+    require_once "./classes/$className.php";
 }
 
 ?>
