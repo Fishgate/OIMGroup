@@ -13,22 +13,32 @@
                     <ul>
                         <li>
                             <i class="icon-angle-right blue"></i>
-                            <a href="#">Employee engagement (INVOCOMS)</a>
+                            <a href="../products_services/invocoms.php">Employee engagement (INVOCOMS)</a>
                         </li>
                         <li>
                             <i class="icon-angle-right blue"></i>
                             <a href="#">Leadership and team interventions</a>
                             <ul class="mega-flyout">
-                                <li>TWO</li>
+                                <li><a href="../products_services/competency_profiling.php">Competency profiling</a></li>
+                                <li><a href="../products_services/leadership_assessments.php">Leadership assessments</a></li>
+                                <li><a href="../products_services/leadership_development.php">Leadership development</a></li>
+                                <li><a href="../products_services/coaching.php">Coaching</a></li>
+                                <li><a href="../products_services/team_dynamics.php">Team dynamics</a></li>
+                                <li><a href="../products_services/diversity.php">Diversity awareness</a></li>
                             </ul>
                         </li>
                         <li>
                             <i class="icon-angle-right blue"></i>
-                            <a href="#">Supervisory skills</a>
+                            <a href="../products_services/supervisory_skills.php">Supervisory skills</a>
                         </li>
                         <li>
                             <i class="icon-angle-right blue"></i>
-                            <a href="#">Talent management</a>
+                            <a href="#">Performance & Talent management</a>
+                            <ul class="mega-flyout">
+                                <li><a href="../products_services/talent_management.php">Talent management model</a></li>
+                                <li><a href="../products_services/individual_performance_management.php">Individual performance management</a></li>
+                                <li><a href="../products_services/reward_strategy.php">Reward consulting</a></li>
+                            </ul>
                         </li>
                     </ul>
                 </div>
@@ -41,22 +51,24 @@
                     <ul>
                         <li>
                             <i class="icon-angle-right blue"></i>
-                            <a href="#">Business strategy development</a>
-                        </li>
-                        <li>
-                            <i class="icon-angle-right blue"></i>
-                            <a href="../products_services/business_architecture.php">Business architecture</a>
+                            <a href="#">Business strategy</a>
                             <ul class="mega-flyout">
-                                <li>TWO</li>
+                                <li><a href="../products_services/strategic_planning.php">Strategic planning</a></li>
+                                <li><a href="../products_services/communication.php">Strategic and change communication</a></li>
+                                <li><a href="../products_services/value_chain_optimisation.php">Value chain optimisation</a></li>
                             </ul>
                         </li>
                         <li>
                             <i class="icon-angle-right blue"></i>
-                            <a href="#">Employee relations</a>
+                            <a href="../products_services/business_architecture.php">Business architecture</a>
                         </li>
                         <li>
                             <i class="icon-angle-right blue"></i>
-                            <a href="#">Stakeholder perception surveys</a>
+                            <a href="../products_services/employee_relations.php">Employee relations</a>
+                        </li>
+                        <li>
+                            <i class="icon-angle-right blue"></i>
+                            <a href="../products_services/stakeholder_perception_surveys.php">Stakeholder perception surveys</a>
                         </li>
                     </ul>
                 </div>
@@ -69,22 +81,19 @@
                     <ul>
                         <li>
                             <i class="icon-angle-right blue"></i>
-                            <a href="#">Business/operations review</a>
+                            <a href="../products_services/operations_review.php">Business/operations review</a>
                         </li>
                         <li>
                             <i class="icon-angle-right blue"></i>
-                            <a href="#">Operations management interventions</a>
-                            <ul class="mega-flyout">
-                                <li>TWO</li>
-                            </ul>
+                            <a href="../products_services/operations_management_interventions.php">Operations management interventions</a>
                         </li>
                         <li>
                             <i class="icon-angle-right blue"></i>
-                            <a href="#">Continuous improvement</a>
+                            <a href="../products_services/continuous_improvement.php">Continuous improvement</a>
                         </li>
                         <li>
                             <i class="icon-angle-right blue"></i>
-                            <a href="#">IT systems management & project resourcing</a>
+                            <a href="../products_services/professional_services.php">IT systems management & project resourcing</a>
                         </li>
                     </ul>
                 </div>
