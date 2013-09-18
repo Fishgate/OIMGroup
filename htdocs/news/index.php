@@ -40,13 +40,49 @@
                 </div>
                 <!--==================================== NEWS ARTICLE =====-->
                 <div class="news-holder dotted-bottom clearfix">
+                    <div class="left news-date"><span class="day">03</span><span class="month">Jul</span></div>
+                    <div class="left news-article">
+                        <article class="clearfix">
+                            <header class="news-head">Media Pitch: Strike season: Promoting a peaceful wage negotiation</header>
+                            <p>Mildred Oliphant recently appealed to business and labour to conduct wage negotiation in a peaceful manner as “strike season” looms. Many companies in mining and manufacturing are traditionally set to conduct collective wage negotiations during the second half of the year, starting in June.</p>
+                            <div class="left news-readmore"><i class="icon-angle-right icon-large"></i>&nbsp;<a href="news_article_strike_season_press.php">Read More</a></div>
+                            <div class="right">Posted in <a href="news_cat_press.php">Press Releases</a></div>
+                        </article>
+                    </div>
+                </div>
+                <!--==================================== NEWS ARTICLE =====-->
+                <div class="news-holder dotted-bottom clearfix">
                     <div class="left news-date"><span class="day">01</span><span class="month">Jul</span></div>
                     <div class="left news-article">
                         <article class="clearfix">
-                            <header class="news-head">SA cannot afford another mining<br />strike scenario</header>
+                            <header class="news-head">Media Pitch: Gold sector strike</header>
                             <p>Last week wage discussions in the gold industry took an interesting turn with the Chamber referring the matter to the CCMA with regards to the trade union, AMCU, and thereby placing the negotiations on a different level with mediators stepping in to break the impasse between the employers and AMCU.</p>
                             <div class="left news-readmore"><i class="icon-angle-right icon-large"></i>&nbsp;<a href="news_article_mining_strike_press.php">Read More</a></div>
-                            <div class="right">Posted in <a href="news_cat_press.php">Coverage</a></div>
+                            <div class="right">Posted in <a href="news_cat_press.php">Press Releases</a></div>
+                        </article>
+                    </div>
+                </div>
+                <!--==================================== NEWS ARTICLE =====-->
+                <div class="news-holder dotted-bottom clearfix">
+                    <div class="left news-date"><span class="day">01</span><span class="month">Jul</span></div>
+                    <div class="left news-article">
+                        <article class="clearfix">
+                            <header class="news-head">Media pitch -  Labour Relations<br />Amendment Bill</header>
+                            <p>“South Africa’s labour relations is at a defining moment in our country’s history. Over the past few years, unprotected strike action has escalated into an uncontrolled, violent and unlawful landscape, led by a mob mentality in the absence of formal and recognised leaders. This is the result of major social frustration.</p>
+                            <div class="left news-readmore"><i class="icon-angle-right icon-large"></i>&nbsp;<a href="news_article_labour_ammend_press.php">Read More</a></div>
+                            <div class="right">Posted in <a href="news_cat_press.php">Press Releases</a></div>
+                        </article>
+                    </div>
+                </div>
+                <!--==================================== NEWS ARTICLE =====-->
+                <div class="news-holder dotted-bottom clearfix">
+                    <div class="left news-date"><span class="day">01</span><span class="month">Jul</span></div>
+                    <div class="left news-article">
+                        <article class="clearfix">
+                            <header class="news-head">Missed opportunity to promote labour peace and stability</header>
+                            <p>South Africa today again missed out on another opportunity to send out the right signals about labour peace and stability and creating an investor-friendly climate.</p>
+                            <div class="left news-readmore"><i class="icon-angle-right icon-large"></i>&nbsp;<a href="news_article_labour_peace_press.php">Read More</a></div>
+                            <div class="right">Posted in <a href="news_cat_press.php">Press Releases</a></div>
                         </article>
                     </div>
                 </div>

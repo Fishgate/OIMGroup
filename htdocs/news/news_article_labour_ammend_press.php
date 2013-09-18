@@ -24,7 +24,7 @@
         <!-- BEGIN BODY -->
         <div id='contentwrap' class='clearfix'>
             <div id='body' class='left'>
-                <div class='breadcrumb'><i class="icon-map-marker icon-large red"></i> &nbsp;YOU ARE HERE: <a href='index.php'>News</a> / <a href='news_cat_press'>Press Releases</a> / <span class='red'>Stakeholders urged to be cautious during gold sector dispute</span></div>
+                <div class='breadcrumb'><i class="icon-map-marker icon-large red"></i> &nbsp;YOU ARE HERE: <a href='index.php'>News</a> / <a href='news_cat_press.php'>Press Releases</a> / <span class='red'>South Africa's labour landscape needs to change</span></div>
                 <h1>Media Pitch</h1>
                 <!--==================================== NEWS ARTICLE =====-->
                 <div class="news-holder dotted-bottom clearfix">
@@ -50,20 +50,21 @@
                     </div>
                     <div class="left news-article">
                         <article class="clearfix">
-                            <header class="news-head">Stakeholders urged to be cautious during gold sector dispute, as SA cannot afford another mining strike scenario</header>
+                            <header class="news-head">Labour Relations Amendment Bill: South Africa's labour landscape needs to change</header>
                             <!--<img class="response-img" src="http://www.placehold.it/500x250" alt="News article" />-->
-                            <p>Last week wage discussions in the gold industry took an interesting turn with the Chamber referring the matter to the CCMA with regards to the trade union, AMCU, and thereby placing the negotiations on a different level with mediators stepping in to break the impasse between the employers and AMCU. The talks between the Chamber and 3 other unions has already gone this way but referred to the CCMA by the Unions. AMCU is calling for a 150% rise for entry-level miners.</p>
-                            <p>Chris Jacobs from OIM says that while the mining sector has been fraught with conflict, violence and work stoppages over the last year, stakeholders involved in the wage disputes are urged to take caution to not let it escalate into strike action, as SA cannot afford another strike scenario in the mining industry.</p>
-                            <p>The dispute comes in the wake of the recently released unemployment figures by Statistics SA, which shows that the country’s jobless rate has risen to 25.6%, the highest since last year.</p>
-                            <p>Jacobs says strikes are a complete lose-lose situation for both employees and employers, as businesses lose income and often teeter on the edge of closure while staff face the possibility of retrenchments and lower wage increases than originally offered. He says that strikes, especially unprotected and unlawful ones, are simply a cost no party involved can afford. He explains that successful wage negation is a process that should result in both employer and employee benefitting but is a feat largely determined by the maturity of the relationship between the involved parties – management, employees and unions.</p>
-                            <p><strong>I’d like to suggest an interview with Jacobs, who can speak on the following:</strong></p>
-                            <ul class="bulleted">
-                                <li>The context of the current wage dispute in the gold mining sector</li>
-                                <li>The danger of wage negotiations escalating into strikes</li>
-                                <li>Why SA can’t afford more work stoppages in the mining sector</li>
-                                <li>The factors needed for successful wage negotiation (for both employers and employees)</li>
-                                <li>The purpose of constructive engagement sessions during wage disputes</li>
-                            </ul>
+                            <p>“South Africa’s labour relations is at a defining moment in our country’s history. Over the past few years, unprotected strike action has escalated into an uncontrolled, violent and unlawful landscape, led by a mob mentality in the absence of formal and recognised leaders. This is the result of major social frustration. Unfortunately, it is the workplace that has become the warzone, with grave consequences for employers.  It is also a result of complacency which has set in with and between businesses and labour leaders, as well as legislation which has not adapted to the changing circumstances.”</p>
+                            <p>This is the view of Chris Jacobs, Conflict Resolution Expert at OIM, a leading business performance specialist.  Currently, Parliament’s labour committee is meeting to discuss the controversial Labour Relations Amendment Bill, and whatever the outcome, it is expected that either business or labour will not be satisfied.</p>
+
+<p><strong>I suggest an interview with Chris Jacobs, who can either speak before or after the results of the parliamentary committee meeting are made public, on the following topics:</strong></p>
+
+<ul class="bulleted">
+    <li>Why South Africa’s labour relations landscape needs to change drastically</li>
+    <li>What employers need to do in the context of the new Bill being approved or rejected</li>
+    <li>Why the current LRA (Labour Relations Act) is outdated</li>
+    <li>Why change needs to happen at a union, employee and employer level</li>
+    <li>What Employee Relations strategies companies need to put in place to deal with a changing labour relations landscape</li>
+</ul>
+<p>Please let me know if you would like to speak to Chris Jacobs today, or tomorrow, and I will be happy to arrange.</p>
                             <!--<div class="left news-readmore"><i class="icon-angle-right icon-large"></i>&nbsp;<a href="#">Read More</a></div>-->
                             <div class="right">Posted in <a href="#">Press Releases</a></div>
                         </article>

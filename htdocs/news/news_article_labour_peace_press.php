@@ -24,8 +24,8 @@
         <!-- BEGIN BODY -->
         <div id='contentwrap' class='clearfix'>
             <div id='body' class='left'>
-                <div class='breadcrumb'><i class="icon-map-marker icon-large red"></i> &nbsp;YOU ARE HERE: <a href='index.php'>News</a> / <a href='news_cat_press'>Press Releases</a> / <span class='red'>Stakeholders urged to be cautious during gold sector dispute</span></div>
-                <h1>Media Pitch</h1>
+                <div class='breadcrumb'><i class="icon-map-marker icon-large red"></i> &nbsp;YOU ARE HERE: <a href='index.php'>News</a> / <a href='news_cat_press.php'>Press Releases</a> / <span class='red'>Missed opportunity to promote labour peace and stability</span></div>
+                <h1>Missed opportunity to promote labour peace and stability</h1>
                 <!--==================================== NEWS ARTICLE =====-->
                 <div class="news-holder dotted-bottom clearfix">
                     <div class="left news-date">
@@ -50,20 +50,14 @@
                     </div>
                     <div class="left news-article">
                         <article class="clearfix">
-                            <header class="news-head">Stakeholders urged to be cautious during gold sector dispute, as SA cannot afford another mining strike scenario</header>
+                            <header class="news-head">Yet another tragedy of a missed opportunity<br />to promote labour peace and stability<br />in South Africa</header>
                             <!--<img class="response-img" src="http://www.placehold.it/500x250" alt="News article" />-->
-                            <p>Last week wage discussions in the gold industry took an interesting turn with the Chamber referring the matter to the CCMA with regards to the trade union, AMCU, and thereby placing the negotiations on a different level with mediators stepping in to break the impasse between the employers and AMCU. The talks between the Chamber and 3 other unions has already gone this way but referred to the CCMA by the Unions. AMCU is calling for a 150% rise for entry-level miners.</p>
-                            <p>Chris Jacobs from OIM says that while the mining sector has been fraught with conflict, violence and work stoppages over the last year, stakeholders involved in the wage disputes are urged to take caution to not let it escalate into strike action, as SA cannot afford another strike scenario in the mining industry.</p>
-                            <p>The dispute comes in the wake of the recently released unemployment figures by Statistics SA, which shows that the country’s jobless rate has risen to 25.6%, the highest since last year.</p>
-                            <p>Jacobs says strikes are a complete lose-lose situation for both employees and employers, as businesses lose income and often teeter on the edge of closure while staff face the possibility of retrenchments and lower wage increases than originally offered. He says that strikes, especially unprotected and unlawful ones, are simply a cost no party involved can afford. He explains that successful wage negation is a process that should result in both employer and employee benefitting but is a feat largely determined by the maturity of the relationship between the involved parties – management, employees and unions.</p>
-                            <p><strong>I’d like to suggest an interview with Jacobs, who can speak on the following:</strong></p>
-                            <ul class="bulleted">
-                                <li>The context of the current wage dispute in the gold mining sector</li>
-                                <li>The danger of wage negotiations escalating into strikes</li>
-                                <li>Why SA can’t afford more work stoppages in the mining sector</li>
-                                <li>The factors needed for successful wage negotiation (for both employers and employees)</li>
-                                <li>The purpose of constructive engagement sessions during wage disputes</li>
-                            </ul>
+                            <em><b>By <span class="author">Chris Jacobs</span>, Conflict Resolution Expert at OIM</b></em>
+
+                            <p>South Africa today again missed out on another opportunity to send out the right signals about labour peace and stability and creating an investor-friendly climate. This happened when government MPs, in the portfolio committee on labour, voted against a clause in the proposed Labour Relations Amendment Bill on strike balloting.</p>
+                            <p>The clause, among other things, was intended to promote stability in the workplace and further democratize the workplace in the sense of giving trade union members a final say in whether they want to strike or not.  This would have provided them with an opportunity to decide if they want to forsake income in lieu of a possible better dispensation or not, through a democratic process.  If this clause in the Amendment Bill is scrapped, the current labour relations landscape will not change.  Intimidation and mob order rules, as is the trend with ongoing strikes in the mining and manufacturing sector, will continue.</p>
+                            <p>If nothing else, we have learned in the period leading up to August 2012, that the opportunities for intimidation are rife and that it cannot be controlled by security services.  A trend in the 1980s, this leaves it to the employer to try and manage, but often this happens too late, which means the workplace becomes the battleground for unsettled differences, as well as a place where the political aspirations of the scrupulous plays out.</p>
+                            <p>Solutions that are Band-Aid actions such as peacekeeping forces on mines will not address the underlying causes. If government does not address the socio-economic problems facing this country, we shall have continued cycles of labour upheavals.  This is proved by the fact that SA has more protest situations around social conditions than strike actions. The problem however is that this social upheaval spreads to the workplace.  This is often called a labour problem, when it fact it is a socio-economic problem.</p>
                             <!--<div class="left news-readmore"><i class="icon-angle-right icon-large"></i>&nbsp;<a href="#">Read More</a></div>-->
                             <div class="right">Posted in <a href="#">Press Releases</a></div>
                         </article>

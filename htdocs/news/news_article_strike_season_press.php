@@ -24,12 +24,12 @@
         <!-- BEGIN BODY -->
         <div id='contentwrap' class='clearfix'>
             <div id='body' class='left'>
-                <div class='breadcrumb'><i class="icon-map-marker icon-large red"></i> &nbsp;YOU ARE HERE: <a href='index.php'>News</a> / <a href='news_cat_press'>Press Releases</a> / <span class='red'>Stakeholders urged to be cautious during gold sector dispute</span></div>
+                <div class='breadcrumb'><i class="icon-map-marker icon-large red"></i> &nbsp;YOU ARE HERE: <a href='index.php'>News</a> / <a href='news_cat_press.php'>Press Releases</a> / <span class='red'>Strike season: Promoting a peaceful wage negotiation</span></div>
                 <h1>Media Pitch</h1>
                 <!--==================================== NEWS ARTICLE =====-->
                 <div class="news-holder dotted-bottom clearfix">
                     <div class="left news-date">
-                        <span class="day">01</span><span class="month">Jul</span>
+                        <span class="day">03</span><span class="month">Jul</span>
                     </div>
                     <div class="sharing">
                         <a href="#">
@@ -50,19 +50,17 @@
                     </div>
                     <div class="left news-article">
                         <article class="clearfix">
-                            <header class="news-head">Stakeholders urged to be cautious during gold sector dispute, as SA cannot afford another mining strike scenario</header>
+                            <header class="news-head">Strike season: Promoting a peaceful wage negotiation</header>
                             <!--<img class="response-img" src="http://www.placehold.it/500x250" alt="News article" />-->
-                            <p>Last week wage discussions in the gold industry took an interesting turn with the Chamber referring the matter to the CCMA with regards to the trade union, AMCU, and thereby placing the negotiations on a different level with mediators stepping in to break the impasse between the employers and AMCU. The talks between the Chamber and 3 other unions has already gone this way but referred to the CCMA by the Unions. AMCU is calling for a 150% rise for entry-level miners.</p>
-                            <p>Chris Jacobs from OIM says that while the mining sector has been fraught with conflict, violence and work stoppages over the last year, stakeholders involved in the wage disputes are urged to take caution to not let it escalate into strike action, as SA cannot afford another strike scenario in the mining industry.</p>
-                            <p>The dispute comes in the wake of the recently released unemployment figures by Statistics SA, which shows that the country’s jobless rate has risen to 25.6%, the highest since last year.</p>
-                            <p>Jacobs says strikes are a complete lose-lose situation for both employees and employers, as businesses lose income and often teeter on the edge of closure while staff face the possibility of retrenchments and lower wage increases than originally offered. He says that strikes, especially unprotected and unlawful ones, are simply a cost no party involved can afford. He explains that successful wage negation is a process that should result in both employer and employee benefitting but is a feat largely determined by the maturity of the relationship between the involved parties – management, employees and unions.</p>
-                            <p><strong>I’d like to suggest an interview with Jacobs, who can speak on the following:</strong></p>
+                            <p>Mildred Oliphant recently appealed to business and labour to conduct wage negotiation in a peaceful manner as “strike season” looms. Many companies in mining and manufacturing are traditionally set to conduct collective wage negotiations during the second half of the year, starting in June. Oliphant said that companies must respect the labour laws of the country, as well as their policies regarding wage negotiations and that business must refrain from negotiating with workers' groups outside the centralised collective bargaining agreements.</p>
+                            <p>According to Chris Jacobs, conflict resolution expert at OIM, a leading business performance specialist company in South Africa, South African employers are obligated to ensure that wage negotiations during “strike season” do not escalate into violent situations.  He argues that although an outcome that everyone is satisfied with is difficult to reach, there should be relative buy-in from all parties, so that everyone has a stake in the negotiation process and its outcome.</p>
+                            <p><strong>We suggest an interview with Jacobs, who can speak about the following:</strong></p>
+ 
                             <ul class="bulleted">
-                                <li>The context of the current wage dispute in the gold mining sector</li>
-                                <li>The danger of wage negotiations escalating into strikes</li>
-                                <li>Why SA can’t afford more work stoppages in the mining sector</li>
-                                <li>The factors needed for successful wage negotiation (for both employers and employees)</li>
-                                <li>The purpose of constructive engagement sessions during wage disputes</li>
+                                <li>Why SA cannot afford another violent strike season, especially in light of the recent proposed changes through the Labour Relations Amendment Bill</li>
+                                <li>What companies under financial pressure can do to minimize the effects that wage negotiations have on productivity in the business</li>
+                                <li>Short and long term solutions should a company be faced with a strike scenario in the event of an unsuccessful wage negotiation</li>
+                                <li>What employers can do to promote a peaceful wage negotiation process</li>
                             </ul>
                             <!--<div class="left news-readmore"><i class="icon-angle-right icon-large"></i>&nbsp;<a href="#">Read More</a></div>-->
                             <div class="right">Posted in <a href="#">Press Releases</a></div>

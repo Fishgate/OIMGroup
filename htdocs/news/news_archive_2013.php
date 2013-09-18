@@ -24,8 +24,8 @@
         <!-- BEGIN BODY -->
         <div id='contentwrap' class='clearfix'>
             <div id='body' class='left'>
-                <div class='breadcrumb'><i class="icon-map-marker icon-large red"></i> &nbsp;YOU ARE HERE: <a href='#'>News</a> / <span class='red'>Press Releases</span></div>
-                <h1>Press Releases</h1>
+                <div class='breadcrumb'><i class="icon-map-marker icon-large red"></i> &nbsp;YOU ARE HERE: <a href='index.php'>News</a> / <a href='news_archive_2013.php'>Archive</a> / <span class='red'>2013</span></div>
+                <h1>Archive - 2013</h1>
                 <!--==================================== NEWS ARTICLE =====-->
                 <div class="news-holder dotted-bottom clearfix">
                     <div class="left news-date"><span class="day">02</span><span class="month">Aug</span></div>
@@ -151,7 +151,7 @@ My job is all about problem solving and ultimately adding value to a client’s 
                 <div class="clearfix">
                     <ul class="right paginate">
                         <li>1</li>
-                        <li><a href="news_cat2_press.php">2</a></li>
+                        <li><a href="news_archive_2_2013.php">2</a></li>
                     </ul>
                 </div>
             </div>

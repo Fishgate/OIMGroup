@@ -573,7 +573,7 @@ body{
     font-size: 25px;
 }
 .month{
-    font-size: 16px;
+    font-size: 20px;
 }
 
 .news-holder{
@@ -614,6 +614,8 @@ ul.bulleted{
     margin-top: 0!important;
     padding-top: 0!important;
 }
+.paginate{margin: 0; padding: 0;}
+.paginate li{display: inline; float: left; padding: 10px;}
 /*============================================
         RESONSIVE SLIDES CALL TO ACTION
 =============================================*/
