@@ -132,13 +132,13 @@ class Mailer {
         $this->phpmailer->From = $this->admin_email;
         $this->phpmailer->FromName = $this->admin_name;
         $this->phpmailer->AddAddress($this->client_email);
-        $this->phpmailer->AddReplyTo($this->admin_email, 'Integrated Solutions');
+        $this->phpmailer->AddReplyTo($this->admin_email, 'OIM Group');
 
         $this->phpmailer->IsHTML(true);
 
-        $this->phpmailer->Subject = 'Integrated Solutions';
+        $this->phpmailer->Subject = 'OIM Group';
         $this->phpmailer->Body    = $this->getTemplate();
-        $this->phpmailer->AltBody = 'Thank you for completing the contact form on our website. We have received your contact request and will be in touch with you shortly to discuss your needs./r/n/r/nRegards,/r/nIntegrated Solutions';
+        $this->phpmailer->AltBody = 'Thank you for completing the contact form on our website. We have received your contact request and will be in touch with you shortly to discuss your needs./r/n/r/nRegards,/r/nOIM Group';
 
         if(!$this->phpmailer->Send()) {
             throw new Exception('Error sending confirmation email.');
