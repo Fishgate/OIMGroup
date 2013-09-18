@@ -13,31 +13,31 @@
                 <ul>
                     <li>
                         <i class="icon-angle-right blue"></i>
-                        <a href="../products_services/invocoms.php">Employee engagement (INVOCOMS)</a>
+                        <a href="<?php echo $relpath; ?>products_services/invocoms.php">Employee engagement (INVOCOMS)</a>
                     </li>
                     <li>
                         <i class="icon-angle-right blue"></i>
                         <a>Leadership and team interventions</a>
                         <ul class="mega-flyout">
-                            <li><a href="../products_services/competency_profiling.php">Competency profiling</a></li>
-                            <li><a href="../products_services/leadership_assessments.php">Leadership assessments</a></li>
-                            <li><a href="../products_services/leadership_development.php">Leadership development</a></li>
-                            <li><a href="../products_services/coaching.php">Coaching</a></li>
-                            <li><a href="../products_services/team_dynamics.php">Team dynamics</a></li>
-                            <li><a href="../products_services/diversity.php">Diversity awareness</a></li>
+                            <li><a href="<?php echo $relpath; ?>products_services/competency_profiling.php">Competency profiling</a></li>
+                            <li><a href="<?php echo $relpath; ?>products_services/leadership_assessments.php">Leadership assessments</a></li>
+                            <li><a href="<?php echo $relpath; ?>products_services/leadership_development.php">Leadership development</a></li>
+                            <li><a href="<?php echo $relpath; ?>products_services/coaching.php">Coaching</a></li>
+                            <li><a href="<?php echo $relpath; ?>products_services/team_dynamics.php">Team dynamics</a></li>
+                            <li><a href="<?php echo $relpath; ?>products_services/diversity.php">Diversity awareness</a></li>
                         </ul>
                     </li>
                     <li>
                         <i class="icon-angle-right blue"></i>
-                        <a href="../products_services/supervisory_skills.php">Supervisory skills</a>
+                        <a href="<?php echo $relpath; ?>products_services/supervisory_skills.php">Supervisory skills</a>
                     </li>
                     <li>
                         <i class="icon-angle-right blue"></i>
                         <a>Performance & Talent management</a>
                         <ul class="mega-flyout">
-                            <li><a href="../products_services/talent_management.php">Talent management model</a></li>
-                            <li><a href="../products_services/individual_performance_management.php">Individual performance management</a></li>
-                            <li><a href="../products_services/reward_strategy.php">Reward consulting</a></li>
+                            <li><a href="<?php echo $relpath; ?>products_services/talent_management.php">Talent management model</a></li>
+                            <li><a href="<?php echo $relpath; ?>products_services/individual_performance_management.php">Individual performance management</a></li>
+                            <li><a href="<?php echo $relpath; ?>products_services/reward_strategy.php">Reward consulting</a></li>
                         </ul>
                     </li>
                 </ul>
@@ -53,22 +53,22 @@
                         <i class="icon-angle-right blue"></i>
                         <a>Business strategy</a>
                         <ul class="mega-flyout">
-                            <li><a href="../products_services/strategic_planning.php">Strategic planning</a></li>
-                            <li><a href="../products_services/communication.php">Strategic and change communication</a></li>
-                            <li><a href="../products_services/value_chain_optimisation.php">Value chain optimisation</a></li>
+                            <li><a href="<?php echo $relpath; ?>products_services/strategic_planning.php">Strategic planning</a></li>
+                            <li><a href="<?php echo $relpath; ?>products_services/communication.php">Strategic and change communication</a></li>
+                            <li><a href="<?php echo $relpath; ?>products_services/value_chain_optimisation.php">Value chain optimisation</a></li>
                         </ul>
                     </li>
                     <li>
                         <i class="icon-angle-right blue"></i>
-                        <a href="../products_services/business_architecture.php">Business architecture</a>
+                        <a href="<?php echo $relpath; ?>products_services/business_architecture.php">Business architecture</a>
                     </li>
                     <li>
                         <i class="icon-angle-right blue"></i>
-                        <a href="../products_services/employee_relations.php">Employee relations</a>
+                        <a href="<?php echo $relpath; ?>products_services/employee_relations.php">Employee relations</a>
                     </li>
                     <li>
                         <i class="icon-angle-right blue"></i>
-                        <a href="../products_services/stakeholder_perception_surveys.php">Stakeholder perception surveys</a>
+                        <a href="<?php echo $relpath; ?>products_services/stakeholder_perception_surveys.php">Stakeholder perception surveys</a>
                     </li>
                 </ul>
             </div>
@@ -81,19 +81,19 @@
                 <ul>
                     <li>
                         <i class="icon-angle-right blue"></i>
-                        <a href="../products_services/operations_review.php">Business/operations review</a>
+                        <a href="<?php echo $relpath; ?>products_services/operations_review.php">Business/operations review</a>
                     </li>
                     <li>
                         <i class="icon-angle-right blue"></i>
-                        <a href="../products_services/operations_management_interventions.php">Operations management interventions</a>
+                        <a href="<?php echo $relpath; ?>products_services/operations_management_interventions.php">Operations management interventions</a>
                     </li>
                     <li>
                         <i class="icon-angle-right blue"></i>
-                        <a href="../products_services/continuous_improvement.php">Continuous improvement</a>
+                        <a href="<?php echo $relpath; ?>products_services/continuous_improvement.php">Continuous improvement</a>
                     </li>
                     <li>
                         <i class="icon-angle-right blue"></i>
-                        <a href="../products_services/professional_services.php">IT systems management & project resourcing</a>
+                        <a href="<?php echo $relpath; ?>products_services/professional_services.php">IT systems management & project resourcing</a>
                     </li>
                 </ul>
             </div>

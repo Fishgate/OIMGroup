@@ -1,4 +1,4 @@
-<?php// require_once 'config.php'; ?>
+<?php $relpath = "../"; ?>
 
 <!DOCTYPE html>
 <!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
@@ -7,7 +7,13 @@
 <!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
     <head>
         <!-- BEGIN HEAD -->
-        <?php include '../includes/styles.php' ?>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <title>Business Management | Leadership Team | OIM</title>
+        <meta name="description" content="OIM's leadership team have extensive business management experience in operations management, people management, and organisational development">
+        <meta name="viewport" content="width=device-width">
+        
+        <?php include $relpath.'includes/styles.php' ?>
         <!-- END HEAD -->
     </head>
     <body>
@@ -17,7 +23,7 @@
 
         <!-- BEGIN HEADER -->
         <header id='header'>
-            <?php include '../includes/header.php' ?>
+            <?php include $relpath.'includes/header.php' ?>
         </header>
         <!-- END HEADER -->
 
@@ -33,7 +39,7 @@
                 <!--======================================================= ROW 1 ======-->
                 <div class="left profile">
                     <a href="team_member_tjaart.php">
-                        <img src="../img/team/tjaart.jpg" />
+                        <img src="<?php echo $relpath; ?>img/team/tjaart.jpg" />
                         <center>
                             <p>
                                 <span class="light_blue">Tjaart Minnaar</span><br />
@@ -44,7 +50,7 @@
                 </div>
                 <div class="left profile">
                     <a href="team_member_arjen.php">
-                    <img src="../img/team/arjen.jpg" />
+                    <img src="<?php echo $relpath; ?>img/team/arjen.jpg" />
                     <center>
                         <p>
                             <span class="light_blue">Arjen de Bruin</span><br />
@@ -55,7 +61,7 @@
                 </div>
                 <div class="left profile">
                     <a href="team_member_frank.php">
-                    <img src="../img/team/frank.jpg" />
+                    <img src="<?php echo $relpath; ?>img/team/frank.jpg" />
                     <center>
                         <p>
                             <span class="light_blue">Frank Hickman</span><br />
@@ -66,7 +72,7 @@
                 </div>
                 <div class="left profile">
                     <a href="team_member_leezelle.php">
-                    <img src="../img/team/leezelle.jpg" />
+                    <img src="<?php echo $relpath; ?>img/team/leezelle.jpg" />
                     <center>
                         <p>
                             <span class="light_blue">Leez&eacute;lle Kotz&eacute;</span><br />
@@ -77,7 +83,7 @@
                 </div>
                 <div class="left profile">
                     <a href="team_member_marie.php">
-                    <img src="../img/team/marie.jpg" />
+                    <img src="<?php echo $relpath; ?>img/team/marie.jpg" />
                     <center>
                         <p>
                             <span class="light_blue">Mari&eacute; Burger</span><br />
@@ -88,7 +94,7 @@
                 </div>
                 <div class="left profile last-profile">
                     <a href="team_member_ben.php">
-                    <img src="../img/team/ben.jpg" />
+                    <img src="<?php echo $relpath; ?>img/team/ben.jpg" />
                     <center>
                         <p>
                             <span class="light_blue">Ben Nel</span><br />
@@ -103,7 +109,7 @@
                 
                 <div class="left profile">
                     <a href="team_member_chris.php">
-                    <img src="../img/team/chris.jpg" />
+                    <img src="<?php echo $relpath; ?>img/team/chris.jpg" />
                     <center>
                         <p>
                             <span class="light_blue">Chris Jacobs</span><br />
@@ -115,7 +121,7 @@
                 
                 <div class="left profile">
                     <a href="team_member_christian.php">
-                    <img src="../img/team/christian.jpg" />
+                    <img src="<?php echo $relpath; ?>img/team/christian.jpg" />
                     <center>
                         <p>
                             <span class="light_blue">Christian Kaiser</span><br />
@@ -126,7 +132,7 @@
                 </div>
                 <div class="left profile">
                     <a href="team_member_francois.php">
-                    <img src="../img/team/francois.jpg" />
+                    <img src="<?php echo $relpath; ?>img/team/francois.jpg" />
                     <center>
                         <p>
                             <span class="light_blue">Francois Bedeker</span><br />
@@ -137,7 +143,7 @@
                 </div>
                 <div class="left profile">
                     <a href="team_member_fred.php">
-                    <img src="../img/team/fred.jpg" />
+                    <img src="<?php echo $relpath; ?>img/team/fred.jpg" />
                     <center>
                         <p>
                             <span class="light_blue">Fred Arendse</span><br />
@@ -148,7 +154,7 @@
                 </div>
                 <div class="left profile">
                     <a href="team_member_kobus.php">
-                    <img src="../img/team/kobus.jpg" />
+                    <img src="<?php echo $relpath; ?>img/team/kobus.jpg" />
                     <center>
                         <p>
                             <span class="light_blue">Kobus Grobler</span><br />
@@ -159,7 +165,7 @@
                 </div>
                 <div class="left profile  last-profile">
                     <a href="team_member_willem.php">
-                    <img src="../img/team/willem.jpg" />
+                    <img src="<?php echo $relpath; ?>img/team/willem.jpg" />
                     <center>
                         <p>
                             <span class="light_blue">Willem Lombard</span><br />
@@ -185,7 +191,7 @@
         
         <!-- BEGIN FOOTER -->
         <footer>
-            <?php include '../includes/footer.php' ?>
+            <?php include $relpath.'includes/footer.php' ?>
         </footer>
         <!-- END FOOTER -->
     </body>

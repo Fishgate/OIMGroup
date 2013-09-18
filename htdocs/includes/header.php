@@ -1,7 +1,7 @@
 <!-- BRANDING -->
 <div id="branding" class="clearfix">
     <div class="left">
-        <a href="../home"><img src="../img/logo.png" alt="OIM Logo" border="0" /></a>
+        <a href="<?php echo $relpath; ?>home"><img src="<?php echo $relpath; ?>img/logo.png" alt="OIM Logo" border="0" /></a>
     </div>
     <div id="slogan" class="right">Business Performance Specialists</div>
 </div>
@@ -10,18 +10,18 @@
 <!-- BEGIN MAIN NAV -->
 <nav id="main-nav" class="clearfix">
     <div id="house" class="left oim-blue"><!-- HOUSE ICON -->
-        <a href="../home"><span class="icon">&#xf015;</span></a>
+        <a href="<?php echo $relpath; ?>home"><span class="icon">&#xf015;</span></a>
     </div>
     <div id="nav-holder" class="left"><!-- TOP LVL NAV -->
         <div class="left menu-item menu-item-single">
-            <a href="../methodology">Our Methodology</a>
+            <a href="<?php echo $relpath; ?>methodology">Our Methodology</a>
         </div>
         <div class="left menu-item products_toplvl">
             Products &amp; Services&nbsp;<i class="icon-angle-down"></i>
-            <?php include '../includes/mega-products.php' ?>
+            <?php include $relpath.'/includes/mega-products.php' ?>
         </div>
         <div class="left menu-item menu-item-single">
-            <a href="../contact">Contact</a>
+            <a href="<?php echo $relpath; ?>contact">Contact</a>
         </div>
     </div>
     <div class="right clearfix"><!-- CONTACT DETAILS -->
@@ -42,33 +42,33 @@
               <span class="quote">In an ever-changing world,<br />constant improvement is an integral part<br />of continued success</span>
               <div class="button">Read More &nbsp;<i class="icon-angle-right icon-large"></i></div>
           </div>
-          <img src="../img/1.jpg" alt="">
+          <img src="<?php echo $relpath; ?>img/1.jpg" alt="">
       </li>
       <li>
           <div class="calltoaction">
               <span class="quote">Adventure Time!<br />with Jake the dog<br />and Fin the human</span>
               <div class="button">Read More &nbsp;<i class="icon-angle-right icon-large"></i></div>
           </div>
-          <img src="../img/1.jpg" alt="">
+          <img src="<?php echo $relpath; ?>img/1.jpg" alt="">
       </li>
       <li>
           <div class="calltoaction">
               <span class="quote">Yoghurt Factory,<br />possibly the worst place<br />you could imagine</span>
               <div class="button">Read More &nbsp;<i class="icon-angle-right icon-large"></i></div>
           </div>
-          <img src="../img/1.jpg" alt="">
+          <img src="<?php echo $relpath; ?>img/1.jpg" alt="">
       </li>
     </ul>
 </div>
 <!--========================= SECONDARY NAV =====================-->
 <nav id="secondary-nav">
     <ul class="clearfix">
-        <a href="../about"><li>About OIM</li></a>
-        <a href="../clients"><li>Clients</li></a>
-        <a href="../team"><li>Team</li></a>
-        <a href="../news"><li>News</li></a>
-        <a href="../careers"><li>Careers</li></a>
-        <a href="../partnerships"><li id="last">Partnerships</li></a>
+        <a href="<?php echo $relpath; ?>about"><li>About OIM</li></a>
+        <a href="<?php echo $relpath; ?>clients"><li>Clients</li></a>
+        <a href="<?php echo $relpath; ?>team"><li>Team</li></a>
+        <a href="<?php echo $relpath; ?>news"><li>News</li></a>
+        <a href="<?php echo $relpath; ?>careers"><li>Careers</li></a>
+        <a href="<?php echo $relpath; ?>partnerships"><li id="last">Partnerships</li></a>
     </ul>
 </nav>
 <!-- END Header Slideshow  -->

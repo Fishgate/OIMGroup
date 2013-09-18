@@ -1,4 +1,4 @@
-<?php $relpath = "../"; ?>
+<?php $relpath = "../../"; ?>
 
 <!DOCTYPE html>
 <!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
@@ -9,8 +9,8 @@
         <!-- BEGIN HEAD -->
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-        <title>Business Consulting | Clients | OIM</title>
-        <meta name="description" content="OIM provides business consulting to clients in many countries, across several continents and in a wide spectrum of industries">
+        <title>Client Case Studies | OIM</title>
+        <meta name="description" content="OIM has achieved performance management success in various industries such as manufacturing. Read our case studies of our client successes">
         <meta name="viewport" content="width=device-width">
         
         <?php include $relpath.'includes/styles.php' ?>
@@ -30,7 +30,7 @@
         <!-- BEGIN BODY -->
         <div id='contentwrap' class='clearfix'>
             <div id='body' class='left'>
-                <div class='breadcrumb'><i class="icon-map-marker icon-large red"></i> &nbsp;YOU ARE HERE: <span class='red'>Clients</span></div>
+                <div class='breadcrumb'><i class="icon-map-marker icon-large red"></i> &nbsp;YOU ARE HERE: <a href="index.php">Clients</a> <span class='red'>/ Case Studies / Afripak</span></div>
                 <h1>Clients</h1>
                 <div class='copy'>
                     <p>OIM has a proven track record in many countries, across several continents and industries.</p>
@@ -60,13 +60,10 @@
                     </ul>
                     </p>
 
-                    <h2>Our Client list include:</h2>
-                    <p>&nbsp;</p>
-                    <p>
-                        <div class="clients-all-holder">
-                            <img src="<?php echo $relpath; ?>/img/oim_clients.jpg" alt="OIM Clients" />
-                        </div>
-                    </p>
+                    <p>Our Client list include:</p>
+                    <div class="clients-all-holder">
+                        <img src="<?php echo $relpath; ?>/img/oim_clients.jpg" alt="OIM Clients" />
+                    </div>
                 </div>
             </div>
             <div id='sidebar' class='left'>

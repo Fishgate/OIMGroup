@@ -9,8 +9,8 @@
         <!-- BEGIN HEAD -->
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-        <title>Careers Opportunities & Jobs Available at OIM</title>
-        <meta name="description" content="OIM offers career opportunities with proven experience and relevant academic qualifications in performance, operations, leadership and talent management">
+        <title>Management Consulting | B-BBEE Certificate | OIM</title>
+        <meta name="description" content="OIM provide management consulting and are a level two contributor to broad-based black economic empowerment (BBEEE) in South Africa">
         <meta name="viewport" content="width=device-width">
         
         <?php include $relpath.'includes/styles.php' ?>
@@ -30,29 +30,15 @@
         <!-- BEGIN BODY -->
         <div id='contentwrap' class='clearfix'>
             <div id='body' class='left'>
-                <div class='breadcrumb'><i class="icon-map-marker icon-large red"></i> &nbsp;YOU ARE HERE: <span class='red'>Careers</span></div>
-                <h1>Careers at OIM</h1>
+                <div class='breadcrumb'><i class="icon-map-marker icon-large red"></i> &nbsp;YOU ARE HERE: <a href='index.php'>About OIM</a> / <span class='red'>BEE</span></div>
+                <h1>BEE</h1>
                 <div class='copy'>
-                    <p>OIM prides itself in its ability to deliver results and has a strong commitment to service delivery. As such, we place a high premium on the quality of our consultants and team members.</p>
-
-                    <p>We offer career opportunities for people with proven experience and relevant academic qualifications in the areas of:
-                    <ul>
-                        <li>Organisational performance improvement</li>
-                        <li>Operations management</li>
-                        <li>Leadership development and talent management</li>
-                    </ul>
-                    </p>
-
-                    <p>If you fit this bill and have a willingness to travel quite extensively you are welcome to contact us! Also
-                    keep an eye on our <a href='' target='_blank'>LinkedIN page</a> where we post most of our vacancies.</p>
-
-                    <p>For more information, or to submit your CV, please mail Suzanne van Zyl at <a href='mailto:svanzyl@oimgroup.com'>svanzyl@oimgroup.com</a>
-                    or call her on +27 21 913 8814/5.</p>
+                    <img src="<?php echo $relpath; ?>/img/bee.gif" />
                 </div>
             </div>
             <div id='sidebar' class='left'>
                 <?php 
-                include $relpath.'includes/sidebar/widget-contact-us.php'; 
+                include $relpath.'includes/sidebar/widget-more-about-oim.php'; 
                 ?>
             </div>
         </div>

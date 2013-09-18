@@ -1,4 +1,4 @@
-<?php require_once '../config.php'; ?>
+<?php $relpath = "../"; ?>
 
 <!DOCTYPE html>
 <!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
@@ -7,7 +7,13 @@
 <!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
     <head>
         <!-- BEGIN HEAD -->
-        <?php include '../includes/styles.php' ?>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <title>Latest News, Press Releases, Clips, Newsletters | OIM</title>
+        <meta name="description" content="All the latest news clips, coverage and newsletters about OIM and industry news for performance and business management">
+        <meta name="viewport" content="width=device-width">
+        
+        <?php include $relpath.'includes/styles.php' ?>
         <!-- END HEAD -->
     </head>
     <body>
@@ -17,7 +23,7 @@
 
         <!-- BEGIN HEADER -->
         <header id='header'>
-            <?php include '../includes/header.php' ?>
+            <?php include $relpath.'includes/header.php' ?>
         </header>
         <!-- END HEADER -->
 
@@ -53,8 +59,8 @@
             </div>
             <div id='sidebar' class='left'>
                 <?php 
-                include "../includes/sidebar/widget-categories.php"; 
-                include "../includes/sidebar/widget-archive.php";
+                include $relpath.'includes/sidebar/widget-categories.php'; 
+                include $relpath.'includes/sidebar/widget-archive.php';
                 ?>
             </div>
         </div>
@@ -62,7 +68,7 @@
         
         <!-- BEGIN FOOTER -->
         <footer>
-            <?php include '../includes/footer.php' ?>
+            <?php include $relpath.'includes/footer.php' ?>
         </footer>
         <!-- END FOOTER -->
     </body>

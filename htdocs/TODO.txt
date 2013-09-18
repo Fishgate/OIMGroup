@@ -27,3 +27,17 @@ CONTACT
 The "Download Map" button on the contact page needs a PDF or something to link to
 
 An HTML email along with copy and notification (error/success) needs to be put together for the contact form process.
+
+
+
+-------------------------------
+ABOUT
+-------------------------------
+There is no content on the BEE page
+
+
+-------------------------------
+PARTNERSHIPS
+-------------------------------
+The partnerships page doesnt end with enough space between the bottom of the content and the footer
+    
