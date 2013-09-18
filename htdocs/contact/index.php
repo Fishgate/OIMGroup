@@ -32,7 +32,9 @@
                             <h2>Contact Details</h2>
                             <p>
                                 Tel: +27 21 913 8814/5<br />
-                                Email: info@oimgroup.com
+                                Email: info@oimgroup.com<br /><br />
+                                Speak to our managing director,
+                                <a href="mailto:minnaar@oimgroup.com">Tjaart Minnaar</a>
                             </p>
 
                         </div>
@@ -65,7 +67,7 @@
                             <h2>Map to OIM International</h2>
                             <div>
                                 <i class="icon-download-alt icon-2x"></i>
-                                <a href="#">Download Map</a>
+                                <a href="../downloads/pdf/directions.pdf" target="_blank">Download Map</a>
                             </div>
                         </div>
                         <a target="_blank" href="https://maps.google.com/maps?q=OIM+International+(Pty)+Ltd,+Cape+Town,+South+Africa&hl=en&ll=-33.855181,18.626032&spn=0.010995,0.019484&sll=37.0625,-95.677068&sspn=46.092115,79.804688&oq=OIM+International+(Pty)+Ltd&t=m&z=16&iwloc=A"><img src="../img/contact-map.jpg" alt="OIM International Map" /></a>
@@ -73,8 +75,8 @@
                     
                     <div class="contact-information-container">
                         <h2>Company Information</h2>
-                        <p>Registration Number: 0123456789</p>
-                        <p>Vat Number: 0123456789</p>                            
+                        <p>Registration Number: 1985/005524/07</p>
+                        <p>Vat Number: 446 010 7230</p>                            
                     </div>
                 </div>
             </div>
