@@ -8,7 +8,7 @@ The DOWNLOAD and PRINT will require custom JS written, also what documents do th
 
 The EMAIL icon needs to mailto a designated person, who is it?   eg: person@email.co.za
 
-news_article_template.php is broken in firefox and IE
+[X] -- news_article_template.php is broken in firefox and IE
 
 
 

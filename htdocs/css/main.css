@@ -565,8 +565,12 @@ body{
     background: #f1f1f1;
     color: #999;
     text-align: center;
-    padding: 10px 15px;
+    padding: 10px 0 0 0;
+/*    padding: 10px 15px;*/
     margin: 0 20px 0 0;
+    
+    width: 58px;
+    height: 61px;
 }
 .day, .month{
     display: block;
@@ -577,7 +581,7 @@ body{
     font-size: 25px;
 }
 .month{
-    font-size: 16px;
+    font-size: 20px;
 }
 
 .news-holder{
@@ -593,7 +597,8 @@ body{
     font-weight: 300;
 }
 .news-article{
-    width: 537px;
+/*    width: 537px;*/
+width: 86%;
 }
 .news-readmore a{
     margin: 0 0 0 20px;
@@ -610,7 +615,15 @@ body{
     display: block;
 }
 
-
+.bulleted{
+    list-style-type: disc;
+}
+ul.bulleted{
+    margin-top: 0!important;
+    padding-top: 0!important;
+}
+.paginate{margin: 0; padding: 0;}
+.paginate li{display: inline; float: left; padding: 10px;}
 /*============================================
         RESONSIVE SLIDES CALL TO ACTION
 =============================================*/

@@ -162,7 +162,7 @@ if($("#contact-form").length > 0){
             alert('Thank you! A confirmation of your request will be emailed to you shortly.');
         }else{
             alert(result);
-        }        
+        }      
     }
     
     $("#contact-form").ajaxForm({
