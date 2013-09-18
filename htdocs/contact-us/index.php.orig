@@ -73,7 +73,11 @@
                             <h2>Map to OIM International</h2>
                             <div>
                                 <i class="icon-download-alt icon-2x"></i>
-                                <a href="<?php echo $relpath; ?>downloads/pdf/directions.pdf">Download Map</a>
+<<<<<<< HEAD:htdocs/contact-us/index.php
+                                <a href="<?php echo $relpath; ?>#">Download Map</a>
+=======
+                                <a href="../downloads/pdf/directions.pdf" target="_blank">Download Map</a>
+>>>>>>> 082f37372e87c347b85be6f8668d58af061cc1f7:htdocs/contact/index.php
                             </div>
                         </div>
                         <a target="_blank" href="https://maps.google.com/maps?q=OIM+International+(Pty)+Ltd,+Cape+Town,+South+Africa&hl=en&ll=-33.855181,18.626032&spn=0.010995,0.019484&sll=37.0625,-95.677068&sspn=46.092115,79.804688&oq=OIM+International+(Pty)+Ltd&t=m&z=16&iwloc=A"><img src="<?php echo $relpath; ?>img/contact-map.jpg" alt="OIM International Map" /></a>

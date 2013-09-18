@@ -3,6 +3,6 @@
     
     <div class="sidebar-form-holder">
         <p>Complete the form below if you have an enquiry</p>
-        <?php include "contact-form.php"; ?>
+        <?php include "contact-form-full.php"; ?>
     </div>
 </div>
