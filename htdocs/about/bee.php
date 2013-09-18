@@ -27,7 +27,7 @@
                 <div class='breadcrumb'><i class="icon-map-marker icon-large red"></i> &nbsp;YOU ARE HERE: <a href='index.php'>About OIM</a> / <span class='red'>BEE</span></div>
                 <h1>BEE</h1>
                 <div class='copy'>
-                    
+                    <img src="../img/bee.gif" />
                 </div>
             </div>
             <div id='sidebar' class='left'>

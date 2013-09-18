@@ -370,6 +370,14 @@ body{
     margin: 0;
     padding: 0 0 0 20px;
 }
+.meth-block ul a{
+    color: #fff;
+    text-decoration: none;
+}
+.meth-block ul a:hover{
+    color: #fff;
+    text-decoration: underline;
+}
 .meth-block ul li{
     list-style-type: disc;
 }
@@ -487,7 +495,7 @@ body{
 }
 
 #body strong {
-    color: #00204E;
+    /*color: #00204E;*/
 }
 
 .h2-custom{

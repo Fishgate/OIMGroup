@@ -78,10 +78,10 @@
                     <div class="left meth-divider"><i class="icon-angle-right icon-large"></i></div>
                     <div class="left meth-block bg-blue-lt">
                         <ul>
-                            <li>Business architecture</li>
-                            <li>Competency profiling</li>
-                            <li>Reward strategy</li>
-                            <li>Change &amp; operational communication strategies</li>
+                            <li><a href="../products_services/business_architecture.php">Business architecture</a></li>
+                            <li><a href="../products_services/competency_profiling.php">Competency profiling</a></li>
+                            <li><a href="../products_services/reward_strategy.php">Reward strategy</a></li>
+                            <li><a href="../products_services/communication.php">Change &amp; operational communication strategies</a></li>
                         </ul>
                     </div>
                     <!--====================== ROW 3 ============-->
@@ -92,9 +92,9 @@
                     <div class="left meth-block bg-red">
                         <ul>
                             <li>Leadership competencies and practices definition</li>
-                            <li>Leadership and critical talent assessments</li>
-                            <li>Leadership development</li>
-                            <li>Talent Management</li>
+                            <li><a href="../products_services/leadership_assessments.php">Leadership and critical talent assessments</a></li>
+                            <li><a href="../products_services/leadership_development.php">Leadership development</a></li>
+                            <li><a href="../products_services/talent_management.php">Talent Management</a></li>
                         </ul>
                     </div>
                     <!--====================== ROW 4 ============-->
@@ -104,10 +104,10 @@
                     <div class="left meth-divider"><i class="icon-angle-right icon-large"></i></div>
                     <div class="left meth-block bg-green">
                         <ul>
-                            <li>Employee engagement</li>
-                            <li>Other stakeholder engagement</li>
-                            <li>Employee relations</li>
-                            <li>Diversity management</li>
+                            <li><a href="../products_services/invocoms.php">Employee engagement</a></li>
+                            <li><a href="../products_services/stakeholder_perception_surveys.php">Other stakeholder engagement</a></li>
+                            <li><a href="../products_services/employee_relations.php">Employee relations</a></li>
+                            <li><a href="../products_services/diversity.php">Diversity management</a></li>
                         </ul>
                     </div>
                     <!--====================== ROW 5 ============-->
@@ -117,11 +117,11 @@
                     <div class="left meth-divider"><i class="icon-angle-right icon-large"></i></div>
                     <div class="left meth-block bg-blue-md">
                         <ul>
-                            <li>Operational improvement interventions</li>
-                            <li>Continuous improvement processes &amp; practices</li>
+                            <li><a href="../products_services/operations_management_interventions.php">Operational improvement interventions</a></li>
+                            <li><a href="../products_services/continuous_improvement.php">Continuous improvement processes &amp; practices</a></li>
                             <li>Establishment of an innovation culture</li>
-                            <li>Functional competence development</li>
-                            <li>On-the-job operational coaching</li>
+                            <li><a href="../products_services/competency_profiling.php">Functional competence development</a></li>
+                            <li><a href="../products_services/coaching.php">On-the-job operational coaching</a></li>
                         </ul>
                     </div>
                     <!--====================== ROW 6 ============-->
@@ -131,9 +131,9 @@
                     <div class="left meth-divider"><i class="icon-angle-right icon-large"></i></div>
                     <div class="left meth-block bg-purple">
                         <ul>
-                            <li>Organisational effectiveness measurement</li>
-                            <li>Operational effectiveness measurement</li>
-                            <li>Individual performance management</li>
+                            <li>Organisational effectiveness measurement</li>    
+                            <li><a href="../products_services/operations_review.php">Operational effectiveness measurement</a></li>
+                            <li><a href="../products_services/individual_performance_management.php">Individual performance management</a></li>
                         </ul>
                     </div>
                 </div>
