@@ -22,26 +22,26 @@
         <!-- BEGIN BODY -->
         <div id='contentwrap' class='clearfix'>
             <div id='body' class='left'>
-                <div class='breadcrumb'><i class="icon-map-marker icon-large red"></i> &nbsp;YOU ARE HERE: <a href="index.php">Clients</a> <span class='red'>/ Case Studies / Lliad</span></div>
+                <div class='breadcrumb'><i class="icon-map-marker icon-large red"></i> &nbsp;YOU ARE HERE: <a href="index.php">Clients</a> <span class='red'>/ Case Studies / Premier Foods</span></div>
                 <h1>Client Case Studies</h1>
                 <div class='copy'>
-                    <p><img src="../img/clients/lliad.gif" /><br/><br/></p>
+                    <p><img src="../img/clients/premier.gif" /><br/><br/></p>
                     <p>
-                        <strong>Industry:</strong> Industrial<br/>
-                        <strong>OIM offering:</strong> Strategic planning
+                        <strong>Industry:</strong> Fast-moving consumer goods<br/>
+                        <strong>OIM offering:</strong> Comprehensive performance improvement methodology, strategic planning, scorecards, change communication, talent management
                     </p>
 
                     <p>
                         <strong>About the partnership</strong><br/>
-                        OIM has facilitated the annual strategic planning process at Iliad for several years. We’ve helped Iliad with everything from research and scorecard development to the design of implementation tools and the establishment of regular reviews to ensure plans remain current. At this stage there is a solid framework with enough user-friendly templates and staff knowledge so Iliad can run the annual and ongoing reviews internally, with minimal support from OIM. We like to think that we helped Iliad establish a strategic thinking and planning capacity – which is exactly the focus of our strategic planning intervention.
+                        Premier has been using OIM’s performance improvement methodology since 2003 with a renewed focus on our involvement since late 2010. Our integrated business model, which addresses the main elements required for performance management and strategy implementation, is used as the basis for Premier’s management and leadership practices while our employee engagement methodology (INVOCOMS) has been widely implemented throughout the business. Over the past few years OIM has also assisted Premier with strategic planning and scorecard development, a reward strategy, change communication and a framework for talent management.
                     </p>
                         
                     <p>
                         <strong>The client view</strong><br/>
-                        “The annual strategy review is a key element of Iliad's corporate calendar. This process needs to address the relevant issues in a structured way, delivering a meaningful set of outcomes essential to the wellbeing of the business. The OIM team has shown the ability to understand our requirements in this regard and delivered an effective framework for our ongoing future use. They are a valued 'member' of our strategy review team - their role is highly respected and much appreciated.”
+                        “I have used OIM in five different companies over the past 20 years. Not only does the methodology work in any industry, but the OIM consultants are competent and takes a real interest in your business to ensure sustainable results.”
                     </p>
                     
-                    <p class="right">Eugene Beneke, CEO: Iliad</p>
+                    <p class="right">Tjaart Kruger, CEO: Premier Foods</p>
                 </div>
             </div>
             <div id='sidebar' class='left'>
