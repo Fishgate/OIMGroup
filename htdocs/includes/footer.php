@@ -112,9 +112,9 @@
                 <ul>
                     <li><a href="<?php echo $relpath; ?>home">Home</a></li>
                     <li><a href="<?php echo $relpath; ?>about-oim">About OIM</a></li>
-                    <li><a href="<?php echo $relpath; ?>contact-us">Contact</a></li>
-                    <li><a>Privacy Policy</a></li>
-                    <li id="last-alt"><a>Sitemap</a></li>
+                    <li id="last-alt"><a href="<?php echo $relpath; ?>contact-us">Contact</a></li>
+                    <!--<li><a>Privacy Policy</a></li>
+                    <li id="last-alt"><a>Sitemap</a></li>-->
                 </ul>
             </nav>
         </div>

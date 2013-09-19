@@ -1,4 +1,5 @@
 <?php $relpath = "../../"; ?>
+<?php $pagetype = "news"; ?>
 
 <?php include $relpath.'config.php'; ?>
 

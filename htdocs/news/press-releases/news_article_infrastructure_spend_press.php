@@ -1,4 +1,5 @@
 <?php $relpath = "../../"; ?>
+<?php $pagetype = "news_mini"; ?>
 
 <?php include $relpath.'config.php'; ?>
 

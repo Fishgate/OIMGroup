@@ -60,7 +60,7 @@
                         </li>
                         <li>
                             <i class="icon-angle-right blue"></i>
-                            <a href="<?php echo $relpath; ?>products-services/organisational-development/business-architecture.php">Business Architecture</a>
+                            <a href="<?php echo $relpath; ?>products-services/organisational-development/business-architecture.php">Business architecture</a>
                         </li>
                         <li>
                             <i class="icon-angle-right blue"></i>

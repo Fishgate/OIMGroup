@@ -1,4 +1,5 @@
 <?php $relpath = "../../../"; ?>
+<?php $pagetype = "value_chain_optimisation"; ?>
 
 <!DOCTYPE html>
 <!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
@@ -73,8 +74,7 @@
             </div>
             <div id='sidebar' class='left'>
                 <?php 
-                include $relpath.'includes/sidebar/widget-az-product-listing.php'; 
-                include $relpath.'includes/sidebar/widget-download-pdf-temp1.php'; 
+                include $relpath.'includes/sidebar/widget-az-product-listing.php';  
                 include $relpath.'includes/sidebar/widget-contact-us.php'; 
                 ?>
             </div>
