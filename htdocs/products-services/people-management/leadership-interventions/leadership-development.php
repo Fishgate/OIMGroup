@@ -32,7 +32,7 @@
             <div id='body' class='left'>
                 <div class='breadcrumb'><i class="icon-map-marker icon-large red"></i> &nbsp;YOU ARE HERE: <span class='red'>Products & Services</span> / <span class='red'>People Management</span> / <span class='red'>Leadership and Team Interventions</span></div>
                 <h1>Leadership Development Interventions</h1>
-                <div class='caption'>Sharpening leadership skills</div>
+                <div class='caption'><span>Sharpening leadership skills</span></div>
                 <div class='copy'>
                     <p>When managed correctly, learning interventions are a valuable performance tool to develop leaders in critical areas needed for business success.</p>
 

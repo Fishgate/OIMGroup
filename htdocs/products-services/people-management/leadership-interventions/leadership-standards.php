@@ -32,7 +32,7 @@
             <div id='body' class='left'>
                 <div class='breadcrumb'><i class="icon-map-marker icon-large red"></i> &nbsp;YOU ARE HERE: <span class='red'>Products & Services</span> / <span class='red'>People Management</span> / <span class='red'>Leadership and Team Interventions</span></div>
                 <h1>Leadership Standards</h1>
-                <div class='caption'>Establish the standard for successful leadership</div>
+                <div class='caption'><span>Establish the standard for successful leadership</span></div>
                 <div class='copy'>
                     <p>Leaders are the undeniable drivers of your organisational culture and <strong>strategy implementation</strong>. Their behaviour and practices largely determine a business’ success or failure.</p>
 

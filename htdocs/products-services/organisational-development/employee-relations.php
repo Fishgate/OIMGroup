@@ -32,7 +32,7 @@
             <div id='body' class='left'>
                 <div class='breadcrumb'><i class="icon-map-marker icon-large red"></i> &nbsp;YOU ARE HERE: <span class='red'>Products & Services</span> / <span class='red'>Organisational Development</span></div>
                 <h1>Employee Relations</h1>
-                <div class='caption'>Sustainable labour peace and stability</div>
+                <div class='caption'><span>Sustainable labour peace and stability</span></div>
                 <div class='copy'>
                     <p>Labour peace and stability is crucial for business success.</p> 
 

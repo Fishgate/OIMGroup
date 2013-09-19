@@ -32,7 +32,7 @@
             <div id='body' class='left'>
                 <div class='breadcrumb'><i class="icon-map-marker icon-large red"></i> &nbsp;YOU ARE HERE: <span class='red'>Products & Services</span> / <span class='red'>People Management</span></div>
                 <h1>Supervisory Skills</h1>
-                <div class='caption'>The critical fit between supervisory skills and measurable operational results</div>
+                <div class='caption'><span>The critical fit between supervisory skills and measurable operational results</span></div>
                 <div class='copy'>
                     <p>It’s a well-known fact that South Africa suffers from a skills shortage. This is a growing concern across several industries and most economists agree that it poses a significant threat to the country’s long-term economic growth.</p> 
 

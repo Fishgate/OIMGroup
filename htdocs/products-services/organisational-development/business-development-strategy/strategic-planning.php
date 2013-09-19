@@ -32,7 +32,7 @@
             <div id='body' class='left'>
                 <div class='breadcrumb'><i class="icon-map-marker icon-large red"></i> &nbsp;YOU ARE HERE: <span class='red'>Products & Services</span> / <span class='red'>Organisational Development</span> / <span class='red'>Business Development Strategy</span></div>
                 <h1>Strategic Planning</h1>
-                <div class='caption'>Stay on course, current and competitive</div>
+                <div class='caption'><span>Stay on course, current and competitive</span></div>
                 <div class='copy'>
                     <p>At OIM we understand that the strategic planning and thinking process isn’t a once-off event. If you want to remain current and competitive you need continuous review and alignment.</p>
 

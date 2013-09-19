@@ -32,7 +32,7 @@
             <div id='body' class='left'>
                 <div class='breadcrumb'><i class="icon-map-marker icon-large red"></i> &nbsp;YOU ARE HERE: <span class='red'>Products & Services</span> / <span class='red'>People Management</span> / <span class='red'>Leadership and Team Interventions</span></div>
                 <h1>Team Dynamics</h1>
-                <div class='caption'>Optimising team performance</div>
+                <div class='caption'><span>Optimising team performance</span></div>
                 <div class='copy'>
                     <p>With the vast difference in personal preferences and work styles, we understand that team dynamics can be a challenge and negatively affect business performance.</p> 
 
