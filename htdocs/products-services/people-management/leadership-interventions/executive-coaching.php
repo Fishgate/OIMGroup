@@ -38,7 +38,7 @@
 
                     <p>OIM’s coaching solutions offer lateral thinking techniques within a wide framework of coaching methods and tools to improve individual effectiveness.</p> 
 
-                    <p>They address a wide spectrum of competencies, including communication and interpersonal skills, management performance, conflict resolution, self-confidence, decision making, problem solving, attitudes and preparation for a new role.</p>
+                    <p>They address a spectrum of competencies, including communication and interpersonal skills, management performance, conflict resolution, self-confidence, decision making, problem solving, attitudes and preparation for a new role.</p>
 
                     <h2>Our offering</h2>
 

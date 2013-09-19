@@ -44,15 +44,16 @@
 
                     <p>To bridge this knowledge transfer gap our intervention focuses on two key aspects.</p>
                     
+                    <p><strong>1. Skills development: With emphasis on coaching</strong></p>
                         <ul>
-                            <li><strong>Skills development: With emphasis on coaching</strong></li>
                             <li><strong>Workshops and assignments:</strong> Classroom training and assignments to reinforce learning [20% of training programme]</li> 
                             <li><strong>On-the-floor coaching:</strong> OIM consultants work with employees in the workplace to practise skills application and remove operational constraints [80% of programme]</li>
-                            <li><strong>Consultation: Prepare the system for continuous improvement</strong></li>
                         </ul>
 
-                    <p>Running parallel to the skills development is a task team working on the technical implementation of improvement tools and systems such as statistical process control, workplace organisation and management operation systems (MOS). This approach ensures that business operations are geared for the upcoming changes and staff are competent in running the systems and tools. The task team consists of key employees and OIM operations management consultants, many of whom are industrial engineers.</p>
-
+                    <p><strong>2. Consultation: Prepare the system for continuous improvement</strong></p>
+                    <ul>
+                        <li>Running parallel to the skills development is a task team working on the technical implementation of improvement tools and systems such as statistical process control, workplace organisation and management operation systems (MOS). This approach ensures that business operations are geared for the upcoming changes and staff are competent in running the systems and tools. The task team consists of key employees and OIM operations management consultants, many of whom are industrial engineers.</li>
+                    </ul>
                     <h2>The OIM difference</h2>
 
                     <p>
