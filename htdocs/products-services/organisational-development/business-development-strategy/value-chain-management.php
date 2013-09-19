@@ -55,7 +55,7 @@
                     <p>These results are available through our core offerings:
                         <ul>
                             <li>A facilitated process to establish a framework for the value chain partnership.</li>
-                            <li>The methodology to effectively execute the joint strategy (<a href='invocoms.php'>INVOCOMS</a>).</li>
+                            <li>The methodology to effectively execute the joint strategy <a href="<?php echo $relpath; ?>products-services/people-management/employee-engagement.php">(INVOCOMS)</a>.</li>
                         </ul>
                     </p>
 

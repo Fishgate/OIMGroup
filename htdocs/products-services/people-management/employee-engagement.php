@@ -31,8 +31,8 @@
         <div id='contentwrap' class='clearfix'>
             <div id='body' class='left'>
                 <div class='breadcrumb'><i class="icon-map-marker icon-large red"></i> &nbsp;YOU ARE HERE: <span class='red'>Products & Services</span> / <span class='red'>People Management</span></div>
-                <h1>INVOCOMS</h1>
-                <div class='caption'>Driving business performance through employee engagement</div>
+                <h1>Employee engagement (INVOCOMS)</h1>
+                <div class='caption'>Employee <strong>Invo</strong>lvement through <strong>Com</strong>munication for Commitment and <strong>Inno</strong>vation</div>
                 <div class='copy'>
                     <p>The effective execution of your business strategy relies on the level of contribution that every individual in your business makes. Research proves there is a direct correlation between the level of engagement in an organisation and performance. The more informed and involved people are, the higher their level of commitment and contribution to organisational success.
 
@@ -68,7 +68,7 @@ Several products form part of a comprehensive INVOCOM roll-out, but implementati
 
 <ul>
     <li><strong>Climate Creation Workshop (CCW):</strong> OIM works on the principle that mindset change precedes operational change. All implementations are therefore preceded by Climate Creation Workshops to help prepare the general workforce for the change initiative.</li>
-<li><strong>INVOCOM Skills:</strong> Equip appointed leaders with the skills to successfully implement the methodology and business strategy through INVOCOMS.</li>
+<li><strong>INVOCOM Skills Workshop:</strong> Equip appointed leaders with the skills to successfully implement the methodology and business strategy through INVOCOMS.</li>
 <li><strong>INVOCOM coaching and assessments:</strong> Ensure that INVOCOMS are functioning at an acceptable standard to deliver the right results.</li> 
 <li><strong>INVOCOM Coaches Workshop:</strong> Develop internal capacity to coach appointed leaders in the application of the methodology for sustained performance and behaviour improvement.</li>
 <li><strong>Internal Trainers Workshop:</strong> Develop internal capacity to conduct CCW and INVOCOM Skills workshops with limited involvement from OIM.</li> 
@@ -80,7 +80,7 @@ Several products form part of a comprehensive INVOCOM roll-out, but implementati
 <p>
 <ul>
     <li>For many of our clients INVOCOMS and OIM are synonymous. INVOCOMS are an integral part of our performance improvement approach and have been successfully implemented in numerous industries since the early 80s – both locally and abroad.</li> 
-<li>Numerous blue-chip companies have been using the INVOCOM methodology for many years.</li>
+<li>Several blue-chip companies have been using the INVOCOM methodology for many years.</li>
 <li>The methodology is based on a combination of solid business principles and decades of practical experience.</li>
 <li>The implementation is customised to meet the needs of each client and industry.</li>
 <li>Sustainability is a key aspect, so building internal capacity, training leaders and coaching are integral elements of the offering.</li> 

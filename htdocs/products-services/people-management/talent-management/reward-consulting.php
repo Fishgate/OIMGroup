@@ -55,7 +55,7 @@
                             The co-design of a customised reward philosophy and strategy, aligned with your business and human resources strategies and supported by remuneration policies and practices.</li> 
 
                             <li><strong>Job and remuneration package benchmarking</strong><br/>
-                            The benchmarking of individual posts and/or job levels across the board against an externally selected market. This ensures external and internal equity in respect of job complexity, remuneration practices and pay levels. The outcome serves as a foundation for many other human resource processes, including <strong>performance management, talent management</strong> and <strong>succession planning</strong>.</li>
+                            The benchmarking of individual posts and/or job levels across the board against an externally selected market. This ensures external and internal equity in respect of job complexity, remuneration practices and pay levels. The outcome serves as a foundation for many other human resource processes, including performance management, talent management and succession planning.</li>
 
                             <li><strong>Variable pay structuring</strong><br/>
                             The design and implementation of variable pay schemes (short- and long-term incentives) as part of the total remuneration package. This is essential if you want to attract, retain and motivate key talent, and drive and reward positive behaviour across the board.</li> 
