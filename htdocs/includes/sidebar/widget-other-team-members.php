@@ -3,8 +3,8 @@
     
     <div class="clearfix team-row">
         <div class="team-member">
-            <a href="team_member_tjaart.php">
-                <img src="../img/team/tjaart.jpg" alt="Tjaart Minnaar" />
+            <a href="tjaart-minaar.php">
+                <img src="<?php echo $relpath; ?>img/team/tjaart.jpg" alt="Tjaart Minnaar" />
                 <p>Tjaart Minnaar</p>
             </a>
             <p>MD:</p>
@@ -12,8 +12,8 @@
         </div>
         
         <div class="team-member">
-            <a href="team_member_arjen.php">
-                <img src="../img/team/arjen.jpg" alt="Arjen de Briun" />
+            <a href="arjen-de-bruin.php">
+                <img src="<?php echo $relpath; ?>img/team/arjen.jpg" alt="Arjen de Briun" />
                 <p>Arjen de Bruin</p>
             </a>
             <p>MD:</p>
@@ -23,8 +23,8 @@
     
     <div class="clearfix team-row">
         <div class="team-member">
-            <a href="team_member_frank.php">
-                <img src="../img/team/frank.jpg" alt="Frank Hickman" />
+            <a href="frank-hickman.php">
+                <img src="<?php echo $relpath; ?>img/team/frank.jpg" alt="Frank Hickman" />
                 <p>Frank Hickman</p>
             </a>
             <p>MD:</p>
@@ -33,8 +33,8 @@
         </div>
         
         <div class="team-member">
-            <a href="team_member_leezelle.php">
-                <img src="../img/team/leezelle.jpg" alt="Leez&#233;lle Kotz&#233;" />
+            <a href="leezelle-kotze.php">
+                <img src="<?php echo $relpath; ?>img/team/leezelle.jpg" alt="Leez&#233;lle Kotz&#233;" />
                 <p>Leez&#233;lle Kotz&#233;</p>
             </a>
             <p>MD:</p>
@@ -44,16 +44,16 @@
     
     <div class="clearfix team-row">
         <div class="team-member">
-            <a href="team_member_marie.php">
-                <img src="../img/team/marie.jpg" alt="Mari&#233; Burger" />
+            <a href="marie-burger.php">
+                <img src="<?php echo $relpath; ?>img/team/marie.jpg" alt="Mari&#233; Burger" />
                 <p>Mari&#233; Burger</p>
             </a>
             <p>Financial director</p>
         </div>
         
         <div class="team-member">
-            <a href="team_member_ben.php">
-                <img src="../img/team/ben.jpg" alt="Ben Nel" />
+            <a href="ben-nel.php">
+                <img src="<?php echo $relpath; ?>img/team/ben.jpg" alt="Ben Nel" />
                 <p>Ben Nel</p>
             </a>
             <p>Director</p>
@@ -63,16 +63,16 @@
     
     <div class="clearfix team-row">
         <div class="team-member">
-            <a href="team_member_chris.php">
-                <img src="../img/team/chris.jpg" alt="Chris Jacobs" />
+            <a href="chris-jacobs.php">
+                <img src="<?php echo $relpath; ?>img/team/chris.jpg" alt="Chris Jacobs" />
                 <p>Chris Jacobs</p>
             </a>
             <p>Director</p>
         </div>
 
         <div class="team-member">
-            <a href="team_member_christian.php">
-                <img src="../img/team/christian.jpg" alt="Christian Kaiser" />
+            <a href="christian-kaiser.php">
+                <img src="<?php echo $relpath; ?>img/team/christian.jpg" alt="Christian Kaiser" />
                 <p>Christian Kaiser</p>
             </a>
             <p>Principal Consultant</p>
@@ -82,16 +82,16 @@
     
     <div class="clearfix team-row">
         <div class="team-member">
-            <a href="team_member_francois.php">
-                <img src="../img/team/francois.jpg" alt="Francois Bedeker" />
+            <a href="francois-bedeker.php">
+                <img src="<?php echo $relpath; ?>img/team/francois.jpg" alt="Francois Bedeker" />
                 <p>Fancois Bedeker</p>
             </a>
             <p>Director</p>
         </div>
         
         <div class="team-member">
-            <a href="team_member_fred.php">
-                <img src="../img/team/fred.jpg" alt="Fred Arendse" />
+            <a href="fred-arendse.php">
+                <img src="<?php echo $relpath; ?>img/team/fred.jpg" alt="Fred Arendse" />
                 <p>Fred Arendse</p>
             </a>
             <p>Non-executive director</p>
@@ -100,8 +100,8 @@
     
     <div class="clearfix team-row">
         <div class="team-member">
-            <a href="team_member_kobus.php">
-                <img src="../img/team/kobus.jpg" alt="Kobus Grobler" />
+            <a href="kobus-grobler.php">
+                <img src="<?php echo $relpath; ?>img/team/kobus.jpg" alt="Kobus Grobler" />
                 <p>Kobus Grobler</p>
             </a>
             <p>Director</p>
@@ -109,8 +109,8 @@
 
 
         <div class="team-member">
-            <a href="team_member_willem.php">
-                <img src="../img/team/willem.jpg" alt="Willem Lombard" />
+            <a href="willem-lombard.php">
+                <img src="<?php echo $relpath; ?>img/team/willem.jpg" alt="Willem Lombard" />
                 <p>Willem Lombard</p>
             </a>
             <p>Senior Consultant:</p>

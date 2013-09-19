@@ -6,5 +6,5 @@
         <?php include "contact-form.php"; ?>
     </div>
     
-    <a class="sidebar-large-link" href="../contact"><img src="../img/sidebars/icon-large-link.jpg" alt=">" />Visit the Contact Us page</a>
+    <a class="sidebar-large-link" href="<?php echo $relpath; ?>contact-us"><img src="<?php echo $relpath; ?>img/sidebars/icon-large-link.jpg" alt=">" />Visit the Contact Us page</a>
 </div>

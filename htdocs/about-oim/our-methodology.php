@@ -30,7 +30,7 @@
         <!-- BEGIN BODY -->
         <div id='contentwrap' class='clearfix'>
             <div id='body' class='left'>
-                <div class='breadcrumb'><i class="icon-map-marker icon-large red"></i> &nbsp;YOU ARE HERE: <a href='#'>Our Methodology</a></div>
+                <div class='breadcrumb'><i class="icon-map-marker icon-large red"></i> &nbsp;YOU ARE HERE: <a href='index.php'>About OIM</a> / Our Methodology</div>
                 <h1>Our Methodology</h1>
                 <div class='copy'>
                     <p>In the same way Apple understand technology [and Bono knows how to entertain a crowd?], OIM understands how to translate strategy into action and sustainable results in key business areas. This is our field of expertise and why we call ourselves performance specialists.
@@ -86,10 +86,10 @@
                     <div class="left meth-divider"><i class="icon-angle-right icon-large"></i></div>
                     <div class="left meth-block bg-blue-lt">
                         <ul>
-                            <li><a href="../products_services/business_architecture.php">Business architecture</a></li>
-                            <li><a href="../products_services/competency_profiling.php">Competency profiling</a></li>
-                            <li><a href="../products_services/reward_strategy.php">Reward strategy</a></li>
-                            <li><a href="../products_services/communication.php">Change &amp; operational communication strategies</a></li>
+                            <li><a href="<?php echo $relpath ?>products-services/business_architecture.php">Business architecture</a></li>
+                            <li><a href="<?php echo $relpath ?>products-services/competency_profiling.php">Competency profiling</a></li>
+                            <li><a href="<?php echo $relpath ?>products-services/reward_strategy.php">Reward strategy</a></li>
+                            <li><a href="<?php echo $relpath ?>products-services/communication.php">Change &amp; operational communication strategies</a></li>
                         </ul>
                     </div>
                     <!--====================== ROW 3 ============-->
@@ -100,9 +100,9 @@
                     <div class="left meth-block bg-red">
                         <ul>
                             <li>Leadership competencies and practices definition</li>
-                            <li><a href="../products_services/leadership_assessments.php">Leadership and critical talent assessments</a></li>
-                            <li><a href="../products_services/leadership_development.php">Leadership development</a></li>
-                            <li><a href="../products_services/talent_management.php">Talent Management</a></li>
+                            <li><a href="<?php echo $relpath ?>products-services/leadership_assessments.php">Leadership and critical talent assessments</a></li>
+                            <li><a href="<?php echo $relpath ?>products-services/leadership_development.php">Leadership development</a></li>
+                            <li><a href="<?php echo $relpath ?>products-services/talent_management.php">Talent Management</a></li>
                         </ul>
                     </div>
                     <!--====================== ROW 4 ============-->
@@ -112,10 +112,10 @@
                     <div class="left meth-divider"><i class="icon-angle-right icon-large"></i></div>
                     <div class="left meth-block bg-green">
                         <ul>
-                            <li><a href="../products_services/invocoms.php">Employee engagement</a></li>
-                            <li><a href="../products_services/stakeholder_perception_surveys.php">Other stakeholder engagement</a></li>
-                            <li><a href="../products_services/employee_relations.php">Employee relations</a></li>
-                            <li><a href="../products_services/diversity.php">Diversity management</a></li>
+                            <li><a href="<?php echo $relpath ?>products-services/invocoms.php">Employee engagement</a></li>
+                            <li><a href="<?php echo $relpath ?>products-services/stakeholder_perception_surveys.php">Other stakeholder engagement</a></li>
+                            <li><a href="<?php echo $relpath ?>products-services/employee_relations.php">Employee relations</a></li>
+                            <li><a href="<?php echo $relpath ?>products-services/diversity.php">Diversity management</a></li>
                         </ul>
                     </div>
                     <!--====================== ROW 5 ============-->
@@ -125,11 +125,11 @@
                     <div class="left meth-divider"><i class="icon-angle-right icon-large"></i></div>
                     <div class="left meth-block bg-blue-md">
                         <ul>
-                            <li><a href="../products_services/operations_management_interventions.php">Operational improvement interventions</a></li>
-                            <li><a href="../products_services/continuous_improvement.php">Continuous improvement processes &amp; practices</a></li>
+                            <li><a href="<?php echo $relpath ?>products-services/operations_management_interventions.php">Operational improvement interventions</a></li>
+                            <li><a href="<?php echo $relpath ?>products-services/continuous_improvement.php">Continuous improvement processes &amp; practices</a></li>
                             <li>Establishment of an innovation culture</li>
-                            <li><a href="../products_services/competency_profiling.php">Functional competence development</a></li>
-                            <li><a href="../products_services/coaching.php">On-the-job operational coaching</a></li>
+                            <li><a href="<?php echo $relpath ?>products-services/competency_profiling.php">Functional competence development</a></li>
+                            <li><a href="<?php echo $relpath ?>products-services/coaching.php">On-the-job operational coaching</a></li>
                         </ul>
                     </div>
                     <!--====================== ROW 6 ============-->
@@ -140,8 +140,8 @@
                     <div class="left meth-block bg-purple">
                         <ul>
                             <li>Organisational effectiveness measurement</li>    
-                            <li><a href="../products_services/operations_review.php">Operational effectiveness measurement</a></li>
-                            <li><a href="../products_services/individual_performance_management.php">Individual performance management</a></li>
+                            <li><a href="<?php echo $relpath ?>products-services/operations_review.php">Operational effectiveness measurement</a></li>
+                            <li><a href="<?php echo $relpath ?>products-services/individual_performance_management.php">Individual performance management</a></li>
                         </ul>
                     </div>
                 </div>

@@ -14,14 +14,14 @@
     </div>
     <div id="nav-holder" class="left"><!-- TOP LVL NAV -->
         <div class="left menu-item menu-item-single">
-            <a href="<?php echo $relpath; ?>methodology">Our Methodology</a>
+            <a href="<?php echo $relpath; ?>about-oim/our-methodology.php">Our Methodology</a>
         </div>
         <div class="left menu-item products_toplvl">
             Products &amp; Services&nbsp;<i class="icon-angle-down"></i>
             <?php include $relpath.'/includes/mega-products.php' ?>
         </div>
         <div class="left menu-item menu-item-single">
-            <a href="<?php echo $relpath; ?>contact">Contact</a>
+            <a href="<?php echo $relpath; ?>contact-us">Contact</a>
         </div>
     </div>
     <div class="right clearfix"><!-- CONTACT DETAILS -->
@@ -63,7 +63,7 @@
 <!--========================= SECONDARY NAV =====================-->
 <nav id="secondary-nav">
     <ul class="clearfix">
-        <a href="<?php echo $relpath; ?>about"><li>About OIM</li></a>
+        <a href="<?php echo $relpath; ?>about-oim"><li>About OIM</li></a>
         <a href="<?php echo $relpath; ?>clients"><li>Clients</li></a>
         <a href="<?php echo $relpath; ?>team"><li>Team</li></a>
         <a href="<?php echo $relpath; ?>news"><li>News</li></a>

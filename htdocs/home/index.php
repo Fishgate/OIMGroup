@@ -34,9 +34,9 @@
             ==========================================================-->
             <center>
                 <h1>Business Performance Specialist in core areas of</h1>
-                <h2 class="h2-custom"><a href="#">PEOPLE MANAGEMENT</a></h2>
-                <h2 class="h2-custom"><a href="#">ORGANISATIONAL PERFORMANCE</a></h2>
-                <h2 class="h2-custom"><a href="#">OPERATIONAL OPTIMISATION</a></h2>
+                <h2 class="h2-custom">PEOPLE MANAGEMENT</h2>
+                <h2 class="h2-custom">ORGANISATIONAL PERFORMANCE</h2>
+                <h2 class="h2-custom">OPERATIONAL OPTIMISATION</h2>
                 
                 <p id="intro-copy" class="dotted-top-bottom">Over the years OIM has developed a unique, integrated approach to business performance management and strategy execution in these core areas.<br /> With a proven track record of working with Blue Chip companies both locally and abroad, our multidisciplinary team eliminates the need to call in<br />various business consultants.</p>
             </center>
@@ -47,33 +47,33 @@
             ==========================================================-->
             <div class="clearfix overviews-holder">
                 <div class="left overviews">
-                    <img src="../img/methodology_mini.jpg" alt="Our Methodology" />
+                    <img src="<?php echo $relpath; ?>img/methodology_mini.jpg" alt="Our Methodology" />
                     <div class="service-copy">
                         <center>
                             <h2>Our Methodology</h2>
                         </center>
                         <p>Various methodologies are used to ensure the successful implementation of projects, including SDLC and Agile. We also have extensive experience in business process management technologies such as workflow and electronic content management(ECM).</p>
-                        <a class="dotted-top-bottom" href="#">Methodology &amp; Services</a>
+                        <a class="dotted-top-bottom" href="<?php echo $relpath; ?>about-oim/our-methodology.php">Methodology &amp; Services</a>
                     </div>
                 </div>
                 <div class="left overviews overview-mid">
-                    <img src="../img/about_mini.jpg" alt="About OIM" />
+                    <img src="<?php echo $relpath; ?>img/about_mini.jpg" alt="About OIM" />
                     <div class="service-copy">
                         <center>
                             <h2>About OIM</h2>
                         </center>
                         <p>With over 25 years' experience in business improvement, Operational Improvement Management (OIM) advises several South African Blue-Chip companies and manages performance improvement assignments in Europe, Australia and USA and other African countries.</p>
-                        <a class="dotted-top-bottom" href="#">Read more about OIM</a>
+                        <a class="dotted-top-bottom" href="<?php echo $relpath; ?>about-oim">Read more about OIM</a>
                     </div>
                 </div>
                 <div class="left overviews">
-                    <img src="../img/testimonials_mini.jpg" alt="Testimonials" />
+                    <img src="<?php echo $relpath; ?>img/testimonials_mini.jpg" alt="Testimonials" />
                     <div class="service-copy">
                         <center>
                             <h2>Client Testimonials</h2>
                         </center>
                         <p>"The OIM team has shown the ability to understand our requirements in this regard and delivered an effective framework for our ongoing future use. They are a valued 'member' of our strategy review team - their role is highly respected and much appreciated."</p>
-                        <a class="dotted-top-bottom" href="#">View OIM's Clients</a>
+                        <a class="dotted-top-bottom" href="<?php echo $relpath; ?>clients">View OIM's clients</a>
                     </div>
                 </div>
             </div>

@@ -32,13 +32,13 @@
             <!-- =====================================================
                                 BEGIN TEAM
             ==========================================================-->
-            <div class='breadcrumb'><i class="icon-map-marker icon-large red"></i> &nbsp;YOU ARE HERE: <a href='#'>Team</a></div>
+            <div class='breadcrumb'><i class="icon-map-marker icon-large red"></i> &nbsp;YOU ARE HERE: Team</div>
             <h1>Our Leadership Team</h1>
             
             <div class="clearfix">
                 <!--======================================================= ROW 1 ======-->
                 <div class="left profile">
-                    <a href="team_member_tjaart.php">
+                    <a href="tjaart-minaar.php">
                         <img src="<?php echo $relpath; ?>img/team/tjaart.jpg" />
                         <center>
                             <p>
@@ -49,7 +49,7 @@
                     </a>
                 </div>
                 <div class="left profile">
-                    <a href="team_member_arjen.php">
+                    <a href="arjen-de-bruin.php">
                     <img src="<?php echo $relpath; ?>img/team/arjen.jpg" />
                     <center>
                         <p>
@@ -60,7 +60,7 @@
                     </a>
                 </div>
                 <div class="left profile">
-                    <a href="team_member_frank.php">
+                    <a href="frank-hickman.php">
                     <img src="<?php echo $relpath; ?>img/team/frank.jpg" />
                     <center>
                         <p>
@@ -71,7 +71,7 @@
                     </a>
                 </div>
                 <div class="left profile">
-                    <a href="team_member_leezelle.php">
+                    <a href="leezelle-kotze.php">
                     <img src="<?php echo $relpath; ?>img/team/leezelle.jpg" />
                     <center>
                         <p>
@@ -82,7 +82,7 @@
                     </a>
                 </div>
                 <div class="left profile">
-                    <a href="team_member_marie.php">
+                    <a href="marie-burger.php">
                     <img src="<?php echo $relpath; ?>img/team/marie.jpg" />
                     <center>
                         <p>
@@ -93,7 +93,7 @@
                     </a>
                 </div>
                 <div class="left profile last-profile">
-                    <a href="team_member_ben.php">
+                    <a href="ben-nel.php">
                     <img src="<?php echo $relpath; ?>img/team/ben.jpg" />
                     <center>
                         <p>
@@ -108,7 +108,7 @@
                 <!--====================================================== ROW 2 ======-->
                 
                 <div class="left profile">
-                    <a href="team_member_chris.php">
+                    <a href="chris-jacobs.php">
                     <img src="<?php echo $relpath; ?>img/team/chris.jpg" />
                     <center>
                         <p>
@@ -120,7 +120,7 @@
                 </div>
                 
                 <div class="left profile">
-                    <a href="team_member_christian.php">
+                    <a href="christian-kaiser.php">
                     <img src="<?php echo $relpath; ?>img/team/christian.jpg" />
                     <center>
                         <p>
@@ -131,7 +131,7 @@
                     </a>
                 </div>
                 <div class="left profile">
-                    <a href="team_member_francois.php">
+                    <a href="francois-bedeker.php">
                     <img src="<?php echo $relpath; ?>img/team/francois.jpg" />
                     <center>
                         <p>
@@ -142,7 +142,7 @@
                     </a>
                 </div>
                 <div class="left profile">
-                    <a href="team_member_fred.php">
+                    <a href="fred-arendse.php">
                     <img src="<?php echo $relpath; ?>img/team/fred.jpg" />
                     <center>
                         <p>
@@ -153,7 +153,7 @@
                     </a>
                 </div>
                 <div class="left profile">
-                    <a href="team_member_kobus.php">
+                    <a href="kobus-grobler.php">
                     <img src="<?php echo $relpath; ?>img/team/kobus.jpg" />
                     <center>
                         <p>
@@ -164,7 +164,7 @@
                     </a>
                 </div>
                 <div class="left profile  last-profile">
-                    <a href="team_member_willem.php">
+                    <a href="willem-lombard.php">
                     <img src="<?php echo $relpath; ?>img/team/willem.jpg" />
                     <center>
                         <p>

@@ -9,8 +9,8 @@
         <!-- BEGIN HEAD -->
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-        <title>Employee Engagement Strategy - INVOCOMS | OIM</title>
-        <meta name="description" content="OIM uses the acclaimed INVOCOM methodology to drive business performance through employee engagement">
+        <title>Competency Profiling - HR Management | OIM</title>
+        <meta name="description" content="OIM provides competency profiling, an essential part of HR management to indentify the competencies required for each job level or role">
         <meta name="viewport" content="width=device-width">
         
         <?php include $relpath.'includes/styles.php' ?>
@@ -30,73 +30,66 @@
         <!-- BEGIN BODY -->
         <div id='contentwrap' class='clearfix'>
             <div id='body' class='left'>
-                <div class='breadcrumb'><i class="icon-map-marker icon-large red"></i> &nbsp;YOU ARE HERE: <a href='#'>Products & Services</a> / <span class='red'>Employee Relations</span></div>
-                <h1>Employee Relations</h1>
-                <div class='caption'>Sustainable labour peace and stability</div>
+                <div class='breadcrumb'><i class="icon-map-marker icon-large red"></i> &nbsp;YOU ARE HERE: <a href='#'>Products & Services</a> / <span class='red'>INVOCOMS</span></div>
+                <h1>INVOCOMS</h1>
+                <div class='caption'>Driving business performance through employee engagement</div>
                 <div class='copy'>
-                    <p>Labour peace and stability is crucial for business success.</p> 
+                    <p>The effective execution of your business strategy relies on the level of contribution that every individual in your business makes. Research proves there is a direct correlation between the level of engagement in an organisation and performance. The more informed and involved people are, the higher their level of commitment and contribution to organisational success.
 
-                    <p>Given South Africa’s history the area is particularly complex in our country and since 2010 violence and unprotected strikes have steadily gained momentum.</p> 
+<p><strong>OIM’s acclaimed INVOCOM methodology is the vehicle used to engage everyone in the organisation, mobilise them around goals and build a climate conducive to strategy execution.</strong></p>
 
-                    <p>The 2012/3 World Competitiveness Report confirms this state of affairs with SA ranking last out of 144 countries in the category labour-employer relations.</p>  
+<p>The methodology can be likened to a coach setting up his players for success. It entails reviewing the team’s previous performance and match results, setting goals for the next game, analysing the opposition and obstacles and agreeing the game plan with clearly allocated individual responsibilities. This all happens against the backdrop of continuous improvement and everyone understanding their role, the strategy and the opposition they will encounter.</p>
 
-                    <p>OIM helps organisations to actively manage these relations.</p>
+<p>Similarly the INVOCOM methodology is used to review team performance, set goals, identify obstacles, agree actions and evaluate conduct to ensure high performance and appropriate behaviour in day-to-day operations.</p>
 
-                    <p>With 28 years’ experience in <strong>employee</strong> and <strong>labour relations</strong>, we assist organisations to:
-                    <ul>
-                            <li>Develop and implement a comprehensive <strong>employee relations</strong> strategy in line with overall business goals.</li>
-                            <li>Promote labour peace and stability.</li>
-                            <li>Foster a climate conducive to optimal performance.</li>
-                            <li>Proactively manage and resolve conflict.</li>
-                            <li>Position <strong>employee relations</strong> as a strategic instrument; not a tactical tool.</li>
-                            <li>Move from a legalistic <strong>industrial relations</strong> approach to a more inclusive, people-orientated <strong>employee relations</strong> approach.</li> 
-                    </ul>
-                    </p>
+<p><img src='<?php echo $relpath; ?>img/image_invocoms.jpg' /></p>
 
-                    <h2>Our offering</h2>
+<h2>The outcome of effective INVOCOM methodology</h2>
 
-                    <p><strong>OIM helps clients to develop a comprehensive employee relations (ER) strategy.</strong> This is translated into support processes, policies, structures, practices, skills development and measurements to ensure proper implementation and sustainability.</p>
+<p>
+INVOCOMS ensure:
+<ul>
+    <li>Focused discussion and improved understanding of business challenges.</li>
+<li>Excellence in problem solving and goal achievement.</li>
+<li>A vehicle for continuous improvement through problem solving at all organisational levels.</li>
+<li>Enhanced creativity, innovation, reaction time and flexibility.</li>
+<li>Improved involvement and communication among various levels and functions (departments) and in natural work teams.</li>
+<li>The elimination of blockages and reduced filtering of information.</li>
+<li>Increased ownership and commitment among employees.</li>
+<li>Accelerated learning and development.</li>
+    </ul>
+<p><strong>All of the above benefits support continuous operational improvement.</strong></p>
+</p>
 
-                    <p><strong>Our approach consists of eight main elements with related products.</strong></p> 
+<h2>Overview of our offering</h2>
 
-                    <ul>
-                        <li><strong>Baseline measurement and culture survey</strong> to establish the current reality</li>
-                        <li><strong>ER strategy development</strong></li>
-                        <li><strong>ER structure alignment</strong><br />
-                        Once the ER strategy has been designed, it is cascaded to all organisational levels and areas. The first step is the alignment of business structures, the design of engagement forums and policy development/compliance.</li>
-                        <li><strong>Equip leaders and prepare the climate</strong><br />
-                        Train stakeholders in:</li> 
-                            <ul>
-                                <li>ER effectiveness</li>
-                                <li>Industrial relations effectiveness</li>
-                                <li>Engagement forums</li>
-                                <li>Team engagement</li>
-                            </ul>
-                        <li><strong>Stakeholder engagement</strong><br />
-                        Implement various stakeholder forums and familiarise employees with business and employee relations principles.</li>
-                        <li><strong>Continuous improvement and optimisation</strong><br />
-                        Continuously identify improvements to the strategy, climate, operations and practices and launch special projects to encourage ongoing improvements.</li>
-                        <li><strong>Measure performance and progress</strong><br />
-                        Measurements to gain a performance dashboard and use results to inform your strategy.</li>
-                        <li><strong>Conflict resolution</strong><br />
-                        With a track record dating back to 1985, OIM has developed a proven approach to <strong>conflict resolution</strong> and gained experience in tailoring the approach to various situations.</li>  
-                    </ul>
+<p>
+Several products form part of a comprehensive INVOCOM roll-out, but implementation is customised for specific client needs.
 
-                    <h2>The OIM difference</h2>
+<ul>
+    <li><strong>Climate Creation Workshop (CCW):</strong> OIM works on the principle that mindset change precedes operational change. All implementations are therefore preceded by Climate Creation Workshops to help prepare the general workforce for the change initiative.</li>
+<li><strong>INVOCOM Skills:</strong> Equip appointed leaders with the skills to successfully implement the methodology and business strategy through INVOCOMS.</li>
+<li><strong>INVOCOM coaching and assessments:</strong> Ensure that INVOCOMS are functioning at an acceptable standard to deliver the right results.</li> 
+<li><strong>INVOCOM Coaches Workshop:</strong> Develop internal capacity to coach appointed leaders in the application of the methodology for sustained performance and behaviour improvement.</li>
+<li><strong>Internal Trainers Workshop:</strong> Develop internal capacity to conduct CCW and INVOCOM Skills workshops with limited involvement from OIM.</li> 
+</ul>
+</p>
 
-                    <p>
-                        <ul>
-                            <li>OIM offers an integrated solution, targeting all key <strong>employee relations</strong> areas and focusing on both legal and human aspects.</li> 
-                            <li>This comprehensive strategy is aligned to your business goals and integrates all <strong>employee relations</strong> practices.</li>
-                            <li>Our approach offers long-term results; not short-term tactics.</li>
-                            <li>The elements of the integrated offering are also available as stand-alone interventions.</li>
-                            <li>We follow a practical, no-nonsense approach when designing the intervention.</li> 
-                            <li>OIM is not in the business of consultant dependency. We build internal capacity through the transfer of skills and knowledge and the establishment of regular engagement forums.</li>
-                            <li>Our stakeholder training, especially management-union relations, focuses on the intent, not the letter of the law. This approach deepens people’s understanding of and ability to interpret and apply legislation.</li>
-                            <li>The offering is aligned with OIM’s proven performance cycle and offers seamless integration with other OIM interventions.</li>
-                            <li>If required, clients also benefit from the expertise embedded in all OIM’s core business areas, namely people management, operational optimisation and organisational performance improvement. Other services include <strong>strategic planning, business process management, leadership development</strong> and individual <strong>performance management</strong>.</li>
-                        </ul>
-                    <p>
+<h2>The OIM difference</h2>
+
+<p>
+<ul>
+    <li>For many of our clients INVOCOMS and OIM are synonymous. INVOCOMS are an integral part of our performance improvement approach and have been successfully implemented in numerous industries since the early 80s – both locally and abroad.</li> 
+<li>Numerous blue-chip companies have been using the INVOCOM methodology for many years.</li>
+<li>The methodology is based on a combination of solid business principles and decades of practical experience.</li>
+<li>The implementation is customised to meet the needs of each client and industry.</li>
+<li>Sustainability is a key aspect, so building internal capacity, training leaders and coaching are integral elements of the offering.</li> 
+<li>As a testimony to the robustness of the methodology, it has often survived new management initiatives and the inclination of new leaders to “put their own stamp on things”.</li>  
+<li>INVOCOM is not simply a manual or workshop-driven process – it’s a performance management tool. The aim is to change mindsets and behaviour to improve performance.</li>
+</ul>
+                </p>
+<p>INVOCOM/INVOCOMS is a registered OIM trademark. All copyright is reserved.</p>
+
                 </div>
             </div>
             <div id='sidebar' class='left'>
