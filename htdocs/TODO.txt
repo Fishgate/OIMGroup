@@ -40,4 +40,8 @@ There is no content on the BEE page
 PARTNERSHIPS
 -------------------------------
 The partnerships page doesnt end with enough space between the bottom of the content and the footer
-    
+
+-------------------------------
+CLASSES
+-------------------------------
+My mailer class is not very robust when it comes to adding/removing the number of database columns and entires

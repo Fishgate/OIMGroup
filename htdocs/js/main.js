@@ -138,36 +138,37 @@ function validate_email (target) {
     }
 }
 
-if($("#contact-form").length > 0){    
+if($("#contact-form").length > 0){
     $("#number").bind("keydown", disable_alpha_chars);
     
     function validate_contactform() {
         var valid_name      = validate("#name");
-        var valid_number    = validate("#number");
         var valid_email     = validate_email("#email");
-        var valid_message   = validate("#message");
-        
-        if(valid_name && valid_number && valid_email && valid_message){
+        var valid_topic     = validate("#topic");
+
+        if(valid_name && valid_email && valid_topic){
             return true;
         }else{
             alert('Please fill in all the required form fields correctly before submitting');
             return false;
         }
-        
     }
     
     function execute_contactform(result) {
         var res = result.trim();
-
+        /*
         if(res === 'success'){
             alert('Thank you! A confirmation of your request will be emailed to you shortly.');
         }else{
             alert(result);
-        }      
+        } 
+        */
+       
+       console.log(result);
     }
     
     $("#contact-form").ajaxForm({
-        url:            "../mail.execute.php",
+        url:            php_data.relpath + "mail.execute.php",
         type:           "post",
         beforeSubmit:   validate_contactform,
         success:        execute_contactform,
