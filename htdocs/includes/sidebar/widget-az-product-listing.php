@@ -21,8 +21,8 @@
         <li><a href="<?php echo $relpath; ?>products-services/operations-management/operations-management-interventions.php">Maintenance optimisation</a></li>
         <li><a href="<?php echo $relpath; ?>products-services/organisational-development/employee-relations.php">Management-union relations</a></li>
         <li><a href="<?php echo $relpath; ?>products-services/operations-management/operations-management-interventions.php">Operations management interventions</a></li>
-        <li><a href="<?php echo $relpath; ?>products-services/people-management/talent-management/reward-consulting.php">Reward strategy consultation</a></li>
-        <li><a href="<?php echo $relpath; ?>products-services/organisational-development/business-architecture.php">Scorecard development</a></li>
+        <li><a href="<?php echo $relpath; ?>products-services/people-management/talent-management/reward-consulting.php">Reward consultation</a></li>
+        <li><a href="<?php echo $relpath; ?>products-services/operations-management/scorecards.php">Scorecard development</a></li>
         <li><a href="<?php echo $relpath; ?>products-services/organisational-development/stakeholder-perception-survey.php">Stakeholder perception surveys</a></li>
         <li><a href="<?php echo $relpath; ?>products-services/organisational-development/business-development-strategy/change-management.php">Strategic communication</a></li>
         <li><a href="<?php echo $relpath; ?>products-services/organisational-development/business-development-strategy/strategic-planning.php">Strategic planning</a></li>

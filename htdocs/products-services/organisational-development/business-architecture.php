@@ -36,13 +36,13 @@
                 <div class='copy'>
                     <p>Structure follows strategy.</p> 
 
-                    <p>For your business strategy to succeed, the alignment of business structure, functional strategies and operating models is essential.</p>
+                    <p>For your business strategy to succeed, the alignment of your business structure, functional strategies and operating models is essential.</p>
 
                     <p>OIM’s business architecture offering helps organisations to achieve this alignment by developing and implementing a blue print for functional effectiveness, similar to an architect’s plan that shows the layout of a house down to the last detail. Our approach ensures that every aspect of your business structure is geared for functionality with clearly defined accountabilities, operating principles and flow of information for accurate decision making.<p> 
 
                     <h2>Our offering</h2>
 
-                    <p>OIM’s <strong>business architecture</strong> offering <strong>aligns</strong> the following elements with your business strategy: 
+                    <p>OIM’s business architecture offering <strong>aligns</strong> the following elements with your business strategy: 
                         <ul>
                             <li><strong>Strategic initiatives:</strong> The strategy is transformed into strategic initiatives to create a common focus throughout the organisation.</li>
                             <li><strong>Business scorecards:</strong> These initiatives are translated into measurable goals and targets to allow for implementation and ongoing performance evaluation...<a href='scorecards.php'>Read more</a></li>        
@@ -58,17 +58,19 @@
                     <p>
                         <ul>
                             <li><strong>OIM’s offering is unique in that we have a multidisciplinary team of consultants with decades of experience in operations management, organisational performance and people management.</strong></li> 
-                            <li>This offers seamless integration of the following key areas that relate to your <strong>business architecture</strong>:</li>
-                            <li>Strategic planning</li>
-                            <li>Organisational and operational structures</li>
-                            <li>Scorecards</li>
-                            <li>Processes and productivity standards</li>
-                            <li>Project management of information systems</li>
-                            <li>Competency profiling</li>
-                            <li>Reward strategy</li>
-                            <li>Change management and change communication</li>
-                            <li>Individual performance management</li>
-                            <li>Operational communication structures</li>  
+                            <li>This offers seamless integration of the following key areas that relate to your business architecture:</li>
+                            <ul>
+                                <li>Strategic planning</li>
+                                <li>Organisational and operational structures</li>
+                                <li>Scorecards</li>
+                                <li>Processes and productivity standards</li>
+                                <li>Project management of information systems</li>
+                                <li>Competency profiling</li>
+                                <li>Reward strategy</li>
+                                <li>Change management and change communication</li>
+                                <li>Individual performance management</li>
+                                <li>Operational communication structures</li>
+                            </ul>  
                         </ul>
                     </p>
                 </div>

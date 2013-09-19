@@ -50,7 +50,7 @@
                     <ul>
                         <li><strong>Information sharing and awareness:</strong> Using a range of communication tools, eg social networking, road shows, newsletters, posters and communication campaigns.</li>
                         <li><strong>Peer-to-peer influence:</strong> Establish change champions and peer-level leaders who share information, create buy-in and influence on an informal level.</li>
-                        <li><strong>Business understanding:</strong> Coupled with information sharing and peer champions, we use OIM’s Climate Creation Workshops to ensure all employees have a holistic understanding of the business context and how their role contributes to organisational success. Similarly, OIM’s employee engagement methodology, INVOCOMS, is used to engage teams around business goals, team conduct and specific focused communication and learning topics.</li>
+                        <li><strong>Business understanding:</strong> Coupled with information sharing and peer champions, we use OIM’s Climate Creation Workshops to ensure all employees have a holistic understanding of the business context and how their role contributes to organisational success. Similarly, OIM’s employee engagement methodology, INVOCOMS&reg;, is used to engage teams around business goals, team conduct and specific focused communication and learning topics.</li>
                     </ul>
                     </p>
 
@@ -58,7 +58,7 @@
 
                     <p>Below is an overview of the main offerings that work in partnership to provide this unique approach.</p>
 
-                    <p><strong>Strategic communication</strong><br/>
+                    <p><strong>A. Strategic communication</strong><br/>
                     Aim: A clearly defined strategic plan to influence stakeholders positively through communication</p>
 
                     <p>Traditional strategic communication uses a hierarchical method of information sharing. This is done in a variety of ways such as presentations, workshops and electronic communication. While information sharing is important, it often lacks engagement, tends to create the impression of “being spoken to”, and commonly does not direct the right message in the right way to the right people. To address these shortcomings, OIM In Context establishes a clearly defined communication framework based on the following key elements:<br/>
@@ -70,7 +70,7 @@
                         </ul>
                     </p>
 
-                    <p><strong>Change communication</strong><br/>
+                    <p><strong>B. Change communication</strong><br/>
                     Aim: Support new business initiatives through a change communication plan that accurately informs people of the upcoming change, creates understanding around it and establishes buy-in. 
                     <strong>Change communication plays a crucial role in any change initiative and is an important key to sustainable behavioural and culture change.</strong></p>
 
@@ -79,11 +79,10 @@
                             <li><strong>Change readiness assessment</strong></li>
                             <li><strong>Stakeholder map and key message design</strong></li>
                             <li><strong>Informal social network</strong></li>
-                            <li><strong>Peer-to-peer influence</strong></li>
+                            <li><strong>Peer-to-peer influence: </strong>People are influenced by what they see and behaviours are copied. Therefore we train change champions and peer-level leaders.</li>
                         </ul>
                     </p>
                 
-                    <p>People are influenced by what they see and behaviours are copied. Therefore we train change champions and peer-level leaders.</p>
 
                     <p>All the above elements are supported by consultation and training to ensure the full understanding, involvement and cooperation of employees.</p>
 

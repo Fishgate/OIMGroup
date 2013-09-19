@@ -32,7 +32,7 @@
             <div id='body' class='left'>
                 <div class='breadcrumb'><i class="icon-map-marker icon-large red"></i> &nbsp;YOU ARE HERE: <span class='red'>Products & Services</span> / <span class='red'>People Management</span> / <span class='red'>Leadership and Team Interventions</span></div>
                 <h1>Leadership Development Interventions</h1>
-                <div class='caption'>Sharpening <strong>leadership skills</strong></div>
+                <div class='caption'>Sharpening leadership skills</div>
                 <div class='copy'>
                     <p>When managed correctly, learning interventions are a valuable performance tool to develop leaders in critical areas needed for business success.</p>
 
@@ -44,11 +44,11 @@
 
                     <h2>Our offering</h2>
 
-                    <p>Our <strong>leadership development</strong> modules are available in a range of interpersonal, intrapersonal and functional skills, including:
+                    <p>Our leadership development modules are available in a range of interpersonal, intrapersonal and functional skills, including:
                         <ul>
                             <li>Building high-performance teams
-                            <li><strong>Change management</strong></li>
-                            <li>Interpersonal <strong>conflict resolution</strong></li>
+                            <li>Change management</li>
+                            <li>Interpersonal conflict resolution</li>
                             <li>Decision-making skills </li>
                             <li>Delegation skills</li>
                             <li>Emotional intelligence</li>
@@ -57,9 +57,8 @@
                             <li>Leadership effectiveness</li>
                             <li>General performance management skills, eg giving praise and recognition, listening, giving and asking for feedback</li>
                             <li>Presentation and facilitation skills</li>
-                            <li>Recruitment and selection skills</li>
                             <li>Resilience</li>
-                            <li><strong>Talent management</strong></li>
+                            <li>Talent management</li>
                         </ul>
                     </p>
 
@@ -69,9 +68,9 @@
 
                     <p>
                     <ul>
-                        <li>OIM’s leadership talent team comprises registered industrial psychologists and organisational development practitioners with years of experience in <strong>leadership development, talent management</strong> and <strong>team dynamics</strong>.</li>
+                        <li>OIM’s leadership talent team comprises registered industrial psychologists and organisational development practitioners with years of experience in leadership development, talent management and team dynamics.</li>
                         <li>Given this background, our team can lay claim to solid knowledge of both business and human behaviour.</li> 
-                        <li>We don’t simply offer the standard modules. Our interventions are designed as <strong>performance management</strong> tools that are aligned with the talent development and business needs of clients.</li>
+                        <li>We don’t simply offer the standard modules. Our interventions are designed as performance management tools that are aligned with the talent development and business needs of clients.</li>
                     </ul>
                     </p>
                 </div>

@@ -31,7 +31,7 @@
         <div id='contentwrap' class='clearfix'>
             <div id='body' class='left'>
                 <div class='breadcrumb'><i class="icon-map-marker icon-large red"></i> &nbsp;YOU ARE HERE: <span class='red'>Products & Services</span> / <span class='red'>People Management</span> / <span class='red'>Leadership and Team Interventions</span></div>
-                <h1>Leadership Assessments</h1>
+                <h1>Assessments: Leadership and Critical Talent</h1>
                 <div class='caption'>Measuring competencies, potential and job fit </div>
                 <div class='copy'>
                     <p>An assessment battery is one of the most successful methods to gain a more accurate picture of an employee’s aptitudes, behavioural preferences, work style, cultural fit and potential.</p>
@@ -46,12 +46,12 @@
 
                     <p>
                         <ul>
-                            <li><strong>Personality:</strong> Outline a person’s preferred behaviour, strengths and development areas</li>
-                            <li><strong>Cognition and abilities:</strong> Evaluate aspects such as verbal, numerical and abstract reasoning abilities</li>
-                            <li><strong>Capabilities:</strong> Gauge what job level or complexity of work a person is capable of</li>
-                            <li><strong>Values and motives:</strong> Measure cultural and job fit requirements and inform career path planning</li>
-                            <li><strong>Observable behaviour:</strong> Observe individual behaviour under various circumstances and determine competencies (including in-tray case studies, role play for individuals and groups, as well as fact-finding and leaderless group exercises)</li>
-                            <li><strong>360° assessments:</strong> Feedback from peers, line managers and subordinates to obtain a comprehensive view of a person’s performance and behaviour</li>
+                            <li><strong>Personality:</strong> Outline a person’s preferred behaviour, strengths and development areas.</li>
+                            <li><strong>Cognition and abilities:</strong> Evaluate aspects such as verbal, numerical and abstract reasoning abilities.</li>
+                            <li><strong>Capabilities:</strong> Gauge what job level or complexity of work a person is capable of.</li>
+                            <li><strong>Values and motives:</strong> Measure cultural and job fit requirements and inform career path planning.</li>
+                            <li><strong>Observable behaviour:</strong> Observe individual behaviour under various circumstances and determine competencies (including in-tray case studies, role play for individuals and groups, as well as fact-finding and leaderless group exercises).</li>
+                            <li><strong>360° assessments:</strong> Feedback from peers, line managers and subordinates to obtain a comprehensive view of a person’s performance and behaviour.</li>
                         </ul>
                     </p>
 
@@ -62,7 +62,7 @@
                         <li>OIM offers a range of leading assessment batteries which our leadership specialists are accredited to implement.</li>
                         <li>The models are benchmarked against international standards, offering results that are valid, reliable and culturally fair.</li>
                         <li>We can customise assessments for your organisation’s needs.</li>
-                        <li>OIM’s leadership talent team comprises registered industrial psychologists and organisational development practitioners many years’ experience in <strong>talent management, team dynamics</strong> and <strong>leadership development</strong>.</li>
+                        <li>OIM’s leadership talent team comprises registered industrial psychologists and organisational development practitioners with many years’ experience in talent management, team dynamics and leadership development.</li>
                         <li>Clients who are already using OIM’s integrated performance methodology can benefit from assessments that have been aligned to this model.</li>
                         </ul>
                     </p>

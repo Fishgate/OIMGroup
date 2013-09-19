@@ -32,7 +32,7 @@
             <div id='body' class='left'>
                 <div class='breadcrumb'><i class="icon-map-marker icon-large red"></i> &nbsp;YOU ARE HERE: <span class='red'>Products & Services</span> / <span class='red'>People Management</span></div>
                 <h1>Supervisory Skills</h1>
-                <div class='caption'>The critical fit between <strong>supervisory skills</strong> and measurable operational results</div>
+                <div class='caption'>The critical fit between supervisory skills and measurable operational results</div>
                 <div class='copy'>
                     <p>It’s a well-known fact that South Africa suffers from a skills shortage. This is a growing concern across several industries and most economists agree that it poses a significant threat to the country’s long-term economic growth.</p> 
 
@@ -45,7 +45,7 @@
                         <ul>
                             <li><strong>Define</strong> what supervisors need to do – an internationally benchmarked framework outlining the required competencies and capabilities.</li> 
                             <li><strong>Assess</strong> supervisors against these competencies to determine the development needs, establish a baseline and track progress. Supervisors undergo a series of pre- and post-assessments while operations solutions consultants conduct regular on-the-floor evaluations.</li> 
-                            <li><strong>Develop supervisory skills</strong> through an 80-20 intervention. This is a unique blend of classroom training and assignments (20% focus), complemented by on-the-floor coaching and evaluations (80% focus). This approach bridges the learning transfer gap by ensuring that knowledge is properly applied in the workplace while clients benefit from ongoing operational optimisation.</li>
+                            <li><strong>Develop</strong> supervisory skills through an 80-20 intervention. This is a unique blend of classroom training and assignments (20% focus), complemented by on-the-floor coaching and evaluations (80% focus). This approach bridges the learning transfer gap by ensuring that knowledge is properly applied in the workplace while clients benefit from ongoing operational optimisation.</li>
                             <li><strong>Manage talent </strong> through a model that includes recruitment, retention, succession planning and leadership development in your organisation.</li>
                         </ul>
                     </p>
@@ -53,16 +53,16 @@
                     <p>You may find programmes that offer these elements in isolation, but few present them as a single intervention led by a multidisciplinary team of specialists with years of experience in performance improvement, process and operational optimisation, and leadership development.</p>
 
                     <h2>The OIM difference</h2>
-                    <p>OIM’s <strong>supervisory skills</strong> offering provides you with: 
+                    <p>OIM’s supervisory skills offering provides you with: 
                         <ul>
                             <li>A programme that is aligned to your company’s strategy, culture and specific leadership requirements.</li>
                             <li>A programme that measures the intervention effectiveness against improved operational performance, efficiency and throughput.</li>
-                            <li>A multidisciplinary team of experienced business consultants in the areas of performance improvement, process and operational optimisation, and <strong>leadership development</strong>.</li>
+                            <li>A multidisciplinary team of experienced business consultants in the areas of performance improvement, process and operational optimisation, and leadership development.</li>
                             <li>A competency framework that is benchmarked against international leadership competencies and proven elements for high-performing organisations.</li>
                             <li>An emphasis on skills transfer: On-the-floor coaching and evaluations (80% of development intervention) complemented by classroom training and assignments.</li>
                             <li>Coaching by specialists in operational optimisation who also help design workforce, process and other operational solutions.</li> 
                             <li>A series of pre- and post-assessments, measuring both psychometrics and operational results.</li>
-                            <li>If required, clients also benefit from the expertise embedded in all OIM’s core business areas, namely people management, operational optimisation and organisational performance improvement. Other services include <strong>strategic planning, business process management, leadership development, employee relations</strong> and <strong>individual performance management</strong>.</li>
+                            <li>If required, clients also benefit from the expertise embedded in all OIM’s core business areas, namely people management, operational optimisation and organisational performance improvement. Other services include strategic planning, business process management, leadership development, employee relations and individual performance management.</li>
                         </ul>
                     </p>
                 </div>

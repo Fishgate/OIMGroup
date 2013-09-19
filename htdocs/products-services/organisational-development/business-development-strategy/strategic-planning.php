@@ -34,18 +34,18 @@
                 <h1>Strategic Planning</h1>
                 <div class='caption'>Stay on course, current and competitive</div>
                 <div class='copy'>
-                    <p>At OIM we understand that the <strong>strategic planning</strong> and thinking process isn’t a once-off event. If you want to remain current and competitive you need continuous review and alignment.</p>
+                    <p>At OIM we understand that the strategic planning and thinking process isn’t a once-off event. If you want to remain current and competitive you need continuous review and alignment.</p>
 
                     <p>We partner with organisations to help facilitate and establish this process. The outcome is:
                         <ul>
                             <li><strong>A well-planned strategy</strong>
-                                <ul>
+                                <ul class="nested_ul">
                                     <li>Informed by sound research and debate.</li>
                                     <li>With clearly articulated implementation plans.</li>
                                 </ul>
                             </li>
                             <li><strong>Internal capability </strong>
-                                <ul>
+                                <ul class="nested_ul">
                                     <li>A method for ongoing reviews.</li>
                                     <li>A database that guides decision making.</li>
                                 </ul>
@@ -53,7 +53,7 @@
                             <li><strong>Execution methodology</strong>
                                 <ul>
                                 <li>To ensure everyone in the organisations is engaged and focused on the performance goals and plays their part in strategy execution.</li>
-                                <li>Relevant tools for communication and <strong>strategy implementation</strong>, eg business and functional scorecards.</li>
+                                <li>Relevant tools for communication and strategy implementation, eg business and functional scorecards.</li>
                                 </ul>
                             </li>
                         </ul>
@@ -65,7 +65,7 @@
                     <p>
                     <strong>OIM can facilitate:</strong>
                         <ul>
-                            <li>A comprehensive <strong>strategic planning</strong> intervention spanning about three months.</li> 
+                            <li>A comprehensive strategic planning intervention spanning about three months.</li> 
                             <li>A one- or two-day workshop to re-focus priorities and action plans.</li>
                             <li>Regular strategic reviews and updates.</li>
                         </ul>
@@ -77,15 +77,13 @@
                         <ul>
                             <li>We do not believe in consultant dependency. Therefore sustainability, inclusivity and building internal capacity for the design, implementation and execution of strategy are key elements in our process.</li>
                             <li>An inherent part of this approach is the establishment of a framework for ongoing reviews.</li>
-                            <li>We have successfully facilitated <strong>strategic planning</strong> interventions for a range of clients, many of whom still rely on our expertise to help facilitate workshops or interventions at critical junctures in their business journey.</li>
-                            <li>OIM has also been leaders in the field of employee engagement (INVOCOM) since the early 80s with implementation in a range of industries and countries. INVOCOM is the execution methodology we establish at organisations as part of the <strong>strategic planning</strong> offering.</li>
+                            <li>We have successfully facilitated strategic planning interventions for a range of clients, many of whom still rely on our expertise to help facilitate workshops or interventions at critical junctures in their business journey.</li>
+                            <li>OIM has also been leaders in the field of employee engagement (INVOCOM) since the early 80s with implementation in a range of industries and countries. INVOCOM is the execution methodology we establish at organisations as part of the strategic planning offering.</li>
                             <li>If required, clients also have access to the expertise embedded in the rest of OIM’s specialist areas, namely organisational performance improvement, operational optimisation and people management.</li> 
                         </ul>
                     </p>
                     
-                    <p><i>"The annual strategy review is a key element of Iliad's corporate calendar. This process needs to address the relevant issues in a structured way, delivering a meaningful set of outcomes essential to the wellbeing of the business. The OIM team has shown the ability to understand our requirements in this regard and delivered an effective framework for our ongoing future use. They are a valued 'member' of our strategy review team - their role is highly respected and much appreciated."
-                    </i><br/>Eugene Beneke, CEO: Iliad</p> 
-
+                    
                 </div>
             </div>
             <div id='sidebar' class='left'>

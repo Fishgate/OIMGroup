@@ -31,10 +31,10 @@
         <div id='contentwrap' class='clearfix'>
             <div id='body' class='left'>
                 <div class='breadcrumb'><i class="icon-map-marker icon-large red"></i> &nbsp;YOU ARE HERE: <span class='red'>Products & Services</span> / <span class='red'>Operations Management</span></div>
-                <h1>Professional Services</h1>
-                <div class='caption'>IT systems: Specialised resources and <strong>project management</strong></div>
+                <h1>IT Systems</h1>
+                <div class='caption'>IT systems: Specialised resources and project management</div>
                 <div class='copy'>
-                   <p>OIM’s <strong>operations management</strong> consultants have been assisting clients with the implementation of IT systems to help them achieve optimised business effectiveness since the late ’90s.</p>
+                   <p>OIM’s operations management consultants have been assisting clients with the implementation of IT systems to help them achieve optimised business effectiveness since the late ’90s.</p>
 
                     <p><strong>The outcome is applied systems, configured to meet your operational and strategic business requirements.</strong></p>
 
@@ -48,7 +48,7 @@
                         </ul>
                     </p>
 
-                    <p>Various methodologies are used to ensure the successful implementation of projects, including SDLC and Agile. We also have extensive experience in <strong>business process management</strong> technologies such as workflow and electronic content management (ECM).</p>
+                    <p>Various methodologies are used to ensure the successful implementation of projects, including SDLC and Agile. We also have extensive experience in business process management technologies such as workflow and electronic content management (ECM).</p>
 
                     <p><strong>Specialised resources</strong><br/>OIM has a network of specialists who can be placed on IT projects, including: 
                             <ul>
@@ -63,7 +63,7 @@
 
                     <p>
                         <ul>
-                            <li>Our experienced <strong>operations management</strong> consultants have worked on systems in the following areas:</li>
+                            <li>Our experienced operations management4 consultants have worked on systems in the following areas:</li>
                             <ul>
                                 <li>Point of sale</li>
                                 <li>Call centres</li>
@@ -72,7 +72,7 @@
                                 <li>New business applications</li>
                             </ul>
                             <li>Clients that have benefited from our expertise in systems management include Absa Life, Metropolitan, Mutual & Federal, Old Mutual, Sanlam, Southern Sun, Clickatell and Clicks.</li>
-                            <li>Clients also have access to OIM’s expertise in organisational improvement and people management. This includes <strong>strategic planning, business architecture, leadership development, employee relations</strong> and <strong>employee engagement</strong>. All of these solutions are seamlessly implemented by specialists in the core business areas.</li>
+                            <li>Clients also have access to OIM’s expertise in organisational improvement and people management. This includes strategic planning, business architecture, leadership development, employee relations and employee engagement. All of these solutions are seamlessly implemented by specialists in the core business areas.</li>
                         </ul>
                     </p>
                 </div>

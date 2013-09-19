@@ -43,8 +43,10 @@
                         </ul>
                     </p>
 
-                    <p><strong>The link with strategy, operational goals and individual performance</strong> 
-                    Scorecards are the tool that links strategy with operational goals as well as team and individual performance. OIM has the expertise to assist clients with strategic planning, developing operational scorecards, setting up teams to manage their <a href='invocoms.php'>own performance</a> and <a href='individual_performance_management.php'>individual performance</a>, allowing for a seamless integration of the scorecard process with performance.
+                    
+                    <h2>The link with strategy, operational goals and individual performance</h2>
+                    <p> 
+                    Scorecards are the tool that links strategy with operational goals as well as team and individual performance. OIM has the expertise to assist clients with strategic planning, developing operational scorecards, setting up teams to manage their <a href="<?php echo $relpath; ?>products-services/people-management/employee-engagement.php">own performance</a> and <a href="<?php echo $relpath; ?>products-services/people-management/talent-management/performance-management-process.php">individual performance</a>, allowing for a seamless integration of the scorecard process with performance.
                     </p>
 
                     <h2>The OIM difference</h2>
