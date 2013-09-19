@@ -219,21 +219,17 @@ ul ul{
     color: #999;
     padding: 10px 20px;
 }
-.menu-item-single a{ /* Added by Jan */
-    color: #999;
-}
 .menu-item:hover{
     background: #A22B38;
-    color: #ffffff;
-}
-.menu-item-single a:hover{ /* Added by Jan */
-    color: #ffffff;
-    text-decoration: none;
+    color: #ffffff!important;
 }
 .menu-item i{
     margin-left: 10px;
 }
-
+.menu-item a{
+    text-decoration: none;
+    color: inherit;
+}
 .mega-holder{
     position: absolute;
     z-index: 999;
@@ -421,6 +417,9 @@ body{
 }
 .service-copy p{
     min-height: 120px;
+}
+.service-copy h2{
+    margin-top: 30px!important;
 }
 .service-copy a{
     display: block;

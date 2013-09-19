@@ -13,14 +13,14 @@
         <a href="<?php echo $relpath; ?>home"><span class="icon">&#xf015;</span></a>
     </div>
     <div id="nav-holder" class="left"><!-- TOP LVL NAV -->
-        <div class="left menu-item menu-item-single">
+        <div class="left menu-item">
             <a href="<?php echo $relpath; ?>about-oim/our-methodology.php">Our Methodology</a>
         </div>
         <div class="left menu-item products_toplvl">
             Products &amp; Services&nbsp;<i class="icon-angle-down"></i>
             <?php include $relpath.'/includes/mega-products.php' ?>
         </div>
-        <div class="left menu-item menu-item-single">
+        <div class="left menu-item">
             <a href="<?php echo $relpath; ?>contact-us">Contact</a>
         </div>
     </div>
