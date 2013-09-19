@@ -5,6 +5,13 @@
 <script src='<?php echo $relpath; ?>js/plugins/responsiveslides.js'></script>
 <script src="<?php echo $relpath; ?>js/plugins/jquery.simplyscroll.js"></script>
 <script src="<?php echo $relpath; ?>js/plugins/jquery.form.min.js"></script>
+
+<script type='text/javascript'>
+/* <![CDATA[ */
+var php_data = {"relpath":"<?php echo $relpath; ?>"};
+/* ]]> */
+</script>
+
 <script src="<?php echo $relpath; ?>js/main.js"></script>
 
 <!-- Google Analytics: change UA-XXXXX-X to be your site's ID. -->

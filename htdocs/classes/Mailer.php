@@ -36,6 +36,18 @@ class Mailer {
     public $client_name;
     
     /**
+     *
+     * @var type 
+     */
+    public $client_company;
+    
+    /**
+     *
+     * @var type 
+     */
+    public $client_enquiry;
+    
+    /**
      * Client's contact number filled out in the contact form.
      * 
      * @var String
@@ -104,10 +116,12 @@ class Mailer {
     public function logEmail() {
         try {
             // prepare the sql query
-            $this->log = $this->dbConn->prepare('INSERT INTO '.DB_LOGS_TBL.' (name, number, email, message, date, unix) VALUES (:name, :number, :email, :message, :date, :unix);');
+            $this->log = $this->dbConn->prepare('INSERT INTO '.DB_LOGS_TBL.' (name, company, enquiry, number, email, message, date, unix) VALUES (:name, :company, :enquiry, :number, :email, :message, :date, :unix);');
             
             // bind our values
             $this->log->bindValue(':name',      $this->client_name);
+            $this->log->bindValue(':company',   $this->client_company);
+            $this->log->bindValue(':enquiry',   $this->client_enquiry);
             $this->log->bindValue(':number',    $this->client_telephone);
             $this->log->bindValue(':email',     $this->client_email);
             $this->log->bindValue(':message',   $this->client_message);
@@ -156,6 +170,8 @@ class Mailer {
     private function prepNotification(){
         $this->notifyTemplate = "A contact form request has been completed.<br />";
         $this->notifyTemplate .= '<strong>Name: </strong>'.$this->client_name."<br />";
+        $this->notifyTemplate .= '<strong>Company: </strong>'.$this->client_company."<br />";
+        $this->notifyTemplate .= '<strong>Topic of equiry: </strong>'.$this->client_enquiry."<br />";
         $this->notifyTemplate .= '<strong>Contact no. </strong>: '.$this->client_telephone."<br />";
         $this->notifyTemplate .= '<strong>Email: </strong>'.$this->client_email."<br />";
         $this->notifyTemplate .= '<strong>Message: </strong>'.$this->client_message;
@@ -173,9 +189,8 @@ class Mailer {
     public function sendNotifyEmail() {
         $this->phpmailer->From = $this->client_email;
         $this->phpmailer->FromName = $this->client_name;
-        //$this->phpmailer->AddAddress($this->admin_email);
-        $this->phpmailer->AddAddress($this->client_email);
-        $this->phpmailer->AddReplyTo($this->client_email, $this->admin_name);
+        $this->phpmailer->AddAddress($this->admin_email);        
+        $this->phpmailer->AddReplyTo($this->client_email, $this->client_name);
 
         $this->phpmailer->IsHTML(true);
 
