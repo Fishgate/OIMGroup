@@ -32,7 +32,7 @@
             <div id='body' class='left'>
                 <div class='breadcrumb'><i class="icon-map-marker icon-large red"></i> &nbsp;YOU ARE HERE: <span class='red'>Products & Services</span> / <span class='red'>Talent Management</span></div>
                 <h1>Talent Management</h1>
-                <div class='caption'>Unlocking your organisation’s potential</div>
+                <div class='caption'><span>Unlocking your organisation’s potential</span></div>
                 <div class='copy'>
                     <p>How do you attract, retain, develop and deploy the appropriate talent to support your business strategy?</p> 
 

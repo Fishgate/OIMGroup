@@ -32,7 +32,7 @@
             <div id='body' class='left'>
                 <div class='breadcrumb'><i class="icon-map-marker icon-large red"></i> &nbsp;YOU ARE HERE: <span class='red'>Products & Services</span> / <span class='red'>People Management</span> / <span class='red'>Leadership and Team Interventions</span></div>
                 <h1>Assessments: Leadership and Critical Talent</h1>
-                <div class='caption'>Measuring competencies, potential and job fit </div>
+                <div class='caption'><span>Measuring competencies, potential and job fit</span></div>
                 <div class='copy'>
                     <p>An assessment battery is one of the most successful methods to gain a more accurate picture of an employee’s aptitudes, behavioural preferences, work style, cultural fit and potential.</p>
 

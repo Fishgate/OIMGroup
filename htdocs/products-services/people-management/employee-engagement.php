@@ -32,7 +32,7 @@
             <div id='body' class='left'>
                 <div class='breadcrumb'><i class="icon-map-marker icon-large red"></i> &nbsp;YOU ARE HERE: <span class='red'>Products & Services</span> / <span class='red'>People Management</span></div>
                 <h1>Employee engagement (INVOCOMS)</h1>
-                <div class='caption'>Employee <strong>Invo</strong>lvement through <strong>Com</strong>munication for Commitment and <strong>Inno</strong>vation</div>
+                <div class='caption'><span>Employee <strong>Invo</strong>lvement through <strong>Com</strong>munication for Commitment and <strong>Inno</strong>vation</span></div>
                 <div class='copy'>
                     <p>The effective execution of your business strategy relies on the level of contribution that every individual in your business makes. Research proves there is a direct correlation between the level of engagement in an organisation and performance. The more informed and involved people are, the higher their level of commitment and contribution to organisational success.
 

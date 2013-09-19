@@ -32,7 +32,7 @@
             <div id='body' class='left'>
                 <div class='breadcrumb'><i class="icon-map-marker icon-large red"></i> &nbsp;YOU ARE HERE: <span class='red'>Products & Services</span> / <span class='red'>Organisational Development</span></div>
                 <h1>Stakeholder Perception Surveys</h1>
-                <div class='caption'>Gaining insight to inform strategy</div>
+                <div class='caption'><span>Gaining insight to inform strategy</span></div>
                 <div class='copy'>
                     <p>At OIM we believe you manage what you measure.</p> 
 

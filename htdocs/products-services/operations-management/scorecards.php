@@ -26,7 +26,7 @@
             <div id='body' class='left'>
                 <div class='breadcrumb'><i class="icon-map-marker icon-large red"></i> &nbsp;YOU ARE HERE: <span class='red'>Products & Services</span> / <span class='red'>Operations Management</span></div>
                 <h1>Scorecards</h1>
-                <div class='caption'>Translate strategy into performance</div>
+                <div class='caption'><span>Translate strategy into performance</span></div>
                 <div class='copy'>
                     <p>Scorecards play a crucial role in organisational, team and individual performance management. They are used to translate strategic priorities to all organisational levels to establish overall alignment and a collective focus on the right goals and targets.</p>
 

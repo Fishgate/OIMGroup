@@ -32,7 +32,7 @@
             <div id='body' class='left'>
                 <div class='breadcrumb'><i class="icon-map-marker icon-large red"></i> &nbsp;YOU ARE HERE: <span class='red'>Products & Services</span> / <span class='red'>Operations Management</span></div>
                 <h1>IT Systems</h1>
-                <div class='caption'>IT systems: Specialised resources and project management</div>
+                <div class='caption'><span>IT systems: Specialised resources and project management</span></div>
                 <div class='copy'>
                    <p>OIM’s operations management consultants have been assisting clients with the implementation of IT systems to help them achieve optimised business effectiveness since the late ’90s.</p>
 

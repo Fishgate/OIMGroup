@@ -32,7 +32,7 @@
             <div id='body' class='left'>
                 <div class='breadcrumb'><i class="icon-map-marker icon-large red"></i> &nbsp;YOU ARE HERE: <span class='red'>Products & Services</span> / <span class='red'>Operations Management</span></div>
                 <h1>Operations Management Interventions</h1>
-                <div class='caption'>Improved operational efficiency</div>
+                <div class='caption'><span>Improved operational efficiency</span></div>
                 <div class='copy'>
                     <p>The core focus of OIM’s operations management interventions is to improve efficiencies and throughput, reduce operating costs and resolve operational constraints. </p>
 

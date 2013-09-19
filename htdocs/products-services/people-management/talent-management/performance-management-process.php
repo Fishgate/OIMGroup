@@ -32,7 +32,7 @@
             <div id='body' class='left'>
                 <div class='breadcrumb'><i class="icon-map-marker icon-large red"></i> &nbsp;YOU ARE HERE: <span class='red'>Products & Services</span> / <span class='red'>Talent Management</span></div>
                 <h1>Individual Performance Management</h1>
-                <div class='caption'>Implement and sustain a customised performance management system</div>
+                <div class='caption'><span>Implement and sustain a customised performance management system</span></div>
                 <div class='copy'>
                     <p>Any employee, regardless of position or job level, needs to understand the following:
                     <ul>

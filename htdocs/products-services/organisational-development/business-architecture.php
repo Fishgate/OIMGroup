@@ -32,7 +32,7 @@
             <div id='body' class='left'>
                 <div class='breadcrumb'><i class="icon-map-marker icon-large red"></i> &nbsp;YOU ARE HERE: <span class='red'>Products & Services</span> / <span class='red'>Organisational Development</span></div>
                 <h1>Business Architecture</h1>
-                <div class='caption'>Structure your business for success</div>
+                <div class='caption'><span>Structure your business for success</span></div>
                 <div class='copy'>
                     <p>Structure follows strategy.</p> 
 

@@ -32,7 +32,7 @@
             <div id='body' class='left'>
                 <div class='breadcrumb'><i class="icon-map-marker icon-large red"></i> &nbsp;YOU ARE HERE: <span class='red'>Products & Services</span> / <span class='red'>Operations Management</span></div>
                 <h1>Operations Review</h1>
-                <div class='caption'>Identify operational constraints</div>
+                <div class='caption'><span>Identify operational constraints</span></div>
                 <div class='copy'>
                     <p><strong>An operations review is a quick, reliable way to identify areas of operational constraint and map a solution.</strong></p>
 

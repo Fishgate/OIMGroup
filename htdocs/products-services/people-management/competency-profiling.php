@@ -32,7 +32,7 @@
             <div id='body' class='left'>
                 <div class='breadcrumb'><i class="icon-map-marker icon-large red"></i> &nbsp;YOU ARE HERE: <span class='red'>Products & Services</span> / <span class='red'>People Management</span> / <span class='red'>Leadership and Team Interventions</span></div>
                 <h1>Competency Profiling</h1>
-                <div class='caption'>A framework against which to assess, develop & manage your organisation’s talent</div>
+                <div class='caption'><span>A framework against which to assess, develop & manage your organisation’s talent</span></div>
                 <div class='copy'>
                     <p>Competency profiling is an essential component of HR management. It identifies the competencies – skills, knowledge, attributes and attitudes – required for each job level or role to optimise your organisation’s performance.</p>
 

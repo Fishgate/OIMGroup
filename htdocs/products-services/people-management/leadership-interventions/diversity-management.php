@@ -32,7 +32,7 @@
             <div id='body' class='left'>
                 <div class='breadcrumb'><i class="icon-map-marker icon-large red"></i> &nbsp;YOU ARE HERE: <span class='red'>Products & Services</span> / <span class='red'>People Management</span> / <span class='red'>Leadership and Team Interventions</span></div>
                 <h1>Diversity Awareness</h1>
-                <div class='caption'>Creating a climate for improved workplace relationships</div>
+                <div class='caption'><span>Creating a climate for improved workplace relationships</span></div>
                 <div class='copy'>
                     <p>Where people from various cultural or language backgrounds or age, gender and language groups work together, misunderstandings and even conflict can easily arise.</p>  
 
