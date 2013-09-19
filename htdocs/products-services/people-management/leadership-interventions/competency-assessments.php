@@ -9,8 +9,8 @@
         <!-- BEGIN HEAD -->
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-        <title>Competency Profiling - HR Management | OIM</title>
-        <meta name="description" content="OIM provides competency profiling, an essential part of HR management to indentify the competencies required for each job level or role">
+        <title>Competency Assessments - Leadership Assessments | OIM</title>
+        <meta name="description" content="OIM offers a range of leadership competency assessments to increase an employee's productivity and match aptitudes with responsibilities      ">
         <meta name="viewport" content="width=device-width">
         
         <?php include $relpath.'includes/styles.php' ?>

@@ -9,8 +9,8 @@
         <!-- BEGIN HEAD -->
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-        <title>Team Dynamics - Team Performance | OIM</title>
-        <meta name="description" content="OIM helps optimise team dyamics and performance using a well-known methodology to help team members understand one another's strengths">
+        <title>Performance Management Process | OIM</title>
+        <meta name="description" content="OIM helps the performance management process of organisations by aligning the business strategy and individual expectations with business goals">
         <meta name="viewport" content="width=device-width">
         
         <?php include $relpath.'includes/styles.php' ?>

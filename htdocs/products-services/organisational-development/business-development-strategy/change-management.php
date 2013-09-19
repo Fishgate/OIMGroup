@@ -9,8 +9,8 @@
         <!-- BEGIN HEAD -->
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-        <title>Business Architecture - Enterprise Architecture | OIM</title>
-        <meta name="description" content="OIM assists your business to be effective by developing a business architecture to optimise your organisation structure and business processes">
+        <title>Change Management - Process & Strategy | OIM</title>
+        <meta name="description" content="OIM's approach to the change management process aligns with organisation's business strategy and provides effective employee engagement">
         <meta name="viewport" content="width=device-width">
         
         <?php include $relpath.'includes/styles.php' ?>

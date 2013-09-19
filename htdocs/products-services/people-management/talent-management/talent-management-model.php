@@ -9,8 +9,8 @@
         <!-- BEGIN HEAD -->
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-        <title>Talent Management Strategy & Career Management | OIM</title>
-        <meta name="description" content="OIM's talent management process addresses all key talent areas of attracting, developing and deploying the appropriate talent in an organisation">
+        <title>Talent Management Model - Scorecards | OIM</title>
+        <meta name="description" content="OIM's talent management model uses a structured scorecard approach to link strategy with operational goals and individual and team performance">
         <meta name="viewport" content="width=device-width">
         
         <?php include $relpath.'includes/styles.php' ?>
