@@ -73,7 +73,7 @@
                             <h2>Map</h2>
                             <div>
                                 <i class="icon-download-alt icon-2x"></i>
-                                <a href="<?php echo $relpath; ?>downloads/pdf/directions.pdf">Download Map</a>
+                                <a href="<?php echo $relpath; ?>downloads/pdf/directions.pdf" target='_blank'>Download Map</a>
                             </div>
                         </div>
                         <a target="_blank" href="https://maps.google.com/maps?q=OIM+International+(Pty)+Ltd,+Cape+Town,+South+Africa&hl=en&ll=-33.855181,18.626032&spn=0.010995,0.019484&sll=37.0625,-95.677068&sspn=46.092115,79.804688&oq=OIM+International+(Pty)+Ltd&t=m&z=16&iwloc=A"><img src="<?php echo $relpath; ?>img/contact-map.jpg" alt="OIM International Map" /></a>
