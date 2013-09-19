@@ -30,6 +30,43 @@
                 <h1>Archive - 2013</h1>
                 <!--==================================== NEWS ARTICLE =====-->
                 <div class="news-holder dotted-bottom clearfix">
+                    <div class="left news-date"><span class="day">01</span><span class="month">May</span></div>
+                    <div class="left news-article">
+                        <article class="clearfix">
+                            <header class="news-head">Cape Argus Workplace</header>
+                            <p><b>1. What does your job entail?</b><br />
+My job is all about problem solving and ultimately adding value to a client’s business. On a day-to-day basis I engage with clients to identify operational improvement opportunities for revenue upliftment and cost reduction...</p>
+                            <div class="left news-readmore"><i class="icon-angle-right icon-large"></i>&nbsp;<a href="../press-releases/news_article_cape_argus_press.php">Read More</a></div>
+                            <div class="right">Posted in <a href="../press-releases/index.php">Press Releases</a></div>
+                        </article>
+                    </div>
+                </div>
+                <!--==================================== NEWS ARTICLE =====-->
+                <div class="news-holder dotted-bottom clearfix">
+                    <div class="left news-date"><span class="day">17</span><span class="month">Apr</span></div>
+                    <div class="left news-article">
+                        <article class="clearfix">
+                            <header class="news-head">New appointment Hlengiwe Skosana</header>
+                            <p>Hlengiwe Skosana has been appointed as Performance Improvement Consultant at OIM, one of South Africa’s leading business performance specialists. Skosana will offer employee relations (ER) services at the company.</p>
+                            <div class="left news-readmore"><i class="icon-angle-right icon-large"></i>&nbsp;<a href="../press-releases/news_article_hlengiwe_skosana_press.php">Read More</a></div>
+                            <div class="right">Posted in <a href="../press-releases/index.php">Press Releases</a></div>
+                        </article>
+                    </div>
+                </div>
+                <!--==================================== NEWS ARTICLE =====-->
+                <div class="news-holder dotted-bottom clearfix">
+                    <div class="left news-date"><span class="day">15</span><span class="month">Apr</span></div>
+                    <div class="left news-article">
+                        <article class="clearfix">
+                            <header class="news-head">New appointment Frans Germishuizen</header>
+                            <p>Frans Germishuizen has been appointed as an Organisational Performance Improvement Consultant at OIM, one of South Africa’s leading business performance specialists. Germishuizen will aid companies in improving their organisational performance utilising OIM’s integrated business model.</p>
+                            <div class="left news-readmore"><i class="icon-angle-right icon-large"></i>&nbsp;<a href="../press-releases/news_article_frans_germishuizen_press.php">Read More</a></div>
+                            <div class="right">Posted in <a href="../press-releases/index.php">Press Releases</a></div>
+                        </article>
+                    </div>
+                </div>
+                <!--==================================== NEWS ARTICLE =====-->
+                <div class="news-holder dotted-bottom clearfix">
                     <div class="left news-date"><span class="day">15</span><span class="month">Apr</span></div>
                     <div class="left news-article">
                         <article class="clearfix">
@@ -54,6 +91,18 @@
                 </div>
                 <!--==================================== NEWS ARTICLE =====-->
                 <div class="news-holder dotted-bottom clearfix">
+                    <div class="left news-date"><span class="day">04</span><span class="month">Mar</span></div>
+                    <div class="left news-article">
+                        <article class="clearfix">
+                            <header class="news-head">Amplats reaches agreement with Amcu</header>
+                            <p>Anglo Platinum has reached an agreement with the Association of Mineworkers and Construction Union.</p>
+                            <div class="left news-readmore"><i class="icon-angle-right icon-large"></i>&nbsp;<a href="../clips/clip_amplats.php">Read More</a></div>
+                            <div class="right">Posted in <a href="../clips/index.php">Clips</a></div>
+                        </article>
+                    </div>
+                </div>
+                <!--==================================== NEWS ARTICLE =====-->
+                <div class="news-holder dotted-bottom clearfix">
                     <div class="left news-date"><span class="day">01</span><span class="month">Mar</span></div>
                     <div class="left news-article">
                         <article class="clearfix">
@@ -73,6 +122,18 @@
                             <p>In his 2013 budget address, Minister of Finance, Pravin Gordhan, unveiled plans to finance R827 billion worth of infrastructure projects over the next three years - a significant increase from the R642 billion spent over the last three years. However, if Government is to reach these targets, the issue of upskilling junior and middle management in their roles needs to be adequately addressed, as they are vital cogs in South Africa’s ‘wheel of productivity.’</p>
                             <div class="left news-readmore"><i class="icon-angle-right icon-large"></i>&nbsp;<a href="../press-releases/news_article_infrastructure_spend_press.php">Read More</a></div>
                             <div class="right">Posted in <a href="../press-releases/index.php">Press Releases</a></div>
+                        </article>
+                    </div>
+                </div>
+                <!--==================================== NEWS ARTICLE =====-->
+                <div class="news-holder dotted-bottom clearfix">
+                    <div class="left news-date"><span class="day">15</span><span class="month">Jan</span></div>
+                    <div class="left news-article">
+                        <article class="clearfix">
+                            <header class="news-head">Anglo America Platinum strikes and wage dispute - Update</header>
+                            <p>The mineworkers union, AMCU, has threatened to embark on strike action if Anglo America Platinum goes ahead with plans to shutdown four shafts in the Rustenburg region</p>
+                            <div class="left news-readmore"><i class="icon-angle-right icon-large"></i>&nbsp;<a href="../clips/clip_anglo_america.php">Read More</a></div>
+                            <div class="right">Posted in <a href="../clips/index.php">Clips</a></div>
                         </article>
                     </div>
                 </div>

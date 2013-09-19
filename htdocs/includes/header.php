@@ -25,7 +25,7 @@
         </div>
     </div>
     <div class="right clearfix"><!-- CONTACT DETAILS -->
-        <div class="right details border-left"><i class="icon-linkedin oim-blue"></i></div>
+        <div class="right details border-left"><a href="http://za.linkedin.com/company/oim-international-pty-ltd?trk=ppro_cprof" target="_blank"><i class="icon-linkedin oim-blue"></i></a></div>
         <div class="right details"><i class="icon-phone oim-blue" style="padding-right: 20px;"></i>+27 21 913 8814/5</div>
     </div>
     
