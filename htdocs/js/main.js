@@ -156,13 +156,12 @@ if($("#contact-form").length > 0){
     
     function execute_contactform(result) {
         var res = result.trim();
-        /*
+        
         if(res === 'success'){
             alert('Thank you! A confirmation of your request will be emailed to you shortly.');
         }else{
             alert(result);
         } 
-        */
        
        console.log(result);
     }

@@ -32,7 +32,7 @@
             <div id='body' class='left'>
                 <div class='breadcrumb'><i class="icon-map-marker icon-large red"></i> &nbsp;YOU ARE HERE: <span class='red'>Products & Services</span> / <span class='red'>Operations Management</span></div>
                 <h1>Continuous Improvement</h1>
-                <div class='caption'>Establish a culture of ongoing operational optimisation</div>
+                <div class='caption'><span>Establish a culture of ongoing operational optimisation</span></div>
                 <div class='copy'>
                     <p>Ongoing operational improvement is an essential part of successful <strong>operations management</strong>.</p>
 

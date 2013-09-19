@@ -9,8 +9,8 @@
         <!-- BEGIN HEAD -->
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-        <title>Stakeholder Perception Survey - Perception Surveys| OIM</title>
-        <meta name="description" content="OIM offers a range of customised perception surveys to measure key business areas and provide an objective stakeholder perception survey">
+        <title>Employee Relations Strategy - Labour Relations | OIM</title>
+        <meta name="description" content="OIM helps businesses to manage employee relations and assist organisations to promote labour peace and resolve conflict with a comprehensive ER strategy">
         <meta name="viewport" content="width=device-width">
         
         <?php include $relpath.'includes/styles.php' ?>
@@ -32,7 +32,7 @@
             <div id='body' class='left'>
                 <div class='breadcrumb'><i class="icon-map-marker icon-large red"></i> &nbsp;YOU ARE HERE: <span class='red'>Products & Services</span> / <span class='red'>Organisational Development</span></div>
                 <h1>Employee Relations</h1>
-                <div class='caption'>Sustainable labour peace and stability</div>
+                <div class='caption'><span>Sustainable labour peace and stability</span></div>
                 <div class='copy'>
                     <p>Labour peace and stability is crucial for business success.</p> 
 

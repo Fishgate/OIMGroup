@@ -9,8 +9,8 @@
         <!-- BEGIN HEAD -->
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-        <title>Business Architecture - Enterprise Architecture | OIM</title>
-        <meta name="description" content="OIM assists your business to be effective by developing a business architecture to optimise your organisation structure and business processes">
+        <title>Change Management - Process & Strategy | OIM</title>
+        <meta name="description" content="OIM's approach to the change management process aligns with organisation's business strategy and provides effective employee engagement">
         <meta name="viewport" content="width=device-width">
         
         <?php include $relpath.'includes/styles.php' ?>
@@ -32,7 +32,7 @@
             <div id='body' class='left'>
                 <div class='breadcrumb'><i class="icon-map-marker icon-large red"></i> &nbsp;YOU ARE HERE: <span class='red'>Products & Services</span> / <span class='red'>Organisational Development</span> / <span class='red'>Business Development Strategy</span></div>
                 <h1>Strategic and Change Communication</h1>
-                <div class='caption'>Create clarity in your business</div>
+                <div class='caption'><span>Create clarity in your business</span></div>
                 <div class='copy'>
                     <p>Communication is the golden thread that runs through the implementation of any organisational strategy or change initiative. It ties everything together from start to finish and ensure clarity among all.</p>
 
