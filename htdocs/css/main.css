@@ -418,6 +418,9 @@ body{
 .service-copy p{
     min-height: 120px;
 }
+.service-copy h2{
+    margin-top: 30px!important;
+}
 .service-copy a{
     display: block;
     padding: 10px 0;
