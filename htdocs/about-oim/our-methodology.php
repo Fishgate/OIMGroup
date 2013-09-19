@@ -74,9 +74,9 @@
                     <div class="left meth-divider"><i class="icon-angle-right icon-large"></i></div>
                     <div class="left meth-block bg-blue-dk">
                         <ul>
-                            <li>Business strategy development</li>
-                            <li>Strategic communication strategy</li>
-                            <li>Supplier and customer strategy</li>
+                            <li><a href="<?php echo $relpath ?>products-services/organisational-development/business-development-strategy/strategic-planning.php">Strategic planning</a></li>
+                            <li><a href="<?php echo $relpath ?>products-services/organisational-development/business-development-strategy/change-management.php">Communication strategy</a></li>
+                            <li><a href="<?php echo $relpath ?>products-services/organisational-development/business-development-strategy/value-chain-management.php">Value chain optimisation</a></li>
                         </ul>
                     </div>
                     <!--====================== ROW 2 ============-->
@@ -86,10 +86,10 @@
                     <div class="left meth-divider"><i class="icon-angle-right icon-large"></i></div>
                     <div class="left meth-block bg-blue-lt">
                         <ul>
-                            <li><a href="<?php echo $relpath ?>products-services/business_architecture.php">Business architecture</a></li>
-                            <li><a href="<?php echo $relpath ?>products-services/competency_profiling.php">Competency profiling</a></li>
-                            <li><a href="<?php echo $relpath ?>products-services/reward_strategy.php">Reward strategy</a></li>
-                            <li><a href="<?php echo $relpath ?>products-services/communication.php">Change &amp; operational communication strategies</a></li>
+                            <li><a href="<?php echo $relpath ?>products-services/organisational-development/business-architecture.php">Business architecture</a></li>
+                            <li><a href="<?php echo $relpath ?>products-services/people-management/competency-profiling.php">Competency profiling</a></li>
+                            <li><a href="<?php echo $relpath ?>products-services/people-management/talent-management/reward-consulting.php">Reward strategy</a></li>
+                            <li><a href="<?php echo $relpath ?>products-services/organisational-development/business-development-strategy/change-management.php">Change &amp; operational communication strategies</a></li>
                         </ul>
                     </div>
                     <!--====================== ROW 3 ============-->
@@ -99,10 +99,10 @@
                     <div class="left meth-divider"><i class="icon-angle-right icon-large"></i></div>
                     <div class="left meth-block bg-red">
                         <ul>
-                            <li>Leadership competencies and practices definition</li>
-                            <li><a href="<?php echo $relpath ?>products-services/leadership_assessments.php">Leadership and critical talent assessments</a></li>
-                            <li><a href="<?php echo $relpath ?>products-services/leadership_development.php">Leadership development</a></li>
-                            <li><a href="<?php echo $relpath ?>products-services/talent_management.php">Talent Management</a></li>
+                            <li><a href="<?php echo $relpath ?>products-services/people-management/leadership-interventions/leadership-standards.php">Leadership standards definition</a></li>
+                            <li><a href="<?php echo $relpath ?>products-services/people-management/leadership-interventions/competency-assessments.php">Assessments: leadership & critical talent</a></li>
+                            <li><a href="<?php echo $relpath ?>products-services/people-management/leadership-interventions/leadership-development.php">Leadership development</a></li>
+                            <li><a href="<?php echo $relpath ?>products-services/people-management/talent-management/talent-management-model.php">Talent management</a></li>
                         </ul>
                     </div>
                     <!--====================== ROW 4 ============-->
@@ -112,10 +112,10 @@
                     <div class="left meth-divider"><i class="icon-angle-right icon-large"></i></div>
                     <div class="left meth-block bg-green">
                         <ul>
-                            <li><a href="<?php echo $relpath ?>products-services/invocoms.php">Employee engagement</a></li>
-                            <li><a href="<?php echo $relpath ?>products-services/stakeholder_perception_surveys.php">Other stakeholder engagement</a></li>
-                            <li><a href="<?php echo $relpath ?>products-services/employee_relations.php">Employee relations</a></li>
-                            <li><a href="<?php echo $relpath ?>products-services/diversity.php">Diversity management</a></li>
+                            <li><a href="<?php echo $relpath ?>products-services/people-management/employee-engagement.php">Employee engagement (INVOCOMS)</a></li>
+                            <li><a href="<?php echo $relpath ?>products-services/organisational-development/stakeholder-perception-survey.php">Other stakeholder engagement</a></li>
+                            <li><a href="<?php echo $relpath ?>products-services/organisational-development/employee-relations.php">Employee relations</a></li>
+                            <li><a href="<?php echo $relpath ?>products-services/people-management/leadership-interventions/diversity-management.php">Diversity awareness</a></li>
                         </ul>
                     </div>
                     <!--====================== ROW 5 ============-->
@@ -125,11 +125,9 @@
                     <div class="left meth-divider"><i class="icon-angle-right icon-large"></i></div>
                     <div class="left meth-block bg-blue-md">
                         <ul>
-                            <li><a href="<?php echo $relpath ?>products-services/operations_management_interventions.php">Operational improvement interventions</a></li>
-                            <li><a href="<?php echo $relpath ?>products-services/continuous_improvement.php">Continuous improvement processes &amp; practices</a></li>
-                            <li>Establishment of an innovation culture</li>
-                            <li><a href="<?php echo $relpath ?>products-services/competency_profiling.php">Functional competence development</a></li>
-                            <li><a href="<?php echo $relpath ?>products-services/coaching.php">On-the-job operational coaching</a></li>
+                            <li><a href="<?php echo $relpath ?>products-services/operations-management/operations-management-interventions.php">Operations management interventions</a></li>
+                            <li><a href="<?php echo $relpath ?>products-services/operations-management/continuous-improvement.php">Continuous improvement</a></li>
+                            <li><a href="<?php echo $relpath ?>products-services/people-management/leadership-interventions/executive-coaching.php">On-the-job operational mentoring and coaching</a></li>
                         </ul>
                     </div>
                     <!--====================== ROW 6 ============-->
@@ -138,10 +136,10 @@
                     <div class="left meth-block bg-purple">Teams regularly review their performance, focus on accountability recognition and reward</div>
                     <div class="left meth-divider"><i class="icon-angle-right icon-large"></i></div>
                     <div class="left meth-block bg-purple">
-                        <ul>
-                            <li>Organisational effectiveness measurement</li>    
-                            <li><a href="<?php echo $relpath ?>products-services/operations_review.php">Operational effectiveness measurement</a></li>
-                            <li><a href="<?php echo $relpath ?>products-services/individual_performance_management.php">Individual performance management</a></li>
+                        <ul>   
+                            <li><a href="<?php echo $relpath ?>products-services/organisational-development/stakeholder-perception-survey.php">Stakeholder perception surveys</a></li>
+                            <li><a href="<?php echo $relpath ?>products-services/operations-management/operations-management.php">Business/Operations review</a></li>
+                            <li><a href="<?php echo $relpath ?>products-services/people-management/talent-management/performance-management-process.php">Individual performance management</a></li>
                         </ul>
                     </div>
                 </div>
