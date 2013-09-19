@@ -13,14 +13,14 @@
         <a href="<?php echo $relpath; ?>home"><span class="icon">&#xf015;</span></a>
     </div>
     <div id="nav-holder" class="left"><!-- TOP LVL NAV -->
-        <div class="left menu-item menu-item-single">
+        <div class="left menu-item">
             <a href="<?php echo $relpath; ?>about-oim/our-methodology.php">Our Methodology</a>
         </div>
         <div class="left menu-item products_toplvl">
             Products &amp; Services&nbsp;<i class="icon-angle-down"></i>
             <?php include $relpath.'/includes/mega-products.php' ?>
         </div>
-        <div class="left menu-item menu-item-single">
+        <div class="left menu-item">
             <a href="<?php echo $relpath; ?>contact-us">Contact</a>
         </div>
     </div>
@@ -39,24 +39,24 @@
     <ul class="rslides" id="slider1" style="margin: 0 auto;">
       <li>
           <div class="calltoaction">
-              <span class="quote">In an ever-changing world,<br />constant improvement is an integral part<br />of continued success</span>
+              <span class="quote">Test Copy</span>
               <div class="button">Read More &nbsp;<i class="icon-angle-right icon-large"></i></div>
           </div>
           <img src="<?php echo $relpath; ?>img/1.jpg" alt="">
       </li>
       <li>
           <div class="calltoaction">
-              <span class="quote">Adventure Time!<br />with Jake the dog<br />and Fin the human</span>
+              <span class="quote">Test Copy</span>
               <div class="button">Read More &nbsp;<i class="icon-angle-right icon-large"></i></div>
           </div>
-          <img src="<?php echo $relpath; ?>img/1.jpg" alt="">
+          <img src="<?php echo $relpath; ?>img/2.jpg" alt="">
       </li>
       <li>
           <div class="calltoaction">
-              <span class="quote">Yoghurt Factory,<br />possibly the worst place<br />you could imagine</span>
+              <span class="quote">Test Copy</span>
               <div class="button">Read More &nbsp;<i class="icon-angle-right icon-large"></i></div>
           </div>
-          <img src="<?php echo $relpath; ?>img/1.jpg" alt="">
+          <img src="<?php echo $relpath; ?>img/3.jpg" alt="">
       </li>
     </ul>
 </div>
