@@ -32,7 +32,7 @@
             <div id='body' class='left'>
                 <div class='breadcrumb'><i class="icon-map-marker icon-large red"></i> &nbsp;YOU ARE HERE: <span class='red'>Products & Services</span> / <span class='red'>Talent Management</span></div>
                 <h1>Individual Performance Management</h1>
-                <div class='caption'>Implement and sustain a customised <strong>performance management system</strong></div>
+                <div class='caption'>Implement and sustain a customised performance management system</div>
                 <div class='copy'>
                     <p>Any employee, regardless of position or job level, needs to understand the following:
                     <ul>
@@ -48,7 +48,7 @@
 
                     <p>Accordingly we:
                         <ul>
-                            <li>Define, design and implement a suitable individual <strong>performance management system</strong>.</li>
+                            <li>Define, design and implement a suitable individual performance management system.</li>
                             <li>Equip leaders with the necessary skills to sustain this system.</li>
                         </ul>
                     </p>
@@ -57,9 +57,9 @@
 
                     <h2>Our offering</h2>
 
-                    <p><strong>Consulting</strong><br/>The design of a customised individual <strong>performance management</strong> system and approach. This is supported by policies, processes, practices and a toolkit to facilitate implementation and sustainability.</p>
+                    <p><strong>Consulting</strong><br/>The design of a customised individual performance management system and approach. This is supported by policies, processes, practices and a toolkit to facilitate implementation and sustainability.</p>
 
-                    <p><strong>Training</strong><br/>This involves equipping leaders with the necessary skills and knowledge to action the <strong>performance management system</strong>. Clients can choose between two options where OIM: 
+                    <p><strong>Training</strong><br/>This involves equipping leaders with the necessary skills and knowledge to action the performance management system. Clients can choose between two options where OIM: 
                         <ul>
                             <li>Trains all leaders in workshop sessions.
                             <li>Conducts a train-the-trainer programme.
@@ -71,12 +71,12 @@
                     <p>
                         <ul>
                             <li>We do not sell off-the-shelf products. Instead we pride ourselves in providing customised solutions based on client needs and drawing on OIM’s experience.</li>
-                            <li>We have since 1985 successfully implemented individual <strong>performance management</strong> principles across a range of industries, both locally and abroad.</li>
-                            <li>Our offering allows proper integration of both team (INVOCOM®) and individual <strong>performance management</strong>.</li>
+                            <li>We have since 1985 successfully implemented individual performance management principles across a range of industries, both locally and abroad.</li>
+                            <li>Our offering allows proper integration of both team (INVOCOM®) and individual performance management.</li>
                             <li>The approach is aligned with business strategy and integrates with the scorecard process and other people management focus areas.</li>
                             <li>We don’t believe in consultant dependency. We build internal capacity by equipping leaders and key stakeholders with the necessary skills and knowledge to implement the performance solution in a sustainable way.</li>
                             <li>The offering seamlessly integrates with other OIM products and services.</li>
-                            <li>If required, clients also benefit from the expertise embedded in all OIM’s core business areas, namely people management, operational optimisation and organisational performance improvement. This includes <strong>strategic planning, business process management, leadership development</strong> and <strong>employee relations</strong>.</li>
+                            <li>If required, clients also benefit from the expertise embedded in all OIM’s core business areas, namely people management, operational optimisation and organisational performance improvement. This includes strategic planning, business process management, leadership development and employee relations.</li>
                         </ul>
                     </p>
                 </div>

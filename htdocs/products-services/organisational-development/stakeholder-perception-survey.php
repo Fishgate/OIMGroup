@@ -44,7 +44,7 @@
                     
                     <p>
                     <strong>Surveys</strong>
-                        <ul>
+                        <ul class="nested_ul">
                             <li>Culture surveys</li>
                             <li>Employee satisfaction surveys</li>
                             <li>Leadership surveys</li>
@@ -65,7 +65,7 @@
                         <ul>
                             <li>What sets OIM’s offering apart from its competitors is that clients own their survey data. Our web-based surveys offer various client-based data-management options, making them extremely cost effective and giving clients ready access to the analysis of results.</li>
                             <li>OIM not only has the expertise to manage surveys on your behalf, we also have the knowledge and experience to recommend the required action and assist you with implementation thanks to the specialists in our key business areas: organisational performance improvement, operational optimisation and people management.</li> 
-                            <li>Various service options are available, from clients being responsible for data collection and OIM for the data analysis and reporting to outsourcing the entire process to us to develop and validate the survey, administer data collection and do the analysis, reporting and interpretation.</li>
+                            <li>Various service options are available, from clients being responsible for data collection and OIM for the data analysis and reporting, to outsourcing the entire process to us to develop and validate the survey, administer data collection and do the analysis, reporting and interpretation.</li>
                             <li>Our perception surveys enable organisations to monitor progress from various angles against set organisational systems, parameters and individual behaviours.</li>
                             <li>When working with new clients we recommend a baseline study to provide an objective benchmark for gap analyses, customised questionnaires and action plans in key performance areas.</li> 
                         </ul>

@@ -60,10 +60,6 @@
                         </ul>
                     </p>
 
-                    <h2>Key business benefit</h2>
-
-                    <p>A work environment where people from various backgrounds increasingly understand and appreciate their fellow employees’ cultural strengths, often leading to improved teamwork and productivity.</p>
-
                     <h2>The OIM difference</h2>
                     <ul>
                         <li>OIM has been leaders in the field of diversity training since the early 80s. Over the years OIM has literally conducted thousands of workshops in communities, businesses and organisations. OIM’s initiatives in this regards, along with our conflict resolution workshops, have been widely recognised.</li>
