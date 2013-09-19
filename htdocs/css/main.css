@@ -202,7 +202,7 @@ ul ul{
 #main-nav{
     padding: 5px 15px;
     background: #f8f8f8;/* GREY LIGHT */
-    width: 960px;
+    width: 930px;
     margin: 0 auto;
     position: relative;
 }
@@ -237,10 +237,10 @@ ul ul{
 .mega-holder{
     position: absolute;
     z-index: 999;
-    margin-left: -495px;
+    margin-left: -480px;
     left: -999px;
     top: 47px;    
-    width: 970px;
+    width: 960px;
     padding: 5px 0 0 0;    
     color: #333;
 }
@@ -311,7 +311,7 @@ ul ul{
     padding: 15px 0;
     text-align: center;
     border-left: 1px solid #00204E;
-    border-right: 1px solid #508abc;
+    border-right: 1px solid #014596;
     color: #ffffff;
     font-family: 'opensans';
     font-size: 12px;
@@ -481,7 +481,8 @@ body{
     font-size: 14px;
     color: #00204E;
     text-transform: uppercase;
-    margin-top: 30px;
+/*    margin-top: 30px;*/
+    margin-top: 0;
     padding: 0;
 }
 
@@ -666,6 +667,7 @@ BUTTONS
 =============================================*/
 footer{
     background: #f8f8f8;
+    margin-top: 50px;
 }
 
 #footer{
