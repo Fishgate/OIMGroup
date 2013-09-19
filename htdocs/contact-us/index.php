@@ -70,7 +70,7 @@
                     
                     <div class="contact-map-container">
                         <div class="map-container-header">
-                            <h2>Map to OIM International</h2>
+                            <h2>Map</h2>
                             <div>
                                 <i class="icon-download-alt icon-2x"></i>
                                 <a href="<?php echo $relpath; ?>downloads/pdf/directions.pdf">Download Map</a>

@@ -24,7 +24,7 @@
         <!-- BEGIN BODY -->
         <div id='contentwrap' class='clearfix'>
             <div id='body' class='left'>
-                <div class='breadcrumb'><i class="icon-map-marker icon-large red"></i> &nbsp;YOU ARE HERE: <a href="<?php echo $relpath; ?>clients/index.php">Clients</a> <span class='red'>/ Case Studies / Premier Foods</span></div>
+                <div class='breadcrumb'><i class="icon-map-marker icon-large red"></i> &nbsp;YOU ARE HERE: <a href="<?php echo $relpath; ?>clients/index.php">Clients</a> / <span class='red'>Case Studies</span> / <span class='red'>Premier Foods</span></div>
                 <h1>Client Case Studies</h1>
                 <div class='copy'>
                     <p><img src="<?php echo $relpath; ?>img/clients/premier.gif" /><br/><br/></p>
