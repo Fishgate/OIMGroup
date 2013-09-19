@@ -180,7 +180,7 @@
             
             <center>
                 <div id="meet-team" class="dotted-top-bottom">
-                    <a href="#"><i class="icon-linkedin icon-large"></i>Meet the entire team on LinkedIn</a>
+                    <a href="http://za.linkedin.com/company/oim-international-pty-ltd?trk=ppro_cprof" target="_blank"><i class="icon-linkedin icon-large"></i>Meet the entire team on LinkedIn</a>
                 </div>
             </center>
             <!-- END TEAM -->
