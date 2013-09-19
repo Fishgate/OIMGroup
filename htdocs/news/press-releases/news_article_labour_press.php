@@ -26,7 +26,7 @@
         <!-- BEGIN BODY -->
         <div id='contentwrap' class='clearfix'>
             <div id='body' class='left'>
-                <div class='breadcrumb'><i class="icon-map-marker icon-large red"></i> &nbsp;YOU ARE HERE: <a href='#'>News</a> / <a href='news_cat_press.php'>Press Releases</a> / <span class='red'>The future of Labour Relations in SA</span></div>
+                <div class='breadcrumb'><i class="icon-map-marker icon-large red"></i> &nbsp;YOU ARE HERE: <span class="red">News</span> / <span class='red'>Press Releases</span></div>
                 <h1>Labour Relations</h1>
                 <!--==================================== NEWS ARTICLE =====-->
                 <div class="news-holder dotted-bottom clearfix">

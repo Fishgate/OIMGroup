@@ -26,7 +26,7 @@
         <!-- BEGIN BODY -->
         <div id='contentwrap' class='clearfix'>
             <div id='body' class='left'>
-                <div class='breadcrumb'><i class="icon-map-marker icon-large red"></i> &nbsp;YOU ARE HERE: <a href='index.php'>News</a> / <a href='news_cat_press.php'>Press Releases</a> / <span class='red'>DR. Mamphela Ramphele's shared value in business</span></div>
+                <div class='breadcrumb'><i class="icon-map-marker icon-large red"></i> &nbsp;YOU ARE HERE: <span class="red">News</span> / <span class='red'>Press Releases</span></div>
                 <h1>DR. Mamphela Ramphele's shared value in business</h1>
                 <!--==================================== NEWS ARTICLE =====-->
                 <div class="news-holder dotted-bottom clearfix">

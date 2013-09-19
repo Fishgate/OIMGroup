@@ -32,7 +32,7 @@
             <!-- =====================================================
                                 BEGIN TEAM
             ==========================================================-->
-            <div class='breadcrumb'><i class="icon-map-marker icon-large red"></i> &nbsp;YOU ARE HERE: Team</div>
+            <div class='breadcrumb'><i class="icon-map-marker icon-large red"></i> &nbsp;YOU ARE HERE: <span class='red'>Team</span></div>
             <h1>Our Leadership Team</h1>
             
             <div class="clearfix">

@@ -30,7 +30,7 @@
         <!-- BEGIN BODY -->
         <div id='contentwrap' class='clearfix'>
             <div id='body' class='left'>
-                <div class='breadcrumb'><i class="icon-map-marker icon-large red"></i> &nbsp;YOU ARE HERE: <a href='#'>Products & Services</a> / <span class='red'>Supervisory Skills</span></div>
+                <div class='breadcrumb'><i class="icon-map-marker icon-large red"></i> &nbsp;YOU ARE HERE: <span class='red'>Products & Services</span> / <span class='red'>People Management</span></div>
                 <h1>Supervisory Skills</h1>
                 <div class='caption'>The critical fit between <strong>supervisory skills</strong> and measurable operational results</div>
                 <div class='copy'>

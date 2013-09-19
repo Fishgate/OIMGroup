@@ -26,7 +26,7 @@
         <!-- BEGIN BODY -->
         <div id='contentwrap' class='clearfix'>
             <div id='body' class='left'>
-                <div class='breadcrumb'><i class="icon-map-marker icon-large red"></i> &nbsp;YOU ARE HERE: <a href='../'>News</a> / <a href='index.php'>Clips</a> / <span class='red'>Strike ballot out of Labour Bill</span></div>
+                <div class='breadcrumb'><i class="icon-map-marker icon-large red"></i> &nbsp;YOU ARE HERE: <span class="red">News</span> / <span class='red'>Clips</span></div>
                 <h1>Clips</h1>
                 <!--==================================== NEWS ARTICLE =====-->
                 <div class="news-holder dotted-bottom clearfix">
