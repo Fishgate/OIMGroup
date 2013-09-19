@@ -301,13 +301,14 @@ ul ul{
 }
 #secondary-nav ul li{
     width: 16.459%;
-    background: #00204E;
+    /*background: #00204E;*/
+    background: rgba(9, 10, 14, 0.4);
     margin: 0;
     float: left;
     padding: 15px 0;
     text-align: center;
-    border-left: 1px solid #00204E;
-    border-right: 1px solid #014596;
+    border-left: 0px solid #00204E;
+    border-right: 0px solid #014596;
     color: #ffffff;
     font-family: 'opensans';
     font-size: 12px;
@@ -316,7 +317,7 @@ ul ul{
     background: #A22B38;
 }
 #last{
-    border-right: 1px solid #00204E!important;
+    border-right: 0px solid #00204E!important;
 }
 
 
