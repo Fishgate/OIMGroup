@@ -34,7 +34,7 @@
                 <h1>Team Dynamics</h1>
                 <div class='caption'>Optimising team performance</div>
                 <div class='copy'>
-                    <p>With the vast difference in personal preferences and work styles, we understand that <strong>team dynamics</strong> can be a challenge and negatively affect business performance.</p> 
+                    <p>With the vast difference in personal preferences and work styles, we understand that team dynamics can be a challenge and negatively affect business performance.</p> 
 
                     <p>OIM helps team members to better understand one another’s strengths, how the behavioural strengths in the team complement each other and how to adapt to various personal preferences.</p> 
 
@@ -52,10 +52,10 @@
                     <h2>The OIM difference</h2>
                     <p>
                         <ul>
-                            <li>OIM’s leadership talent team comprises registered industrial psychologists and organisational development practitioners with years of experience in <strong>talent management, leadership development</strong> and <strong>team dynamics</strong>.</li>
+                            <li>OIM’s leadership talent team comprises registered industrial psychologists and organisational development practitioners with years of experience in talent management, leadership development and team dynamics.</li>
                             <li>We have successfully conducted team interventions in a range of industries, including retail, finance, manufacturing, fast-moving consumer goods and mining.</li>
                             <li>To optimise results, we prefer to conduct team interventions in the context of your business strategy and other organisational performance improvement initiatives.</li>
-                            <li>Our <strong>team dynamics</strong> offering can be seamlessly integrated with other aspects of OIM’s comprehensive performance methodology.</li>
+                            <li>Our team dynamics offering can be seamlessly integrated with other aspects of OIM’s comprehensive performance methodology.</li>
                         </ul>
                     </p>
                 </div>

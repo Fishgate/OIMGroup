@@ -42,6 +42,18 @@
                 </div>
                 <!--==================================== NEWS ARTICLE =====-->
                 <div class="news-holder dotted-bottom clearfix">
+                    <div class="left news-date"><span class="day">03</span><span class="month">Jul</span></div>
+                    <div class="left news-article">
+                        <article class="clearfix">
+                            <header class="news-head">Framework agreement for the mining sector</header>
+                            <p>Government leaders, led by Deputy President Kgalema Motlenath, today met with mining houses and trade unions in Pretoria to discuss and sign a framework agreement for the mining sector.</p>
+                            <div class="left news-readmore"><i class="icon-angle-right icon-large"></i>&nbsp;<a href="../clips/clip_framework_agreement.php">Read More</a></div>
+                            <div class="right">Posted in <a href="../clips/index.php">Clips</a></div>
+                        </article>
+                    </div>
+                </div>
+                <!--==================================== NEWS ARTICLE =====-->
+                <div class="news-holder dotted-bottom clearfix">
                     <div class="left news-date"><span class="day">01</span><span class="month">Jul</span></div>
                     <div class="left news-article">
                         <article class="clearfix">
@@ -90,6 +102,30 @@
                 </div>
                 <!--==================================== NEWS ARTICLE =====-->
                 <div class="news-holder dotted-bottom clearfix">
+                    <div class="left news-date"><span class="day">25</span><span class="month">Jun</span></div>
+                    <div class="left news-article">
+                        <article class="clearfix">
+                            <header class="news-head">Labour Relations Amendment Bill</header>
+                            <p>Discussion about the labour relations amendment bill and the contentious issues that it is currently undergoing</p>
+                            <div class="left news-readmore"><i class="icon-angle-right icon-large"></i>&nbsp;<a href="../clips/clip_amendment_bill.php">Read More</a></div>
+                            <div class="right">Posted in <a href="../clips/index.php">Clips</a></div>
+                        </article>
+                    </div>
+                </div>
+                <!--==================================== NEWS ARTICLE =====-->
+                <div class="news-holder dotted-bottom clearfix">
+                    <div class="left news-date"><span class="day">11</span><span class="month">Jun</span></div>
+                    <div class="left news-article">
+                        <article class="clearfix">
+                            <header class="news-head">Strike ballot out of Labour Bill</header>
+                            <p>Government is set on allowing strikes to take place without a ballot. Mentions: COSATU, Labour Relations Amendment Bill, Parliament's Labour Committee</p>
+                            <div class="left news-readmore"><i class="icon-angle-right icon-large"></i>&nbsp;<a href="../clips/clip_labour_bill.php">Read More</a></div>
+                            <div class="right">Posted in <a href="../clips/index.php">Clips</a></div>
+                        </article>
+                    </div>
+                </div>
+                <!--==================================== NEWS ARTICLE =====-->
+                <div class="news-holder dotted-bottom clearfix">
                     <div class="left news-date"><span class="day">01</span><span class="month">Jun</span></div>
                     <div class="left news-article">
                         <article class="clearfix">
@@ -112,43 +148,7 @@
                         </article>
                     </div>
                 </div>
-                <!--==================================== NEWS ARTICLE =====-->
-                <div class="news-holder dotted-bottom clearfix">
-                    <div class="left news-date"><span class="day">01</span><span class="month">May</span></div>
-                    <div class="left news-article">
-                        <article class="clearfix">
-                            <header class="news-head">Cape Argus Workplace</header>
-                            <p><b>1. What does your job entail?</b><br />
-My job is all about problem solving and ultimately adding value to a client’s business. On a day-to-day basis I engage with clients to identify operational improvement opportunities for revenue upliftment and cost reduction...</p>
-                            <div class="left news-readmore"><i class="icon-angle-right icon-large"></i>&nbsp;<a href="../press-releases/news_article_cape_argus_press.php">Read More</a></div>
-                            <div class="right">Posted in <a href="../press-releases/index.php">Press Releases</a></div>
-                        </article>
-                    </div>
-                </div>
-                <!--==================================== NEWS ARTICLE =====-->
-                <div class="news-holder dotted-bottom clearfix">
-                    <div class="left news-date"><span class="day">17</span><span class="month">Apr</span></div>
-                    <div class="left news-article">
-                        <article class="clearfix">
-                            <header class="news-head">New appointment Hlengiwe Skosana</header>
-                            <p>Hlengiwe Skosana has been appointed as Performance Improvement Consultant at OIM, one of South Africa’s leading business performance specialists. Skosana will offer employee relations (ER) services at the company.</p>
-                            <div class="left news-readmore"><i class="icon-angle-right icon-large"></i>&nbsp;<a href="../press-releases/news_article_hlengiwe_skosana_press.php">Read More</a></div>
-                            <div class="right">Posted in <a href="../press-releases/index.php">Press Releases</a></div>
-                        </article>
-                    </div>
-                </div>
-                <!--==================================== NEWS ARTICLE =====-->
-                <div class="news-holder dotted-bottom clearfix">
-                    <div class="left news-date"><span class="day">15</span><span class="month">Apr</span></div>
-                    <div class="left news-article">
-                        <article class="clearfix">
-                            <header class="news-head">New appointment Frans Germishuizen</header>
-                            <p>Frans Germishuizen has been appointed as an Organisational Performance Improvement Consultant at OIM, one of South Africa’s leading business performance specialists. Germishuizen will aid companies in improving their organisational performance utilising OIM’s integrated business model.</p>
-                            <div class="left news-readmore"><i class="icon-angle-right icon-large"></i>&nbsp;<a href="../press-releases/news_article_frans_germishuizen_press.php">Read More</a></div>
-                            <div class="right">Posted in <a href="../press-releases/index.php">Press Releases</a></div>
-                        </article>
-                    </div>
-                </div>
+                
                 
                 <div class="clearfix">
                     <ul class="right paginate">

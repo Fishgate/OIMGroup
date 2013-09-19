@@ -34,7 +34,7 @@
                 <h1>Operations Management Interventions</h1>
                 <div class='caption'>Improved operational efficiency</div>
                 <div class='copy'>
-                    <p>The core focus of OIM’s <strong>operations management</strong> interventions is to improve efficiencies and throughput, reduce operating costs and resolve operational constraints. </p>
+                    <p>The core focus of OIM’s operations management interventions is to improve efficiencies and throughput, reduce operating costs and resolve operational constraints. </p>
 
                     <p><strong>The result is:</strong>
                         <ul>
@@ -51,7 +51,7 @@
                     <p>
                         <ul>
                             <li><strong>Operations audit</strong> (business/operations review)<br/>
-                            A quick and reliable way to identify areas of operational constraint and map a solution. Click here to read more?</li>
+                            A quick and reliable way to identify areas of operational constraint and map a solution. <a href='<?php echo $relpath; ?>products-services/operations-management/operations-management.php'>Read more</a></li>
 
                             <li><strong>Business process analysis and process re-engineering</strong><br/>
                             An in-depth analysis and redesign of workflows and business processes.</li>
@@ -66,20 +66,20 @@
 
                     <p>
                     <strong>Continuous improvement</strong><br/>
-                    An important aspect of sustaining operational improvement is equipping staff with the necessary skills and mindsets to optimise operations long term. We have developed a three-pronged approach to bridge the knowledge transfer gap and ensure that skills development results in sustainable operational effectiveness. Click here to read more
+                    An important aspect of sustaining operational improvement is equipping staff with the necessary skills and mindsets to optimise operations long term. We have developed a three-pronged approach to bridge the knowledge transfer gap and ensure that skills development results in sustainable operational effectiveness. <a href='<?php echo $relpath; ?>products-services/operations-management/continuous-improvement.php'>Read more</a>
                     </p>
 
                     <h2>The OIM difference</h2>
 
                     <p>
                         <ul>
-                            <li>OIM’s <strong>operations management</strong> team has experience in both <strong>business processes and systems management</strong>, providing clients with a comprehensive service and in-depth knowledge in these fields.</li>
+                            <li>OIM’s operations management team has experience in both business processes and systems management, providing clients with a comprehensive service and in-depth knowledge in these fields.</li>
                             <li>With a track record dating back to the late ’90s, our team has experience in various industries, including manufacturing, mining, retail, financial services and local government sectors. Clients who have benefited from our solutions are, among others, Allan Gray, Assmang Khumani Mine, Metropolitan, Meatco and Glacier by Sanlam.</li>
                             <li>Our consultants have a fundamental understanding of the industries they work in, giving them an innate sense of what should happen. This allows for project delivery in a shorter space of time – usually within four to six months depending on the complexity of the intervention.</li>
                             <li>We believe in showing clients measurable returns, which means benefits are tracked to indicate the return on investment (ROI).</li> 
                             <li>We pride ourselves in our proven ability to identify inefficiencies and design customised interventions.</li> 
                             <li>When designing these interventions, we draw on a range of methodologies and best practices to create the appropriate structures, processes and systems for effective strategy execution and operations management.</li> 
-                            <li>Clients also have access to OIM’s expertise in organisational improvement and people management. This includes <strong>strategic planning, business architecture, leadership development and employee relations</strong>. All of these solutions are seamlessly implemented by specialists in the core business areas.</li>
+                            <li>Clients also have access to OIM’s expertise in organisational improvement and people management. This includes strategic planning, business architecture, leadership development and employee relations. All of these solutions are seamlessly implemented by specialists in the core business areas.</li>
                         </ul>
                     </p>
                 </div>

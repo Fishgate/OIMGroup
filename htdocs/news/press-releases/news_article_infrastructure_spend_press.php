@@ -27,7 +27,7 @@
         <div id='contentwrap' class='clearfix'>
             <div id='body' class='left'>
                 <div class='breadcrumb'><i class="icon-map-marker icon-large red"></i> &nbsp;YOU ARE HERE: <span class="red">News</span> / <span class='red'>Press Releases</span></div>
-                <h1>Government's planned R827 billion infrastructure spend</h1>
+                <h1>Press Releases</h1>
                 <!--==================================== NEWS ARTICLE =====-->
                 <div class="news-holder dotted-bottom clearfix">
                     <div class="left news-date">
