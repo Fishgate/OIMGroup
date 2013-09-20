@@ -45,7 +45,7 @@
                     </p>
 
                     <p>If you fit this bill and have a willingness to travel quite extensively you are welcome to contact us! Also
-                    keep an eye on our <a href='' target='_blank'>LinkedIN page</a> where we post most of our vacancies.</p>
+                    keep an eye on our <a href='http://za.linkedin.com/company/oim-international-pty-ltd?trk=ppro_cprof' target='_blank'>LinkedIN page</a> where we post most of our vacancies.</p>
 
                     <p>For more information, or to submit your CV, please mail Suzanne van Zyl at <a href='mailto:svanzyl@oimgroup.com'>svanzyl@oimgroup.com</a>
                     or call her on +27 21 913 8814/5.</p>

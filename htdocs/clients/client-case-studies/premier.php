@@ -36,15 +36,15 @@
 
                     <p>
                         <strong>About the partnership</strong><br/>
-                        Premier has been using OIM’s performance improvement methodology since 2003 with a renewed focus on our involvement since late 2010. Our integrated business model, which addresses the main elements required for performance management and strategy implementation, is used as the basis for Premier’s management and leadership practices while our employee engagement methodology (INVOCOMS) has been widely implemented throughout the business. Over the past few years OIM has also assisted Premier with strategic planning and scorecard development, a reward strategy, change communication and a framework for talent management.
+                        Premier has been using OIM's performance improvement methodology since 2003 with a renewed focus on our involvement since late 2010. Our integrated business model, which addresses the main elements required for performance management and strategy implementation, is used as the basis for Premier's management and leadership practices while our employee engagement methodology (INVOCOMS&reg;) has been widely implemented throughout the business. Over the past few years OIM has also assisted Premier with strategic planning and scorecard development, a reward strategy, change communication and a framework for talent management.
                     </p>
                         
                     <p>
                         <strong>The client view</strong><br/>
-                        “I have used OIM in five different companies over the past 20 years. Not only does the methodology work in any industry, but the OIM consultants are competent and takes a real interest in your business to ensure sustainable results.”
+                        "I have used OIM in five different companies over the past 20 years. Not only does the methodology work in any industry, but the OIM consultants are competent and takes a real interest in your business to ensure sustainable results."
+                        <br/><span class="right">Tjaart Kruger, CEO: Premier Foods</span>
                     </p>
                     
-                    <p class="right">Tjaart Kruger, CEO: Premier Foods</p>
                 </div>
             </div>
             <div id='sidebar' class='left'>

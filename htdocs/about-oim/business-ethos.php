@@ -43,7 +43,7 @@
                     <ul>
                         <li>We enter into a long-term partnership with our clients, based on mutual trust and respect, communication, personal attention, professional conduct and service delivery.</li>
                         <li>In line with our commitment to service delivery we value experience. We employ consultants with a solid academic background and proven track record of turning business concepts and principles into behaviours, practices and results.</li> 
-                        <li>OIM is not in the business of consultant dependency or ad hoc quick fixes. We believe in an integrated approach to business improvement with an emphasis on sustainability. As such, we provide an integrated solution, provided by a multidisciplinary team that specialises in people management, organisational performance and operations management.</li> 
+                        <li>OIM is not in the business of consultant dependency or ad hoc quick fixes. We believe in an integrated approach to business improvement with an emphasis on sustainability. Therefore, we provide a comprehensive solution, offered by a multidisciplinary team that specialises in people management, organisational performance and operations management.</li> 
                         <li>Our client engagement methodology ensures excellence in programme and project management with regular client interfaces to evaluate success and client satisfaction and jointly plan what steps to take next.</li>
                         <li>An underlying theme in OIM’s offerings is the building of internal capacity to help sustain client solutions. This includes the transfer of skills through training and coaching, preparation of internal trainers and implementation of operational improvement tools and systems.</li>
                         <li>We firmly believe that the value we add must outweigh the cost of the intervention, failing which we advise clients not to use our services.</li>
@@ -52,13 +52,13 @@
                     </ul>
                     </p>
 
-                    <p><strong>Prospective clients – building a partnership </strong>
+                    <p class='blue'><strong>Prospective clients – building a partnership </strong>
                     <ul>
                         <li>When meeting with potential clients for the first time, we do a two-hour presentation to introduce our methodology and offering.</li>
                         <li>Should the client be interested, a follow-up session is scheduled to discuss the approach in more detail and assess the client’s improvement needs.</li> 
                         <li>Once client requirements are defined, a comprehensive and customised process implementation plan is developed.</li> 
                         <li>After the plan has been approved, the investment is calculated and agreed with the client.</li>
-                        <li>Should the process plan be amended, OIM evaluates the implications and proposes options to manage these risks without compromising quality.</li>
+                        <li>Should the process plan be amended, OIM evaluates the implications and proposes options to manage risks without compromising quality.</li>
                         <li>Clients sign off a process plan document, budget and terms and conditions to safeguard both them and OIM.</li>
                         <li>Project governance structures and methods are agreed.</li>
                         <li>Any changes to the process plan are agreed between OIM and the client and the budget is adjusted accordingly.</li> 

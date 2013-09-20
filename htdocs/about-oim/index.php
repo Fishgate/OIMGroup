@@ -70,6 +70,7 @@
                             <li>Ability to create long-term, sustainable business benefits.</li>
                             <li>Delivery method that changes mindsets, develops skillsets and provides toolsets.</li>
                             <li>Integrated model that addresses all key business areas.</li>
+                            <li>Experienced business consultants.</li>
                         </ul>
                     </p>
                 </div>

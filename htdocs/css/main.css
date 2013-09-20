@@ -183,6 +183,9 @@ ul ul li{
     font-size: 14px;
     text-transform: uppercase;
 }
+#scroller {
+    background-color: #F8F8F8;
+}
 
 /*============================================
                 MAIN-NAV
@@ -296,7 +299,7 @@ ul ul li{
     position: relative;
     margin-left: -480px;
     left: 50%;
-    top: -50px;
+    top: -49px;
     z-index: 100;
     width: 960px;
     height: 50px;
@@ -425,7 +428,7 @@ body{
     margin: 0 5%;
 }
 .service-copy p{
-    min-height: 120px;
+    min-height: 170px;
 }
 .service-copy h2{
     margin-top: 30px!important;

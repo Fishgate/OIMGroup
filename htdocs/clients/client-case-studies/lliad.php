@@ -47,10 +47,10 @@
                         
                     <p>
                         <strong>The client view</strong><br/>
-                        “The annual strategy review is a key element of Iliad's corporate calendar. This process needs to address the relevant issues in a structured way, delivering a meaningful set of outcomes essential to the wellbeing of the business. The OIM team has shown the ability to understand our requirements in this regard and delivered an effective framework for our ongoing future use. They are a valued 'member' of our strategy review team - their role is highly respected and much appreciated.”
+                        “The annual strategy review is a key element of Iliad's corporate calendar. This process needs to address the relevant issues in a structured way, delivering a meaningful set of outcomes essential to the wellbeing of the business. The OIM team has shown the ability to understand our requirements in this regard and delivered an effective framework for our ongoing future use. They are a valued 'member' of our strategy review team &mdash; their role is highly respected and much appreciated.”
+                        <br/><span class="right">Eugene Beneke, CEO: Iliad</span>
                     </p>
-                    
-                    <p class="right">Eugene Beneke, CEO: Iliad</p>
+                                        
                 </div>
             </div>
             <div id='sidebar' class='left'>

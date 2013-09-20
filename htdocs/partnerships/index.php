@@ -41,9 +41,16 @@
                     
                     <hr/>
                     
-                    <p>In offering our leadership assessment and development interventions we have teamed up with several leading international talent management houses.</p>
-                    
+                    <img src="<?php echo $relpath; ?>img/partnerships/pure.gif" />
+                    <p>As one of South Africa’s leaders on online surveys for customers, employees and market research, we have partnered with Pure Survey to provide affordable, innovative and effective stakeholder perception surveys. Surveys are customised for each client’s unique needs and the main goal is useful reporting and data analysis that you, as the customer, require to effectively measure and manage your environment.</p>
+
+                    <p>Visit <a href='http://www.puresurvey.co.za' target='_blank'>www.puresurvey.co.za</a> for more information.</p>
+                                       
                     <hr/>
+                    
+                    <p>In offering our leadership assessment and development interventions we have teamed up with several leading international talent management houses.</p>                  
+                    
+                    <p>&nbsp;</p>
                     
                     <img src="<?php echo $relpath; ?>img/partnerships/saville.gif" />
                     <p>Saville Consulting develops rigorous and work-relevant assessment tools that measure the critical fit between individuals, job requirements and workplace culture.</p> 
@@ -57,21 +64,15 @@
 
                     <p>Visit <a href='http://www.shl.com' target='_blank'>www.shl.com</a> for information on their extensive solutions and expertise.</p>
                     
-                    <p>Everyone who has ever worked in a team-driven environment understands the importance of solid relations and work methods to get things done.</p>
-                    
                     <hr/>
                     
                     <img src="<?php echo $relpath; ?>img/partnerships/insights.gif" />
+                    <p>Everyone who has ever worked in a team-driven environment understands the importance of solid relations and work methods to get things done.</p>
+                    
                     <p>With Insight’s international track record spanning 20 years, we use the Insights® methodology to improve team effectiveness at our clients. It helps people to learn about themselves and others in a practical, results-driven way using colours and fun exercises.</p>
 
                     <p>Read more about this methodology and case studies at <a href='http://www.insights.com' target='_blank'>www.insights.com</a>.</p>
                     
-                    <hr/>
-                    
-                    <img src="<?php echo $relpath; ?>img/partnerships/pure.gif" />
-                    <p>As one of South Africa’s leaders on online surveys for customers, employees and market research, we have partnered with Pure Survey to provide affordable, innovative and effective stakeholder perception surveys. Surveys are customised for each client’s unique needs and the main goal is useful reporting and data analysis that you, as the customer, require to effectively measure and manage your environment.</p>
-
-                    <p>Visit <a href='http://www.puresurvey.co.za' target='_blank'>www.puresurvey.co.za</a> for more information.</p>
                     
                 </div>
             </div>

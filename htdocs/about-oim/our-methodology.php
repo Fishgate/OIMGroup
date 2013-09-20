@@ -34,13 +34,18 @@
                 <div class='breadcrumb'><i class="icon-map-marker icon-large red"></i> &nbsp;YOU ARE HERE: <a href='index.php'>About OIM</a> / <span class='red'>Our Methodology</span></div>
                 <h1>Our Methodology</h1>
                 <div class='copy'>
-                    <p>In the same way Apple understand technology [and Bono knows how to entertain a crowd?], OIM understands how to translate strategy into action and sustainable results in key business areas. This is our field of expertise and why we call ourselves performance specialists.
-</p>
-                    <p>Our approach offers comprehensive business performance solutions, focusing on people management, operational optimisation and organisational improvement in an integrated way.
-</p>
-<p>The ultimate aim is to ensure all stakeholders – customers, suppliers, society, employees and shareholders – benefit over time. This is what OIM calls a Prosperity Partnership&reg;.
-</p>
-                    <p>This approach consists of the following integrated elements for sustainable performance.</p>
+                    <p>In the same way Apple understands technology, OIM understands how to translate strategy into action and sustainable results in key business areas. This is our field of expertise and why we call ourselves <i>performance specialists</i>.</p>
+                    
+                    <p>Our approach offers comprehensive business performance solutions, focusing on people management, operational optimisation and organisational improvement in an integrated way.</p>
+                    
+                    <p>The ultimate aim is to ensure all stakeholders – customers, suppliers, society, employees and shareholders – benefit over time. This is what OIM calls a Prosperity Partnership&reg;.</p>
+                    
+                    <p><strong>The diagram below outlines the comprehensive offering and the integration of the various elements and services</strong>.</p> 
+                    
+                    <p>Many business consultants provide solutions in these areas but, unlike OIM, few offer all these elements in an integrated, sustainable and proven way.</p>  
+
+                    <p><a href='<?php echo $relpath; ?>clients'>This is our field of expertise and our record speaks for itself</a>.</p> 
+                    
                 </div>
             </div>
             <div id='sidebar' class='left'>
@@ -48,12 +53,15 @@
                 include $relpath.'includes/sidebar/widget-methodology.php';
                 ?>
             </div>
+                        
             <!-- BEGIN FULL WIDTH SECTION -->
-                <div class="left dotted-top secondary-full-width clearfix">
+                <div class="left secondary-full-width clearfix">
                     <!--====================== ROW HEAD ============-->
+                    <hr/>
+            
                     <div class="left meth-block meth-head">
                         <center>
-                            <h2>Model</h2>
+                            <h2>Elements</h2>
                         </center>
                     </div>
                     <div class="left meth-divider">&nbsp;</div>
@@ -71,7 +79,7 @@
                     <!--====================== ROW 1 ============-->
                     <div class="left meth-block bg-blue-dk">Clarity of purpose and direction</div>
                     <div class="left meth-divider"><i class="icon-angle-right icon-large"></i></div>
-                    <div class="left meth-block bg-blue-dk">Everyone knows where we are going as a company</div>
+                    <div class="left meth-block bg-blue-dk">Everyone knows where we are heading as a company</div>
                     <div class="left meth-divider"><i class="icon-angle-right icon-large"></i></div>
                     <div class="left meth-block bg-blue-dk">
                         <ul>
@@ -83,7 +91,7 @@
                     <!--====================== ROW 2 ============-->
                     <div class="left meth-block bg-blue-lt">Structure, alignment and focus</div>
                     <div class="left meth-divider"><i class="icon-angle-right icon-large"></i></div>
-                    <div class="left meth-block bg-blue-lt">Everyone knows what to focus their energy on daily</div>
+                    <div class="left meth-block bg-blue-lt">Everyone knows exactly what to focus their energy on daily</div>
                     <div class="left meth-divider"><i class="icon-angle-right icon-large"></i></div>
                     <div class="left meth-block bg-blue-lt">
                         <ul>
@@ -114,7 +122,7 @@
                     <div class="left meth-block bg-green">
                         <ul>
                             <li><a href="<?php echo $relpath ?>products-services/people-management/employee-engagement.php">Employee engagement (INVOCOMS)</a></li>
-                            <li><a href="<?php echo $relpath ?>products-services/organisational-development/stakeholder-perception-survey.php">Other stakeholder engagement</a></li>
+                            <li><a href="<?php echo $relpath ?>products-services/organisational-development/business-development-strategy/value-chain-management.php">Other stakeholder engagement</a></li>
                             <li><a href="<?php echo $relpath ?>products-services/organisational-development/employee-relations.php">Employee relations</a></li>
                             <li><a href="<?php echo $relpath ?>products-services/people-management/leadership-interventions/diversity-management.php">Diversity awareness</a></li>
                         </ul>
@@ -128,13 +136,13 @@
                         <ul>
                             <li><a href="<?php echo $relpath ?>products-services/operations-management/operations-management-interventions.php">Operations management interventions</a></li>
                             <li><a href="<?php echo $relpath ?>products-services/operations-management/continuous-improvement.php">Continuous improvement</a></li>
-                            <li><a href="<?php echo $relpath ?>products-services/people-management/leadership-interventions/executive-coaching.php">On-the-job operational mentoring and coaching</a></li>
+                            <li><a href="<?php echo $relpath ?>products-services/people-management/leadership-skills.php">On-the-job operational mentoring and coaching</a></li>
                         </ul>
                     </div>
                     <!--====================== ROW 6 ============-->
-                    <div class="left meth-block bg-purple">Measurement feedback, improvement, recognition and reward</div>
+                    <div class="left meth-block bg-purple">Measurement, feedback, improvement, recognition and reward</div>
                     <div class="left meth-divider"><i class="icon-angle-right icon-large"></i></div>
-                    <div class="left meth-block bg-purple">Teams regularly review their performance, focus on accountability recognition and reward</div>
+                    <div class="left meth-block bg-purple">Teams regularly review their performance, focus on accountability, recognition and reward</div>
                     <div class="left meth-divider"><i class="icon-angle-right icon-large"></i></div>
                     <div class="left meth-block bg-purple">
                         <ul>   

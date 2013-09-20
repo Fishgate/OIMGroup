@@ -39,8 +39,8 @@
                             <h2>Contact Details</h2>
                             <p>
                                 Tel: +27 21 913 8814/5<br />
-                                Email: info@oimgroup.com<br /><br />
-                                Speak to our managing director,
+                                Email: <a href="info@oimgroup.com">info@oimgroup.com</a><br /><br />
+                                Speak to our CEO,
                                 <a href="mailto:minnaar@oimgroup.com">Tjaart Minnaar</a>
                             </p>
 
@@ -50,8 +50,8 @@
                             <h2>Street Address</h2>
                             <p>
                                 OIM (Pty) Ltd<br />
-                                The Vineyard Square South<br />
-                                The Vineyard Office Park<br />
+                                The Vineyards Square South<br />
+                                The Vineyards Office Park<br />
                                 99 Jip de Jager<br />
                                 Welgemoed<br />
                                 7530
@@ -74,7 +74,7 @@
                             <h2>Map</h2>
                             <div>
                                 <i class="icon-download-alt icon-2x"></i>
-                                <a href="<?php echo $relpath; ?>downloads/pdf/directions.pdf" target='_blank'>Download Map</a>
+                                <a href="<?php echo $relpath; ?>downloads/pdf/directions.pdf" target='_blank'>Download Directions</a>
                             </div>
                         </div>
                         <a target="_blank" href="https://maps.google.com/maps?q=OIM+International+(Pty)+Ltd,+Cape+Town,+South+Africa&hl=en&ll=-33.855181,18.626032&spn=0.010995,0.019484&sll=37.0625,-95.677068&sspn=46.092115,79.804688&oq=OIM+International+(Pty)+Ltd&t=m&z=16&iwloc=A"><img src="<?php echo $relpath; ?>img/contact-map.jpg" alt="OIM International Map" /></a>

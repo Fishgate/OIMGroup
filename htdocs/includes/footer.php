@@ -33,7 +33,7 @@
                     </li>
                     <li>
                         <i class="icon-angle-right blue"></i>
-                        <a>Performance & Talent management</a>
+                        <a>Performance & talent management</a>
                         <ul class="mega-flyout">
                             <li><a href="<?php echo $relpath; ?>products-services/people-management/talent-management/talent-management-model.php">Talent management model</a></li>
                             <li><a href="<?php echo $relpath; ?>products-services/people-management/talent-management/performance-management-process.php">Individual performance management</a></li>
@@ -54,7 +54,7 @@
                         <a>Business strategy</a>
                         <ul class="mega-flyout">
                             <li><a href="<?php echo $relpath; ?>products-services/organisational-development/business-development-strategy/strategic-planning.php">Strategic planning</a></li>
-                            <li><a href="<?php echo $relpath; ?>products-services/organisational-development/business-development-strategy/change-management.php">Strategic and change communication</a></li>
+                            <li><a href="<?php echo $relpath; ?>products-services/organisational-development/business-development-strategy/change-management.php">Strategic & change communication</a></li>
                             <li><a href="<?php echo $relpath; ?>products-services/organisational-development/business-development-strategy/value-chain-management.php">Value chain optimisation</a></li>
                         </ul>
                     </li>

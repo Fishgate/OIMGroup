@@ -34,7 +34,11 @@
                 <div class='breadcrumb'><i class="icon-map-marker icon-large red"></i> &nbsp;YOU ARE HERE: <a href='index.php'>About OIM</a> / <span class='red'>BEE</span></div>
                 <h1>BEE</h1>
                 <div class='copy'>
-                    <img src="<?php echo $relpath; ?>img/bee.gif" />
+                    <p>OIM is a level two BBBEE contributor</p>
+                    
+                    <p><a href='<?php echo $relpath; ?>downloads/pdf/bee.pdf' target='_blank'>Click here</a> to download our latest accreditation certificate.</p>
+                    
+                    <div class="widget"><div class="sidebar-content-holder"><a href='<?php echo $relpath; ?>downloads/pdf/bee.pdf' target='_blank'><img src="<?php echo $relpath; ?>img/pdf-thumbs/bee.jpg" border='0'/></a></div></div>
                 </div>
             </div>
             <div id='sidebar' class='left'>

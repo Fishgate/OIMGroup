@@ -15,7 +15,7 @@
         <li><a href="<?php echo $relpath; ?>products-services/people-management/employee-engagement.php">Employee engagement (INVOCOMS)</a></li>
         <li><a href="<?php echo $relpath; ?>products-services/organisational-development/employee-relations.php">Employee relations</a></li>
         <li><a href="<?php echo $relpath; ?>products-services/people-management/talent-management/performance-management-process.php">Individual performance management</a></li>
-        <li><a href="<?php echo $relpath; ?>products-services/operations-management/information-technology-management.php">IT systems project management and resourcing</a></li>
+        <li><a href="<?php echo $relpath; ?>products-services/operations-management/information-technology-management.php">IT systems project management & resourcing</a></li>
         <li><a href="<?php echo $relpath; ?>products-services/people-management/leadership-interventions/competency-assessments.php">Leadership assessments</a></li>
         <li><a href="<?php echo $relpath; ?>products-services/people-management/leadership-interventions/leadership-development.php">Leadership development</a></li>
         <li><a href="<?php echo $relpath; ?>products-services/operations-management/operations-management-interventions.php">Maintenance optimisation</a></li>

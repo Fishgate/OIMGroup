@@ -40,18 +40,13 @@
                     <p>Senior consultant Willem Lombard’s expertise covers logistics management (warehousing, distribution and supply chain), planning and research for new ventures and marketing management. He has consulted in sectors such as construction, finance and banking, fast-moving consumer goods, manufacturing and retail.</p>
                     
                     <h2>Work Experience</h2>
-                    <p>In 2006 he explored new opportunities in the wellness sector and co-founded Equilibrium Lifestyle that provides balanced lifestyle services to After completing his postgraduate studies, Willem joined South African Breweries as a warehouse controller. Within two years he was promoted to warehouse manager of the East London depot and a few months later to depot manager in Queenstown, making him one of the youngest depot managers ever at SAB. His responsibilities included the development, implementation and management of business and financial plans, attending to customer needs and the optimisation of resources.</p>
-                    <p>professionals and business clients. He was involved in the venture’s research and planning, business setup, operational preparation, service execution and marketing.</p>
+                    <p>After completing his postgraduate studies, Willem joined South African Breweries as a warehouse controller. Within two years he was promoted to warehouse manager of the East London depot and a few months later to depot manager in Queenstown, making him one of the youngest depot managers ever at SAB. His responsibilities included the development, implementation and management of business and financial plans, attending to customer needs and the optimisation of resources. In 2006 he explored new opportunities in the wellness sector and co-founded Equilibrium Lifestyle that provides balanced lifestyle services to professionals and business clients. He was involved in the venture’s research and planning, business setup, operational preparation, service execution and marketing.</p>
                     
                     <h2>At OIM</h2>
                     <p>Willem joined OIM in 2007 as a service provider and later a full-time consultant. Since then he has worked in sectors such as construction, finance and banking, fast-moving consumer goods, manufacturing and retail. He has also been involved in performance improvement and INVOCOMS&reg; training. Since early in 2013 Willem serves on OIM’s executive team and also forms part of the management team of the company’s Performance Improvement division.</p>
                     
                     <h2>Qualifications</h2>
-                    <p>
-                    <ul>
-                        <li>BComm Honours (Marketing Management) – University of Pretoria (2003)</li>
-                    </ul>
-                    </p>
+                    <p>BComm Honours (Marketing Management) – University of Pretoria (2003)</p>
                     
                     <h2>On A Personal Note</h2>
                     <p>A keen sportsman, Willem holds five-times provincial colours in gymnastics and a black belt and national colours in karate. He’s also an advanced scuba diver. But for the time being he has exchanged his sporting gear for diaper gear, spending as much time possible with his first child.</p>

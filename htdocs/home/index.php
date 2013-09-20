@@ -39,7 +39,12 @@
                 <h2 class="h2-custom">ORGANISATIONAL PERFORMANCE</h2>
                 <h2 class="h2-custom">OPERATIONAL OPTIMISATION</h2>
                 
-                <p id="intro-copy" class="dotted-top-bottom">Over the years OIM has developed a unique, integrated approach to business performance management and strategy execution in these core areas.<br /> With a proven track record of working with Blue Chip companies both locally and abroad, our multidisciplinary team eliminates the need to call in<br />various business consultants.</p>
+                <p id="intro-copy" class="dotted-top-bottom">
+                    Over the years OIM has developed a unique, integrated approach to business performance management<br/> and strategy execution in these core areas. With a solid track record of working with Blue Chip companies both locally and abroad,<br/> our multidisciplinary team eliminates the need to call in various business consultants.
+                
+                    <br/><br/>Furthermore, our proven methodologies and way of working ensure that we can play an integral part<br/> in the continuous evolvement, progress and success of your business.
+                </p>
+                
             </center>
             <!-- END INTRO COPY -->
             
@@ -53,7 +58,7 @@
                         <center>
                             <h2>Our Methodology</h2>
                         </center>
-                        <p>Various methodologies are used to ensure the successful implementation of projects, including SDLC and Agile. We also have extensive experience in business process management technologies such as workflow and electronic content management(ECM).</p>
+                        <p>We use various methodologies to ensure the successful implementation of projects, including SDLC and Agile software, and have extensive experience in business process management technologies such as workflow and electronic content management (ECM).</p>
                         <a class="dotted-top-bottom" href="<?php echo $relpath; ?>about-oim/our-methodology.php">Methodology &amp; Services</a>
                     </div>
                 </div>
@@ -63,7 +68,7 @@
                         <center>
                             <h2>About OIM</h2>
                         </center>
-                        <p>With over 25 years' experience in business improvement, Operational Improvement Management (OIM) advises several South African Blue-Chip companies and manages performance improvement assignments in Europe, Australia and USA and other African countries.</p>
+                        <p>With over 25 years' experience, Operational Improvement Management (OIM) advises several South African Blue-Chip companies and manages performance improvement assignments in Europe, Australia, America as well as other African countries.</p>
                         <a class="dotted-top-bottom" href="<?php echo $relpath; ?>about-oim">Read more about OIM</a>
                     </div>
                 </div>
@@ -73,7 +78,7 @@
                         <center>
                             <h2>Client Testimonials</h2>
                         </center>
-                        <p>"The OIM team has shown the ability to understand our requirements in this regard and delivered an effective framework for our ongoing future use. They are a valued 'member' of our strategy review team - their role is highly respected and much appreciated."</p>
+                        <p>We have built long-term partnerships with many of our clients who trust us without reservation to help create sustainable solutions. "The OIM team has shown the ability to understand our requirements and delivered an effective framework for our on-going success. They are a valued 'member' of our strategy review team and their role is highly respected." Eugene Beneke, CEO: Iliad</p>
                         <a class="dotted-top-bottom" href="<?php echo $relpath; ?>clients">View OIM's clients</a>
                     </div>
                 </div>
@@ -85,9 +90,11 @@
             ==========================================================-->
             <h2>Clients</h2>
             <ul id="scroller">
-                <li><img src="../img/1.jpg" /></li>
-                <li><img src="../img/2.jpg" /></li>
-                <li><img src="../img/3.jpg" /></li>
+                <li><img src="../img/logos/allan_gray.gif" /></li>
+                <li><img src="../img/logos/metropolitan.gif" /></li>
+                <li><img src="../img/logos/momentum.gif" /></li>
+                <li><img src="../img/logos/standard_bank.gif" /></li>
+                <li><img src="../img/logos/woolworths.gif" /></li>
             </ul>
             <!-- END CLIENT SCROLLER -->
         </div>

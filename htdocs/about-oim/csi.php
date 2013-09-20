@@ -40,6 +40,8 @@
 
                     <h2>Investing in the community</h2>
                     
+                    <p>Examples of the Trust's work</p>
+                    
                     <p><strong>Training and employee engagement in the textile industry, Plettenberg Bay</strong><br/>
                     In 2009 a group of local women from Plettenberg Bay established Ubuntu@The Crags, a cooperation that produces French linen for well-known chain stores. OIM helped its leaders to set up business structures, processes and employee engagement tools and trained them in enterprise development, leadership skills and business principles. Using OIM’s operations expertise, we have also been actively involved in aspects such as production line planning, installation of machinery and operational training. Since 2010 OIM is also sponsoring the operational training for staff members.
                     </p>
@@ -61,7 +63,7 @@
                     </p>
                     
                     <p><strong>Interventions in the deciduous fruit industry, Western Cape</strong><br/>
-                    While doing conflict resolution in the deciduous fruit industry in the late ‘90s, OIM realised the conflict was aggravated by violence in the community. OIM extended the intervention to the local communities and conducted several business workshops for community leaders to deepen their understanding of the fruit industry.
+                    While doing conflict resolution in the deciduous fruit industry, OIM realised the conflict was aggravated by violence in the community. OIM extended the intervention to the local communities and conducted several business workshops for community leaders to deepen their understanding of the fruit industry.
                     </p>
                     
                     <p><strong>Coaching in the telecommunications industry, Southern Cape</strong><br/>

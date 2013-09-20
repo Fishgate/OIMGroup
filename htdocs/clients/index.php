@@ -61,7 +61,7 @@
                     </ul>
                     </p>
 
-                    <h2>Our Client list include:</h2>
+                    <h2>Our Client list includes:</h2>
                     <p>&nbsp;</p>
                     <p>
                         <div class="clients-all-holder">

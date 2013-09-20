@@ -36,15 +36,15 @@
 
                     <p>
                         <strong>About the partnership</strong><br/>
-                        Following a business review to identify operational constraints and map a solution, OIM’s operations management consultants ran an intervention to improve efficiencies at Glacier’s Administration and Call Centre divisions. The nine-month project included management operating tools, capacity planning, short-interval control, reporting tools and building a system to manage electronic client requests. The result was a return on investment of at least 4:1 at Administration with a 30% reduction on outstanding cases. Other benefits included a large reduction in cycle times, the cleaning of reporting data and the ability to measure and manage productivity, service levels, quality and turnaround times on a daily, weekly and monthly basis. Call Centre service levels increased by 11% while capacity and productivity improved by 15%.    
+                        Following a business review to identify operational constraints and map a solution, OIM's operations management consultants ran an intervention to improve efficiencies at Glacier's Administration and Call Centre divisions. The nine-month project included management operating tools, capacity planning, short-interval control, reporting tools and building a system to manage electronic client requests. The result was a return on investment of at least 4:1 at Administration with a 30% reduction on outstanding cases. Other benefits included a large reduction in cycle times, the cleaning of reporting data and the ability to measure and manage productivity, service levels, quality and turnaround times on a daily, weekly and monthly basis. Call Centre service levels increased by 11% while capacity and productivity improved by 15%.    
                     </p>
                         
                     <p>
                         <strong>The client view</strong><br/>
-                        “OIM collaborated with Glacier to radically improve efficiencies within the Administration and Call Centre areas, through the implementation of their management operating system (MOS) methodology. The goals were more than achieved and Glacier is greatly satisfied with the outcome. The project not only achieved its short-term objective, but the tools left behind ensure ongoing sustainability. OIM’s operations management consultants conducted themselves in a professional manner throughout their time with us, and I would gladly use OIM again when the need arises.”
+                        "OIM collaborated with Glacier to radically improve efficiencies within the Administration and Call Centre areas, through the implementation of their management operating system (MOS) methodology. The goals were more than achieved and Glacier is greatly satisfied with the outcome. The project not only achieved its short-term objective, but the tools left behind ensure ongoing sustainability. OIM's operations management consultants conducted themselves in a professional manner throughout their time with us, and I would gladly use OIM again when the need arises."
+                        <br/><span class="right">Michelle M&ouml;ller, head: Client Services</span> 
                     </p>
                     
-                    <p class="right">Michelle Möller, head: Client Services</p>
                 </div>
             </div>
             <div id='sidebar' class='left'>
