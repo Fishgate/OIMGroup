@@ -37,13 +37,11 @@
                 <div class='copy'>
                     <p>Labour peace and stability is crucial for business success.</p> 
 
-                    <p>Given South Africa’s history the area is particularly complex and since 2010 violence and unprotected strikes have steadily gained momentum in our country.</p> 
-
-                    <p>The 2012/3 World Competitiveness Report confirms this state of affairs with SA ranking last out of 144 countries in the category labour-employer relations.</p>  
+                    <p>Given South Africa’s history the area is particularly complex and since 2010 violence and unprotected strikes have steadily gained momentum in our country. The 2012/3 World Competitiveness Report confirms this state of affairs with SA ranking last out of 144 countries in the category labour-employer relations.</p>  
 
                     <p>OIM helps organisations to actively manage these relations.</p>
 
-                    <p>With 28 years’ experience in employee and labour relations, we assist organisations to:
+                    <p><strong>With 28 years’ experience in employee and labour relations, we assist organisations to:</strong>
                     <ul>
                             <li>Develop and implement a comprehensive employee relations strategy in line with overall business goals.</li>
                             <li>Promote labour peace and stability.</li>

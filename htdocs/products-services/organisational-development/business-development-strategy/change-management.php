@@ -51,7 +51,7 @@
                     <ul>
                         <li><strong>Information sharing and awareness:</strong> Using a range of communication tools, eg social networking, road shows, newsletters, posters and communication campaigns.</li>
                         <li><strong>Peer-to-peer influence:</strong> Establish change champions and peer-level leaders who share information, create buy-in and influence on an informal level.</li>
-                        <li><strong>Business understanding:</strong> Coupled with information sharing and peer champions, we use OIM’s Climate Creation Workshops to ensure all employees have a holistic understanding of the business context and how their role contributes to organisational success. Similarly, OIM’s employee engagement methodology, INVOCOMS&reg;, is used to engage teams around business goals, team conduct and specific focused communication and learning topics.</li>
+                        <li><strong>Business understanding:</strong> Coupled with information sharing and peer champions, we use OIM’s Climate Creation Workshops to ensure all employees have a holistic understanding of the business context and how their role contributes to organisational success. Similarly, OIM’s employee engagement methodology, <a href="<?php echo $relpath; ?>products-services/people-management/employee-engagement.php">INVOCOMS&reg;</a>, is used to engage teams around business goals, team conduct and specific focused communication and learning topics.</li>
                     </ul>
                     </p>
 

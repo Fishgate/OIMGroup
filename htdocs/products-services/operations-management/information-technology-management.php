@@ -65,7 +65,7 @@
                     <p>
                         <ul>
                             <li>Our experienced operations management4 consultants have worked on systems in the following areas:</li>
-                            <ul>
+                            <ul class="nested_ul">
                                 <li>Point of sale</li>
                                 <li>Call centres</li>
                                 <li>Line of business (LOB)</li>

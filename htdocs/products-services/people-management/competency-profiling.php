@@ -33,13 +33,13 @@
             <div id='body' class='left'>
                 <div class='breadcrumb'><i class="icon-map-marker icon-large red"></i> &nbsp;YOU ARE HERE: <span class='red'>Products & Services</span> / <span class='red'>People Management</span> / <span class='red'>Leadership and Team Interventions</span></div>
                 <h1>Competency Profiling</h1>
-                <div class='caption'><span>A framework against which to assess, develop & manage your organisation’s talent</span></div>
+                <div class='caption'><span>A framework to assess, develop &amp; manage your organisation’s talent</span></div>
                 <div class='copy'>
                     <p>Competency profiling is an essential component of HR management. It identifies the competencies – skills, knowledge, attributes and attitudes – required for each job level or role to optimise your organisation’s performance.</p>
 
                     <p>Simply put, it provides you with a scientific framework to help ensure you deploy the right talent in the right role with the right responsibilities.</p>
 
-                    <p>This framework is therefore key to the rest of your HR and <strong>talent management</strong> processes, guiding aspects such as recruitment and selection, training and development, <strong>performance management</strong>, as well as retention and succession planning.</p>
+                    <p>This framework is therefore key to the rest of your HR and talent management processes, guiding aspects such as recruitment and selection, training and development, performance management, as well as retention and succession planning.</p>
 
                     <h2>Our offering</h2>
                     <p>
@@ -53,9 +53,9 @@
                     <h2>The OIM difference</h2>
                     <p>
                         <ul>
-                            <li>OIM’s leadership talent team can lay claim to solid knowledge of both business and human behaviour. They are all registered industrial psychologists and organisational development practitioners with years’ experience in <strong>talent management</strong>, <strong>team dynamics</strong> and <strong>leadership development</strong>.</li>
+                            <li>OIM’s leadership talent team can lay claim to solid knowledge of both business and human behaviour. They are all registered industrial psychologists and organisational development practitioners with years’ experience in talent management, team dynamics and leadership development.</li>
                             <li>The team has successfully facilitated competency profiling interventions in a range of industries, including finance, retail, manufacturing, fast-moving consumer goods and mining.</li>
-                            <li>OIM works in partnership with leading talent assessment companies SHL and Saville giving clients peace of mind that results are reliable, valid and benchmarked against international standards.</li>
+                            <li>OIM works in partnership with leading talent assessment companies SHL and Saville, giving clients peace of mind that results are reliable, valid and benchmarked against international standards.</li>
                             <li>We don’t simply offer standard frameworks, but customise profiles for clients’ specific needs and business objectives. We can also design truly unique frameworks for clients.</li>
                         </ul>
                     </p>

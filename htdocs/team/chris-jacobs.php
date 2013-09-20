@@ -37,9 +37,9 @@
                     <img src="<?php echo $relpath; ?>/img/team/chris_large.jpg" />
                     <p><span class="member-name">Chris Jacobs</span></p>
                     <p>Director</p>
-                    <p>Since 1988 Chris Jacobs has consulted widely in a range of industries, both locally and abroad. During this time he has gained an impressive 20 years’ experience in OIM’s proven performance improvement methodology. </p>
+                    <p>Since 1988 Chris Jacobs has consulted widely in a range of industries, both locally and abroad. During this time he has gained an impressive 21 years’ experience in OIM’s proven performance improvement methodology. </p>
 
-                    <p>His fields of expertise include conflict resolution, management-union relations, the establishment of employee engagement tools, strategic planning and execution, and diversity management. He has successfully lead projects in these areas at clients such as Anglo Platinum, Anglo Gold, Samancor, Khumani Assmang, Oceana, Woolworths, Tiger Brands, British American Tobacco, Distell and Barloworld. He was, for example, the chief facilitator of the peace process during the much publicized violence and disruptions at Anglo Platinum in 1997. To this day Anglo Platinum is using some of the measures Chris and his team put in place.</p>
+                    <p>His fields of expertise include conflict resolution, management-union relations, the establishment of employee engagement tools, strategic planning and execution, and diversity management. He has successfully lead projects in these areas at clients such as Anglo Platinum, Anglo Gold, Samancor, Khumani Assmang, Oceana, Woolworths, Tiger Brands, British American Tobacco, Distell and Barloworld. He was, for example, the chief facilitator of the peace process during the much publicised violence and disruptions at Anglo Platinum in 1997. To this day Anglo Platinum is using some of the measures Chris and his team put in place.</p>
                     
                     <h2>Work Experience</h2>
                     <p>Chris’ interest in labour relations matters was first sparked in 1988 – soon after graduation – when he spent five years as a research analyst in labour relations. As such he was heavily involved with trade union/management relations and conflict resolution.</p>

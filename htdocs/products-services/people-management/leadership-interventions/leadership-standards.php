@@ -35,11 +35,11 @@
                 <h1>Leadership Standards</h1>
                 <div class='caption'><span>Establish the standard for successful leadership</span></div>
                 <div class='copy'>
-                    <p>Leaders are the undeniable drivers of your organisational culture and <strong>strategy implementation</strong>. Their behaviour and practices largely determine a business’ success or failure.</p>
+                    <p>Leaders are the undeniable drivers of your organisational culture and strategy implementation. Their behaviour and practices largely determine a business’ success or failure.</p>
 
                     <p>OIM helps organisations to set out leadership standards that are in line with their business strategy.</p> 
 
-                    <p>After more than 25 years’ experience in business <strong>performance management</strong> we have concluded that the following leadership capabilities are required for a high-performing organisational culture:
+                    <p>After more than 25 years’ experience in business performance management we have concluded that the following leadership capabilities are required for a high-performing organisational culture:
                         <ul>
                             <li>Create shared purpose and direction
                             <li>Establish functional alignment and focus</li>
@@ -49,19 +49,16 @@
                             <li>Facilitate measurement and feedback</li>
                         </ul>
                     </p>
-
+                    
+                    <h2>Manage leadership in an integrated way</h2>
                     <p>
-                    <strong>Manage leadership in an integrated way</strong><br/>
-                    Leadership standards cannot be defined or implemented in isolation. They form part of a larger organisational performance initiative and serve as a foundation for the integrated management of <strong>leadership development</strong>, including:
+                    Leadership standards cannot be defined or implemented in isolation. They form part of a larger organisational performance initiative and serve as a foundation for the integrated management of leadership development, including:
                         <ul>
-                            <li><strong>Competency profiling:</strong> Use the standards framework to define the <strong>leadership skills</strong>, competencies, knowledge, attributes and attitudes required for each level.</li> 
-                            [link to competency profiling]
+                            <li><strong>Competency profiling:</strong> Use the standards framework to define the leadership skills, competencies, knowledge, attributes and attitudes required for each level... <a href="<?php echo $relpath; ?>products-services/people-management/competency-profiling.php">Read more</a></li> 
                             <li><strong>Leadership assessments:</strong> Gain a more accurate picture of your leaders’ aptitudes, behavioural preferences, work styles, cultural fit and potential.</li>
                             <li><strong>Leadership development:</strong> Use the competency profile and assessment outcomes as a basis for organisational and individual leadership development plans. This is a valuable performance tool to develop leaders in critical areas for business success.</li>
-                            <li><strong>Coaching:</strong> Where required, use one-on-one sessions to help leaders with career transitioning, identified development areas and leadership-specific challenges. </li>
-                            [link to coaching]
-                            <li><strong>Talent management:</strong> Leadership development should form a crucial part of your overall talent management. </li>
-                        [link to talent management]
+                            <li><strong>Coaching:</strong> Where required, use one-on-one sessions to help leaders with career transitioning, identified development areas and leadership-specific challenges... <a href="<?php echo $relpath; ?>products-services/people-management/leadership-interventions/executive-coaching.php">Read more</a> </li>
+                            <li><strong>Talent management:</strong> Leadership development should form a crucial part of your overall talent management... <a href="<?php echo $relpath; ?>products-services/people-management/talent-management/talent-management-model.php">Read more</a> </li>
                         </ul>
                     </p>
 
@@ -69,9 +66,9 @@
                     <p>
                         <ul>
                             <li>We offer a comprehensive solution to define, assess, develop and manage your organisation’s leadership talent.</li>
-                            <li>OIM’s leadership talent team comprises registered industrial psychologists and organisational development practitioners with comprehensive experience in <strong>talent management, team dynamics</strong> and <strong>leadership development</strong>.</li>
+                            <li>OIM’s leadership talent team comprises registered industrial psychologists and organisational development practitioners with comprehensive experience in talent management, team dynamics and leadership development</strong>.</li>
                             <li>The offering complements other OIM products and services.</li>
-                            <li>When drafting and conducting the competency assessments, we use a range of internationally benchmarked tools from <strong>talent management</strong> companies such as Saville, Shl, Insights and Bioss.</li>
+                            <li>When drafting and conducting the competency assessments, we use a range of internationally benchmarked tools from talent management companies such as Saville, Shl, Insights and Bioss.</li>
                         </ul>
                     </p>
                 </div>

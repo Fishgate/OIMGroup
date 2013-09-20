@@ -61,7 +61,7 @@
                     <p><strong>Consulting</strong><br/>The design of a customised individual performance management system and approach. This is supported by policies, processes, practices and a toolkit to facilitate implementation and sustainability.</p>
 
                     <p><strong>Training</strong><br/>This involves equipping leaders with the necessary skills and knowledge to action the performance management system. Clients can choose between two options where OIM: 
-                        <ul>
+                        <ul class="nested_ul">
                             <li>Trains all leaders in workshop sessions.
                             <li>Conducts a train-the-trainer programme.
                         </ul>
