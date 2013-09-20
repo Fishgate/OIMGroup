@@ -62,8 +62,7 @@
                             <li>We offer a range of market-leading and internationally benchmarked tools to help design the solution.</li>
                             <li>OIM’s leadership talent team comprises registered industrial psychologists and organisational development practitioners with years of experience in talent management, team dynamics and leadership development.</li>
                             <li>Clients benefit from OIM’s expertise in other specialist areas of people management, organisational improvement and operational optimisation.</li> 
-                            <li>Over the past 27 years OIM has built a proven track record. We have designed business performance solutions for numerous South African blue-chip companies and managed assignments in Europe, Australia, the USA and other African countries.</li> 
-                            <li>If required, clients also benefit from the expertise embedded in all OIM’s core business areas, namely people management, operational optimisation and organisational performance improvement. Other services include strategic planning, business process management, employee relations and individual performance management.</li>
+                            <li>Over the past 27 years OIM has built a proven track record.</li>
                         </ul>
                    </p>
                 </div>

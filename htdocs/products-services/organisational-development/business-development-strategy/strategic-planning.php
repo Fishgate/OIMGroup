@@ -79,7 +79,7 @@
                             <li>We do not believe in consultant dependency. Therefore sustainability, inclusivity and building internal capacity for the design, implementation and execution of strategy are key elements in our process.</li>
                             <li>An inherent part of this approach is the establishment of a framework for ongoing reviews.</li>
                             <li>We have successfully facilitated strategic planning interventions for a range of clients, many of whom still rely on our expertise to help facilitate workshops or interventions at critical junctures in their business journey.</li>
-                            <li>OIM has also been leaders in the field of employee engagement (INVOCOM) since the early 80s with implementation in a range of industries and countries. INVOCOM is the execution methodology we establish at organisations as part of the strategic planning offering.</li>
+                            <li>OIM has also been leaders in the field of employee engagement (INVOCOM&reg;) since the early 80s with implementation in a range of industries and countries. INVOCOM&reg; is the execution methodology we establish at organisations as part of the strategic planning offering.</li>
                             <li>If required, clients also have access to the expertise embedded in the rest of OIM’s specialist areas, namely organisational performance improvement, operational optimisation and people management.</li> 
                         </ul>
                     </p>

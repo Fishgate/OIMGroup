@@ -53,7 +53,7 @@
                     <p>
                         <ul>
                             <li><strong>Diversity awareness workshops catering for:</strong></li>
-                                <ul>
+                                <ul class="nested_ul">
                                     <li>Employees in general.</li>
                                     <li>Leaders managing diverse teams.</li>
                                 </ul>
