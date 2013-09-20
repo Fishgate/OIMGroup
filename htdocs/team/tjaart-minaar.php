@@ -38,7 +38,7 @@
                     <p><span class="member-name">Tjaart Minnaar</span></p>
                     <p>CEO</p>
                     
-                    <p>OIM chief executive officer Tjaart Minnaar has 30 years’ experience in organisational performance improvement, industrial relations, and training and development. He advises several South African blue-chip companies and has international consulting experience in areas such as strategic planning organisational change and development, employee engagement, executive coaching, business structuring, industrial relations and conflict resolution.</p>
+                    <p>OIM chief executive officer Tjaart Minnaar has 30 years’ experience in organisational performance improvement, industrial relations, and training and development. He advises several South African blue-chip companies and has international consulting experience in areas such as strategic planning, organisational change and development, employee engagement, executive coaching, business structuring, industrial relations and conflict resolution.</p>
                     <p>He has successfully lead several large-scale organisational change processes locally and abroad and has consulted widely in the food, financial services, engineering, construction and mining industries and for parastatals and local government.</p>
                     
                     <h2>Work Experience</h2>

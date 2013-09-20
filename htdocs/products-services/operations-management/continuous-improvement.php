@@ -35,7 +35,7 @@
                 <h1>Continuous Improvement</h1>
                 <div class='caption'><span>Establish a culture of ongoing operational optimisation</span></div>
                 <div class='copy'>
-                    <p>Ongoing operational improvement is an essential part of successful <strong>operations management</strong>.</p>
+                    <p>Ongoing operational improvement is an essential part of successful operations management.</p>
 
                     <p>OIM has developed a programme to equip employees with the necessary skills and mindsets to optimise operations and exploit innovation opportunities long term. The aim is to establish a culture of and capacity for continuous improvement.</p>
 
@@ -59,11 +59,11 @@
 
                     <p>
                         <ul>
-                            <li>OIM’s <strong>operations management</strong> team has experience in <strong>both business processes and systems management</strong>, providing clients with a comprehensive service and depth of knowledge in these fields.</li>
+                            <li>OIM’s <strong>operations management</strong> team has experience in both business processes and systems management, providing clients with a comprehensive service and depth of knowledge in these fields.</li>
                             <li>With a track recording date back to the late 90’s, the team has experience in various industries including manufacturing, mining, retail, financial services and local government sectors. Some of the clients who’ve benefited from our operational solutions are Allan Gray, Assmang Khumani Mine, Metropolitan, Meatco and Glacier by Sanlam.</li>
                             <li>We pride ourselves in our ability to design customised interventions for clients, with a proven ability to identify inefficiencies and scope relevant solutions.</li>
                             <li>When designing these interventions, we draw on a range of methodologies and best practices to create the appropriate structures, processes and systems for effective strategy execution and operations management.</li> 
-                            <li>If required, clients also have access to the expertise embedded in the rest of OIM’s specialist areas, namely organisational improvement and people management. This includes <strong>strategic planning, business architecture, employee engagement, leadership development and employee relations</strong>. All of these solutions are seamlessly implemented by specialists in the core business areas.</li>
+                            <li>If required, clients also have access to the expertise embedded in the rest of OIM’s specialist areas, namely organisational improvement and people management. This includes strategic planning, business architecture, employee engagement, leadership development and employee relations. All of these solutions are seamlessly implemented by specialists in the core business areas.</li>
                         </ul>
                     </p>
                 </div>
