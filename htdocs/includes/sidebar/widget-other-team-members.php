@@ -7,8 +7,7 @@
                 <img src="<?php echo $relpath; ?>img/team/tjaart.jpg" alt="Tjaart Minnaar" />
                 <p>Tjaart Minnaar</p>
             </a>
-            <p>MD:</p>
-            <p>Operations Solutions</p>
+            <p>CEO</p>
         </div>
         
         <div class="team-member">
@@ -48,7 +47,7 @@
                 <img src="<?php echo $relpath; ?>img/team/marie.jpg" alt="Mari&#233; Burger" />
                 <p>Mari&#233; Burger</p>
             </a>
-            <p>Financial director</p>
+            <p>Financial Director</p>
         </div>
         
         <div class="team-member">
@@ -75,8 +74,7 @@
                 <img src="<?php echo $relpath; ?>img/team/christian.jpg" alt="Christian Kaiser" />
                 <p>Christian Kaiser</p>
             </a>
-            <p>Principal Consultant</p>
-            <p>Operations Solutions</p>
+            <p>EXCO Member</p>
         </div>
     </div>
     
@@ -94,7 +92,7 @@
                 <img src="<?php echo $relpath; ?>img/team/fred.jpg" alt="Fred Arendse" />
                 <p>Fred Arendse</p>
             </a>
-            <p>Non-executive director</p>
+            <p>Non-executive Director</p>
         </div>
     </div>
     
@@ -113,9 +111,7 @@
                 <img src="<?php echo $relpath; ?>img/team/willem.jpg" alt="Willem Lombard" />
                 <p>Willem Lombard</p>
             </a>
-            <p>Senior Consultant:</p>
-            <p>Performance</p>
-            <p>Improvement </p>
+            <p>EXCO Member</p>
         </div>
     </div>
     

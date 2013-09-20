@@ -37,16 +37,16 @@
                     <img src="<?php echo $relpath; ?>/img/team/leezelle_large.jpg" />
                     <p><span class="member-name">Leez&eacute;lle Kotz&eacute;</span></p>
                     <p>MD: Leadership Talent</p>
-                    <p>Registered industrial psychologist Leezélle Kotzé has worked in the HR field since 1999, holding senior positions at among others The Foschini Group and Shoprite Group of Companies. She has also consulted for among others Capitec Bank, BHP Billiton, Woolworths, Tiger Brands, Meatco and Stellenbosch University.</p>
+                    <p>Registered industrial psychologist Leezélle Kotzé has worked in the HR field since 1999, holding senior positions at among others The Foschini Group and The Shoprite Group of Companies. She has also consulted for among others Capitec Bank, BHP Billiton, Woolworths, Tiger Brands, Meatco and Stellenbosch University.</p>
 
                     <p>Her areas of expertise include talent management, leadership development, competency frameworks, recruitment and selection, talent assessment, coaching and team facilitation.</p>
                     
                     <h2>Work Experience</h2>
                     <p>In 2012 Leez&eacute;lle launched TALL Consulting, a company that offers a range of talent and leadership services such as talent management, leadership development, coaching and team interventions.</p>
 
-                    <p>Before this she worked for various large corporations, including The Foschini Group, where she was senior HR manager: Group Resourcing and responsible for the development and implementation of the group’s recruitment strategy and assessment philosophy.</p>
+                    <p>Before this she worked for various large corporations, including The Foschini Group, where she was senior HR manager: group resourcing and responsible for the development and implementation of the group’s recruitment strategy and assessment philosophy.</p>
 
-                    <p>She was also Resource Manager at the Shoprite Group for four years, where her portfolio included strategy development, group talent management, recruitment and selection, and employment equity policy development and implementation.</p>
+                    <p>She was also resource manager at The Shoprite Group for four years, where her portfolio included strategy development, group talent management, recruitment and selection, and employment equity policy development and implementation.</p>
                     
                     <h2>At OIM</h2>
                     <p>Leezélle first joined OIM in 2004 as a leadership and performance improvement consultant. During her four-year stint at the company her client list included Meatco and Hangana Seafood (both in Namibia), Woolworths, Tiger Brands and Barloworld where she designed, among other, material for various leadership development programmes and was involved in change management, coaching, diversity training, competency profiling and leadership assessments.</p>
@@ -57,8 +57,8 @@
                     <p>
                     <ul>
                         <li>Currently doing a PhD in consulting psychology through Unisa</li>
-                        <li>MA in industrial psychology from Stellenbosch University (2004)</li>
-                        <li>She served as chairperson of the Western Cape branch of the Society for Industrial & Organisational Psychology of SA in 2006 and 2007.</li>
+                        <li>MA in Industrial Psychology from Stellenbosch University (2004)</li>
+                        <li>She served as chairperson of the Western Cape branch of the Society for Industrial & Organisational Psychology of SA in 2006 and 2007</li>
                     </ul>
                     </p>
                     <p>Leez&eacute;lle is an accredited facilitator for numerous industrial psychology tools, including:</p>

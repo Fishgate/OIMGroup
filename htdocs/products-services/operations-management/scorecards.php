@@ -31,7 +31,7 @@
                 <div class='copy'>
                     <p>Scorecards play a crucial role in organisational, team and individual performance management. They are used to translate strategic priorities to all organisational levels to establish overall alignment and a collective focus on the right goals and targets.</p>
 
-                    <p>Using a structured approach, OIM’s scorecard development process aligns functional and team performance to the business strategy and standard operational areas. We clearly define goals and targets and cascade them throughout the business to accurately reflect level and content of work. This ensures that all functions add value to the business based on a common understanding of the organisational goals.</p>
+                    <p>Using a structured approach, OIM's scorecard development process aligns functional and team performance to the business strategy and standard operational areas. We clearly define goals and targets and cascade them throughout the business to accurately reflect level and content of work. This ensures that all functions add value to the business based on a common understanding of the organisational goals.</p>
 
                     <p>We also train staff in the use of scorecards and the contracting of performance.</p>
 
@@ -53,11 +53,11 @@
                     <h2>The OIM difference</h2>
                     <p>
                         <ul>
-                            <li>OIM’s integrated approach ensures that scorecards – and therefore performance management – are incorporated in the day-to-day running of the organisation.</li>  
+                            <li>OIM's integrated approach ensures that scorecards - and therefore performance management - are incorporated in the day-to-day running of the organisation.</li>  
                             <li>Our process includes vertical and horizontal alignment, thereby addressing business processes and areas such as value chain performance that are often poorly managed in organisations.</li> 
                             <li>Our offering enables an organisation to seamlessly execute its strategy, align teams and individuals and achieve engagement and buy-in.</li>
-                            <li>Our approach is based on OIM’s proven performance improvement methodology and its basic performance elements, being clear purpose and direction, alignment and focus, effective leadership, business process/system integration and “knowing the score” through continuous performance measurement and improvement.</li> 
-                            <li>We enable an organisation to develop and implement team performance scorecards that are managed using OIM’s employee engagement methodology, INVOCOM®.</li>
+                            <li>Our approach is based on OIM's proven performance improvement methodology and its basic performance elements, being clear purpose and direction, alignment and focus, effective leadership, business process/system integration and "knowing the score" through continuous performance measurement and improvement.</li> 
+                            <li>We enable an organisation to develop and implement team performance scorecards that are managed using OIM's employee engagement methodology, INVOCOM&reg;.</li>
                         </ul>
                     </p>
                 </div>

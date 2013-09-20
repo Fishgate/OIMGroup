@@ -37,13 +37,13 @@
                     <img src="<?php echo $relpath; ?>/img/team/ben_large.jpg" />
                     <p><span class="member-name">Ben Nel</span></p>
                     <p>Director</p>
-                    <p>With a consulting career spanning 21 years, Ben Nel can lay claim to extensive expertise in production management optimisation, process analysis and improvement, process re-engineering and call centre optimisation in most industries.</p>
+                    <p>With a consulting career spanning 23 years, Ben Nel can lay claim to extensive expertise in production management optimisation, process analysis and improvement, process re-engineering and call centre optimisation in most industries.</p>
                     
                     <h2>Work Experience</h2>
                     <p>Ben has served in senior management positions at various consulting firms over the years. This includes being partner at Rethink Management Consulting where his list of leading clients included Woolworths Financial Services, Allan Gray, Glacier Financial Services, Metropolitan Life, Brandhouse, Old Mutual Client Services and Employee Benefits, Liberty Corporate Benefits, Clicks and Truworths. He also worked as consultant at Alexander Proudfoot for three years, where his projects included a business improvement and call centre implementation in Melbourne, Australia. Prior to this he had been a business analyst at Sanlam’s Process Analysis and Improvement Department for four years.</p>
                     
                     <h2>At OIM</h2>
-                    <p>As a director of OIM, Ben currently serves on the board. He is also a founder of the Operations Solutions division that was established in July 2010, oversees all the operations management interventions.</p>
+                    <p>As a director of OIM, Ben currently serves on the board. He is also a founder of the Operations Solutions division that was established in July 2010, and currently oversees all the operations management interventions.</p>
                     
                     <h2>Qualifications</h2>
                     <p>
@@ -53,7 +53,7 @@
                     </p>
                     
                     <h2>On A Personal Note</h2>
-                    <p>An avid mountain biker, Ben spends much of his free time on the outdoor trails around Stellenbosch, Tokai, Grabouw and Durbanville, and also likes to challenge his children to a game of PlayStation Move. He recently attempted skateboarding, but won’t’ be doing that again anytime soon . . .</p>
+                    <p>An avid mountain biker, Ben spends much of his free time on the outdoor trails around Stellenbosch, Tokai, Grabouw and Durbanville, and also likes to challenge his children to a game of PlayStation Move. He recently attempted skateboarding, but won’t be doing that again anytime soon . . .</p>
                 </div>
             </div>
             <div id='sidebar' class='left'>

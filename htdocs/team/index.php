@@ -43,7 +43,7 @@
                         <img src="<?php echo $relpath; ?>img/team/tjaart.jpg" />
                         <center>
                             <p>
-                                <span class="light_blue">Tjaart Minnaar</span><br />
+                                <span class="light_blue"><b>Tjaart Minnaar</b></span><br />
                                 CEO
                             </p>
                         </center>
@@ -54,7 +54,7 @@
                     <img src="<?php echo $relpath; ?>img/team/arjen.jpg" />
                     <center>
                         <p>
-                            <span class="light_blue">Arjen de Bruin</span><br />
+                            <span class="light_blue"><b>Arjen de Bruin</b></span><br />
                             MD: Operations Solutions
                         </p>
                     </center>
@@ -65,7 +65,7 @@
                     <img src="<?php echo $relpath; ?>img/team/frank.jpg" />
                     <center>
                         <p>
-                            <span class="light_blue">Frank Hickman</span><br />
+                            <span class="light_blue"><b>Frank Hickman</b></span><br />
                             MD: Performance Improvement
                         </p>
                     </center>
@@ -76,7 +76,7 @@
                     <img src="<?php echo $relpath; ?>img/team/leezelle.jpg" />
                     <center>
                         <p>
-                            <span class="light_blue">Leez&eacute;lle Kotz&eacute;</span><br />
+                            <span class="light_blue"><b>Leez&eacute;lle Kotz&eacute;</b></span><br />
                             MD: Leadership Talent
                         </p>
                     </center>
@@ -87,8 +87,8 @@
                     <img src="<?php echo $relpath; ?>img/team/marie.jpg" />
                     <center>
                         <p>
-                            <span class="light_blue">Mari&eacute; Burger</span><br />
-                            Financial director
+                            <span class="light_blue"><b>Mari&eacute; Burger</b></span><br />
+                            Financial Director
                         </p>
                     </center>
                     </a>
@@ -98,7 +98,7 @@
                     <img src="<?php echo $relpath; ?>img/team/ben.jpg" />
                     <center>
                         <p>
-                            <span class="light_blue">Ben Nel</span><br />
+                            <span class="light_blue"><b>Ben Nel</b></span><br />
                             Director
                         </p>
                     </center>
@@ -113,7 +113,7 @@
                     <img src="<?php echo $relpath; ?>img/team/chris.jpg" />
                     <center>
                         <p>
-                            <span class="light_blue">Chris Jacobs</span><br />
+                            <span class="light_blue"><b>Chris Jacobs</b></span><br />
                             Director
                         </p>
                     </center>
@@ -125,8 +125,8 @@
                     <img src="<?php echo $relpath; ?>img/team/christian.jpg" />
                     <center>
                         <p>
-                            <span class="light_blue">Christian Kaiser</span><br />
-                            Principal Consultant: Operations Solutions
+                            <span class="light_blue"><b>Christian Kaiser</b></span><br />
+                            EXCO Member
                         </p>
                     </center>
                     </a>
@@ -136,7 +136,7 @@
                     <img src="<?php echo $relpath; ?>img/team/francois.jpg" />
                     <center>
                         <p>
-                            <span class="light_blue">Francois Bedeker</span><br />
+                            <span class="light_blue"><b>Francois Bedeker</b></span><br />
                             Director
                         </p>
                     </center>
@@ -147,8 +147,8 @@
                     <img src="<?php echo $relpath; ?>img/team/fred.jpg" />
                     <center>
                         <p>
-                            <span class="light_blue">Fred Arendse</span><br />
-                            Non-executive director
+                            <span class="light_blue"><b>Fred Arendse</b></span><br />
+                            Non-executive Director
                         </p>
                     </center>
                     </a>
@@ -158,7 +158,7 @@
                     <img src="<?php echo $relpath; ?>img/team/kobus.jpg" />
                     <center>
                         <p>
-                            <span class="light_blue">Kobus Grobler</span><br />
+                            <span class="light_blue"><b>Kobus Grobler</b></span><br />
                             Director
                         </p>
                     </center>
@@ -169,8 +169,8 @@
                     <img src="<?php echo $relpath; ?>img/team/willem.jpg" />
                     <center>
                         <p>
-                            <span class="light_blue">Willem Lombard</span><br />
-                            Senior Consultant: Performance Improvement
+                            <span class="light_blue"><b>Willem Lombard</b></span><br />
+                            EXCO Member
                         </p>
                     </center>
                     </a>

@@ -40,7 +40,7 @@
                     <p>Frank Hickman has 22 years’ consulting and project management experience in various industries. He specialises in process design and productivity improvement but has also worked extensively in areas such as employee relations, performance improvement and conflict resolution.</p>
                    
                     <h2>Work Experience</h2>
-                    <p>After graduating, Frank joined the National Training Institute as a performance improvement consultant in the motor, food, textile and transport industries. Focusing on people management, he did everything from facilitating strategic sessions to implementing change processes. In 1992 he joined the Simba Group as group organisational development manager.</p>
+                    <p>After graduating, Frank joined the National Training Institute as a performance improvement consultant in the motor, food, textile and transport industries. Focusing on people management, he did everything from facilitating strategic sessions to implementing change processes. In 1992 he was appointed the Simba Group as group organisational development manager.</p>
                     
                     <h2>At OIM</h2>
                     <p>Frank joined OIM as a consultant in 1996 and was appointed director and shareholder three years later. In July 2013, after internal restructuring process to merge the lines of business into one company, Frank was elected managing director of the Performance Improvement division within the company. Among his successes at OIM are the comprehensive seven-year business improvement project for Anglo Platinum and a workplace improvement project for consumer foods giant Tiger Brands.</p>
@@ -53,7 +53,7 @@
                     </p>
                     
                     <h2>On A Personal Note</h2>
-                    <p>A keen traveller, Frank has visited countries such as England, France, Greece, Italy, Mexico, Portugal and Spain. He also dabbles in the stock market but when he really wants to kick back he dips into a novel by Pulitzer prizewinner James A Michener.</p>
+                    <p>A keen traveller, Frank has visited countries such as England, France, Greece, Italy, Mexico, Portugal and Spain. He also dabbles in the stock market, but when he really wants to kick back he dips into a novel by Pulitzer prizewinner James A Michener.</p>
                 </div>
             </div>
             <div id='sidebar' class='left'>

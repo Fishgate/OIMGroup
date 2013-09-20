@@ -50,7 +50,7 @@
                     <h2>The OIM difference</h2>
                     <p>
                         <ul>
-                            <li>OIM’s operations management team has experience in <strong>both business processes and systems management</strong>, providing clients with a comprehensive service and depth of knowledge in these fields.</li>
+                            <li>OIM's operations management team has experience in both business processes and systems management, providing clients with a comprehensive service and depth of knowledge in these fields.</li>
                             <li>With a track recording date back to the late 90’s, the team has experience in various industries including manufacturing, mining, retail, financial services and local government sectors. Some of the clients who’ve benefited from our operational solutions are Allan Gray, Assmang Khumani Mine, Metropolitan, Meatco and Glacier by Sanlam.</li>
                             <li>We pride ourselves in our ability to design customised interventions for clients, with a proven ability to identify inefficiencies and scope relevant solutions.</li> 
                             <li>When designing these interventions, we draw on a range of methodologies and best practices to create the appropriate structures, processes and systems for effective strategy execution and operations management.</li> 

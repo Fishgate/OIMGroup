@@ -51,7 +51,7 @@
                         </ul>
                     </p>
 
-                    <p>You may find programmes that offer these elements in isolation, but few present them as a single intervention led by a multidisciplinary team of specialists with years of experience in performance improvement, process and operational optimisation, and leadership development.</p>
+                    <p>You may find programmes that offer these elements in isolation, but few present them as a single intervention led by a multidisciplinary team of specialists.</p>
 
                     <h2>The OIM difference</h2>
                     <p>OIM’s supervisory skills offering provides you with: 
