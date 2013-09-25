@@ -53,26 +53,7 @@
 
                     <p>But don’t take our word for it – <a href="<?php echo $relpath ?>clients">read what our clients have to say</a>.</p>
 
-                    <h2>Sustainability and practicality</h2>
-
-                    <p>Our aim is to make a meaningful contribution to the long-term prosperity of our clients’ organisations as well as the people and communities we interact with.</p> 
-
-                    <p>Accordingly we believe in an integrated model with an emphasis on sustainability. We are not in the business of consultant dependency and ad hoc quick fixes.</p> 
-
-                    <p>Instead we pride ourselves on our ability to simplify complex business concepts, design solutions at boardroom level, implement them throughout the organisation and build internal capacity through the transfer of knowledge and skills.</p>
-
-                    <p>This is why many of our long-standing clients rely on us to help turn their business strategy into a reality.</p>
-
-                    <p>With the successful implementation of our model, OIM has earned a reputation both nationally and internationally for its:
-                        <ul>
-                            <li>Ability to partner with clients and design customised solutions.</li>
-                            <li>Practical approach to organisational and operational performance improvement.</li>
-                            <li>Ability to create long-term, sustainable business benefits.</li>
-                            <li>Delivery method that changes mindsets, develops skillsets and provides toolsets.</li>
-                            <li>Integrated model that addresses all key business areas.</li>
-                            <li>Experienced business consultants.</li>
-                        </ul>
-                    </p>
+                    
                 </div>
             </div>
             <div id='sidebar' class='left'>

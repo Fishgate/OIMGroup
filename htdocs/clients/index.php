@@ -62,11 +62,28 @@
                     </p>
 
                     <h2>Our Client list includes:</h2>
-                    <p>&nbsp;</p>
                     <p>
-                        <div class="clients-all-holder">
-                            <img src="<?php echo $relpath; ?>/img/oim_clients.jpg" alt="OIM Clients" />
-                        </div>
+                        <ul id="scroller">
+                            <li><img src="../img/logos/absa.gif" /></li>
+                            <li><img src="../img/logos/afrox.gif" /></li>
+                            <li><img src="../img/logos/allan_gray.gif" /></li>
+                            <li><img src="../img/logos/anglo.gif" /></li>
+                            <li><img src="../img/logos/barloworld.gif" /></li>
+                            <li><img src="../img/logos/glacier.gif" /></li>
+                            <li><img src="../img/logos/group_five.gif" /></li>
+                            <li><img src="../img/logos/incredible.gif" /></li>
+                            <li><img src="../img/logos/libstar.gif" /></li>
+                            <li><img src="../img/logos/metropolitan.gif" /></li>
+                            <li><img src="../img/logos/momentum.gif" /></li>
+                            <li><img src="../img/logos/mtn.gif" /></li>
+                            <li><img src="../img/logos/old_mutual.gif" /></li>
+                            <li><img src="../img/logos/plascon.gif" /></li>
+                            <li><img src="../img/logos/ppc.gif" /></li>
+                            <li><img src="../img/logos/robor.gif" /></li>
+                            <li><img src="../img/logos/sasol.gif" /></li>
+                            <li><img src="../img/logos/standard_bank.gif" /></li>
+                            <li><img src="../img/logos/woolworths.gif" /></li>
+                        </ul>
                     </p>
                 </div>
             </div>

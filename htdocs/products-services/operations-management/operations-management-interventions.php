@@ -50,35 +50,25 @@
 
                     <h2>Our offering</h2>
                     
-                    <p><strong>1. Operations audit</strong> (business/operations review)</p>
-                    <ul>
-                        <li>A quick and reliable way to identify areas of operational constraint and map a solution. <a href='<?php echo $relpath; ?>products-services/operations-management/operations-management.php'>Read more</a></li>
-                    </ul>
+                    <p><strong>Operations audit</strong> (business/operations review)<br/>
+                    A quick and reliable way to identify areas of operational constraint and map a solution. <a href='<?php echo $relpath; ?>products-services/operations-management/operations-management.php'>Read more</a>
+                    </p>
                     
-                    <p><strong>2. Business process analysis and process re-engineering</strong></p>
-                    <ul>
-                        <li>An in-depth analysis and redesign of workflows and business processes.</li>
-                    </ul>
+                    <p><strong>Business process analysis and process re-engineering</strong><br/>
+                    An in-depth analysis and redesign of workflows and business processes.
+                    </p>
                     
-                    <p><strong>3. Maintenance optimisation</strong></p>
-                    <ul>
-                        <li>A focus on the optimal forecasting, scheduling and execution of planned work.</li>
-                    </ul>
+                    <p><strong>Maintenance optimisation</strong><br/>
+                    A focus on the optimal forecasting, scheduling and execution of planned work.
+                    </p>
                     
-                    <p><strong>4. Workforce management</strong></p>
-                    <ul>
-                        <li>The process of matching workload with available resources (people and equipment) to achieve the desired production output and quality. The outcome is improved forecasting of work volumes and better use of staffing levels.</li>
-                    </ul>
+                    <p><strong>Workforce management</strong><br/>
+                    The process of matching workload with available resources (people and equipment) to achieve the desired production output and quality. The outcome is improved forecasting of work volumes and better use of staffing levels.
+                    </p>
                     
-                    <p><strong>4. Workforce management</strong></p>
-                    <ul>
-                        <li>The process of matching workload with available resources (people and equipment) to achieve the desired production output and quality. The outcome is improved forecasting of work volumes and better use of staffing levels.</li>
-                    </ul>
-                    
-                    <p><strong>5. Continuous improvement</strong></p>
-                    <ul>
-                        <li>An important aspect of sustaining operational improvement is equipping staff with the necessary skills and mindsets to optimise operations long term. We have developed a three-pronged approach to bridge the knowledge transfer gap and ensure that skills development results in sustainable operational effectiveness. <a href='<?php echo $relpath; ?>products-services/operations-management/continuous-improvement.php'>Read more</a></li>
-                    </ul>
+                    <p><strong>Continuous improvement</strong><br/>
+                    An important aspect of sustaining operational improvement is equipping staff with the necessary skills and mindsets to optimise operations long term. We have developed a three-pronged approach to bridge the knowledge transfer gap and ensure that skills development results in sustainable operational effectiveness. <a href='<?php echo $relpath; ?>products-services/operations-management/continuous-improvement.php'>Read more</a>
+                    </p>
                     
                     <!--
                     <p>

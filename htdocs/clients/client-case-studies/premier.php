@@ -8,6 +8,12 @@
 <!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
     <head>
         <!-- BEGIN HEAD -->
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <title>Client Case Studies | OIM</title>
+        <meta name="description" content="OIM has achieved performance management success in various industries such as manufacturing. Read our case studies of our client successes">
+        <meta name="viewport" content="width=device-width">
+        
         <?php include $relpath.'includes/styles.php' ?>
         <!-- END HEAD -->
     </head>
@@ -36,7 +42,7 @@
 
                     <p>
                         <strong>About the partnership</strong><br/>
-                        Premier has been using OIM's performance improvement methodology since 2003 with a renewed focus on our involvement since late 2010. Our integrated business model, which addresses the main elements required for performance management and strategy implementation, is used as the basis for Premier's management and leadership practices while our employee engagement methodology (INVOCOMS&reg;) has been widely implemented throughout the business. Over the past few years OIM has also assisted Premier with strategic planning and scorecard development, a reward strategy, change communication and a framework for talent management.
+                        Premier has been using OIM's performance improvement methodology since 2003 with a renewed focus on our involvement since late 2010. Our integrated business model, which addresses the main elements required for performance management and strategy implementation, is used as the basis for Premier's management and leadership practices while our employee engagement methodology (INVOCOMS&reg;) has been widely implemented throughout the business. OIM has also assisted Premier with strategic planning and scorecard development, a reward strategy, change communication and a framework for talent management.
                     </p>
                         
                     <p>

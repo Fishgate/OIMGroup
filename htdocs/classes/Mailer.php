@@ -157,7 +157,7 @@ class Mailer {
         if(!$this->phpmailer->Send()) {
             throw new Exception('Error sending confirmation email.');
         }else{
-            return true;
+            //return true;
         }
     }
     
@@ -168,7 +168,7 @@ class Mailer {
      * @return String
      */
     private function prepNotification(){
-        $this->notifyTemplate = "A contact form request has been completed.<br />";
+        $this->notifyTemplate = "A contact form request has been completed.<br /><br />";
         $this->notifyTemplate .= '<strong>Name: </strong>'.$this->client_name."<br />";
         $this->notifyTemplate .= '<strong>Company: </strong>'.$this->client_company."<br />";
         $this->notifyTemplate .= '<strong>Topic of equiry: </strong>'.$this->client_enquiry."<br />";
@@ -194,7 +194,7 @@ class Mailer {
 
         $this->phpmailer->IsHTML(true);
 
-        $this->phpmailer->Subject = 'Website Contact Form Notification';
+        $this->phpmailer->Subject = 'Enquiry from OIM Website';
         $this->phpmailer->Body    = $this->prepNotification();
         $this->phpmailer->AltBody = '';
 

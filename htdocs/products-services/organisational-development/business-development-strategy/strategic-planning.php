@@ -52,7 +52,7 @@
                                 </ul>
                             </li>
                             <li><strong>Execution methodology</strong>
-                                <ul>
+                                <ul class="nested_ul">
                                 <li>To ensure everyone in the organisations is engaged and focused on the performance goals and plays their part in strategy execution.</li>
                                 <li>Relevant tools for communication and strategy implementation, eg business and functional scorecards.</li>
                                 </ul>

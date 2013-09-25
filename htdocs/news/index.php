@@ -29,77 +29,10 @@
         <!-- END HEADER -->
 
         <!-- BEGIN BODY -->
-        <div id='contentwrap' class='clearfix'>
-            <div id='body' class='left'>
-                <div class='breadcrumb'><i class="icon-map-marker icon-large red"></i> &nbsp;YOU ARE HERE: <span class="red">News</span></div>
-                <h1>News</h1>
-                <!--==================================== NEWS ARTICLE =====-->
-                <div class="news-holder dotted-bottom clearfix">
-                    <div class="left news-date"><span class="day">02</span><span class="month">Aug</span></div>
-                    <div class="left news-article">
-                        <article class="clearfix">
-                            <header class="news-head">The future of Labour Relations in SA</header>
-                            <p>02 August 2013: South Africa’s labour relations is at a defining moment in our country’s history. Over the past few years, unprotected strike action has escalated into an uncontrolled, violent and unlawful landscape, led by a mob mentality in the absence of formal and recognised leaders.</p>
-                            <div class="left news-readmore"><i class="icon-angle-right icon-large"></i>&nbsp;<a href="press-releases/news_article_labour_press.php">Read More</a></div>
-                            <div class="right">Posted in <a href="press-releases/index.php">Press Releases</a></div>
-                        </article>
-                    </div>
-                </div>
-                <!--==================================== NEWS ARTICLE =====-->
-                <div class="news-holder dotted-bottom clearfix">
-                    <div class="left news-date"><span class="day">03</span><span class="month">Jul</span></div>
-                    <div class="left news-article">
-                        <article class="clearfix">
-                            <header class="news-head">Framework agreement for the mining sector – Update</header>
-                            <p>Government leaders, led by Deputy President Kgalema Motlenath, today met with mining houses and trade unions in Pretoria to discuss and sign a framework agreement for the mining sector.</p>
-                            <div class="left news-readmore"><i class="icon-angle-right icon-large"></i>&nbsp;<a href="clips/clip_framework_agreement.php">Read More</a></div>
-                            <div class="right">Posted in <a href="clips/index.php">Clips</a></div>
-                        </article>
-                    </div>
-                </div>
-                <!--==================================== NEWS ARTICLE =====-->
-                <div class="news-holder dotted-bottom clearfix">
-                    <div class="left news-date"><span class="day">03</span><span class="month">Jul</span></div>
-                    <div class="left news-article">
-                        <article class="clearfix">
-                            <header class="news-head">Media Pitch: Strike season: Promoting a peaceful wage negotiation</header>
-                            <p>Mildred Oliphant recently appealed to business and labour to conduct wage negotiation in a peaceful manner as “strike season” looms. Many companies in mining and manufacturing are traditionally set to conduct collective wage negotiations during the second half of the year, starting in June.</p>
-                            <div class="left news-readmore"><i class="icon-angle-right icon-large"></i>&nbsp;<a href="press-releases/news_article_strike_season_press.php">Read More</a></div>
-                            <div class="right">Posted in <a href="press-releases/index.php">Press Releases</a></div>
-                        </article>
-                    </div>
-                </div>
-                <!--==================================== NEWS ARTICLE =====-->
-                <div class="news-holder dotted-bottom clearfix">
-                    <div class="left news-date"><span class="day">03</span><span class="month">Jul</span></div>
-                    <div class="left news-article">
-                        <article class="clearfix">
-                            <header class="news-head">Framework agreement for the mining sector</header>
-                            <p>Government leaders, led by Deputy President Kgalema Motlenath, today met with mining houses and trade unions in Pretoria to discuss and sign a framework agreement for the mining sector.</p>
-                            <div class="left news-readmore"><i class="icon-angle-right icon-large"></i>&nbsp;<a href="clips/clip_framework_agreement.php">Read More</a></div>
-                            <div class="right">Posted in <a href="clips/index.php">Clips</a></div>
-                        </article>
-                    </div>
-                </div>
-                <!--==================================== NEWS ARTICLE =====-->
-                <div class="news-holder dotted-bottom clearfix">
-                    <div class="left news-date"><span class="day">01</span><span class="month">Jul</span></div>
-                    <div class="left news-article">
-                        <article class="clearfix">
-                            <header class="news-head">Media Pitch: Gold sector strike</header>
-                            <p>Last week wage discussions in the gold industry took an interesting turn with the Chamber referring the matter to the CCMA with regards to the trade union, AMCU, and thereby placing the negotiations on a different level with mediators stepping in to break the impasse between the employers and AMCU.</p>
-                            <div class="left news-readmore"><i class="icon-angle-right icon-large"></i>&nbsp;<a href="press-releases/news_article_mining_strike_press.php">Read More</a></div>
-                            <div class="right">Posted in <a href="press-releases/index.php">Press Releases</a></div>
-                        </article>
-                    </div>
-                </div>
-            </div>
-            <div id='sidebar' class='left'>
-                <?php 
-                include $relpath.'includes/sidebar/widget-categories.php'; 
-                include $relpath.'includes/sidebar/widget-archive.php';
-                ?>
-            </div>
+        <div id='contentwrap' class='clearfix full-width'>
+            <div class='breadcrumb'><i class="icon-map-marker icon-large red"></i> &nbsp;YOU ARE HERE: <span class="red">News</span></div>
+            <h1>News section coming soon!</h1>
+            <p>Our news section is currently in development. Please check back soon for all the latest from OIM.         
         </div>
         <!-- END BODY -->
         

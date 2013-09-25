@@ -165,7 +165,7 @@ ul ul li{
     list-style-type: circle;
 }
 .nested_ul{
-    margin: 0 0 10px 0;
+    margin: 0 0 0px 0;
 }
 /*============================================
                 BRANDING
@@ -185,6 +185,7 @@ ul ul li{
 }
 #scroller {
     background-color: #F8F8F8;
+    height: 120px;
 }
 
 /*============================================
@@ -371,8 +372,9 @@ body{
     width: 27.835%;
     margin-bottom: 2%;
     color: #fff;
-    height: 120px;
-    font-family: 'opensans', 'Helvetica', 'Arial', sans-serif;
+    height: 140px;
+    font-family: 'Arial', sans-serif;
+    font-size: 13px;
 }
 .meth-block ul{
     margin: 0;
@@ -713,7 +715,7 @@ BUTTONS
 =============================================*/
 footer{
     background: #f8f8f8;
-    margin-top: 50px;
+    margin-top: 30px;
 }
 
 #footer{
@@ -898,8 +900,8 @@ footer{
    TEAM Styles
    ========================================================================== */
 .profile{
-    width: 15%;
-    margin-right: 2%;
+    width: 135px;
+    margin-right: 30px;
     height: 230px;
 }
 .profile a{
@@ -974,33 +976,33 @@ footer{
     margin: 10px 0 16px;
 }
 
-.contact-map-container .map-container-header {
+/*.contact-map-container .map-container-header {
     background: pink;
-}
+}*/
 
-.contact-map-container .map-container-header h2 {
-    width: 225px;
+.contact-map-container  {
     float: left;    
 }
 
-.contact-map-container .map-container-header div {    
-    width: 131px;
+.map-container-header div {
+    width: 150px;
     float: right;
-    margin-top: 25px;
+    margin-bottom: 30px;
 }
 
-.contact-map-container .map-container-header div i {
+.map-container-header div i {
     color: #B32C32;
-    margin: 0 23px 0 0;
+    margin: 0 0px 0 0;
 }
 
-.contact-details-container div h2 {    
-    margin-top: 0 !important;
+.map-container-header h2 {    
+    margin: 0 !important;
+    float: left;
 }
 
-.map-download-header h2 {
+/*.map-download-header h2 {
     background: pink;
-}
+}*/
 
 
 /* ==========================================================================

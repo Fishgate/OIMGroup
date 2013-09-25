@@ -159,7 +159,7 @@ if($("#contact-form").length > 0){
         
         if(res === 'success'){
             //alert('Thank you! A confirmation of your request will be emailed to you shortly.');
-            window.location = 'http://staging.fishgate.co.za/OIM_Website/19092013/contact-us/thank-you.php';
+            window.location = 'http://www.oimgroup.com/contact-us/thank-you.php';
         }else{
             alert(result);
         } 

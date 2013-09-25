@@ -51,10 +51,12 @@
                         <li>We take pride in our reputation for being able to deliver.</li>
                     </ul>
                     </p>
+                    
+                    <hr/>
 
                     <p class='blue'><strong>Prospective clients – building a partnership </strong>
                     <ul>
-                        <li>When meeting with potential clients for the first time, we do a two-hour presentation to introduce our methodology and offering.</li>
+                        <li>When meeting with potential clients for the first time, we do a presentation to introduce our methodology and offering.</li>
                         <li>Should the client be interested, a follow-up session is scheduled to discuss the approach in more detail and assess the client’s improvement needs.</li> 
                         <li>Once client requirements are defined, a comprehensive and customised process implementation plan is developed.</li> 
                         <li>After the plan has been approved, the investment is calculated and agreed with the client.</li>

@@ -29,7 +29,7 @@
         <li><a href="<?php echo $relpath; ?>products-services/people-management/leadership-skills.php">Supervisory skills</a></li>
         <li><a href="<?php echo $relpath; ?>products-services/people-management/talent-management/talent-management-model.php">Talent management</a></li>
         <li><a href="<?php echo $relpath; ?>products-services/people-management/leadership-interventions/team-dynamics.php">Team dynamics</a></li>
-        <li><a href="<?php echo $relpath; ?>products-services/organisational-development/business-development-strategy/value-chain-management.php">Value chain optimisation</a></li>
+        <li><a href="<?php echo $relpath; ?>products-services/organisational-development/business-development-strategy/value-chain-management.php">Value chain strategy</a></li>
         <li class="last-li"><a href="<?php echo $relpath; ?>products-services/operations-management/operations-management-interventions.php">Workforce management</a></li>
     </ul>
 </div>

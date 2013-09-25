@@ -39,18 +39,7 @@
 
                     <p>Given South Africa’s history the area is particularly complex and since 2010 violence and unprotected strikes have steadily gained momentum in our country. The 2012/3 World Competitiveness Report confirms this state of affairs with SA ranking last out of 144 countries in the category labour-employer relations.</p>  
 
-                    <p>OIM helps organisations to actively manage these relations.</p>
-
-                    <p><strong>With 28 years’ experience in employee and labour relations, we assist organisations to:</strong>
-                    <ul>
-                            <li>Develop and implement a comprehensive employee relations strategy in line with overall business goals.</li>
-                            <li>Promote labour peace and stability.</li>
-                            <li>Foster a climate conducive to optimal performance.</li>
-                            <li>Proactively manage and resolve conflict.</li>
-                            <li>Position employee relations as a strategic instrument; not a tactical tool.</li>
-                            <li>Move from a legalistic industrial relations approach to a more inclusive, people-orientated employee relations approach.</li> 
-                    </ul>
-                    </p>
+                    <p>With 28 years' experience OIM helps organisations to actively manage these relations.</p>
 
                     <h2>Our offering</h2>
 

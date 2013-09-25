@@ -22,7 +22,7 @@ $.fn.simplyScroll = function(options) {
 var defaults = {
 	customClass: 'simply-scroll',
 	frameRate: 24, //No of movements per second
-	speed: 1, //No of pixels per frame
+	speed: 3, //No of pixels per frame
 	orientation: 'horizontal', //'horizontal or 'vertical' - not to be confused with device orientation
 	auto: true,
 	autoMode: 'loop', //auto = true, 'loop' or 'bounce',

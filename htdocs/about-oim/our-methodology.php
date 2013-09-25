@@ -67,7 +67,7 @@
                     <div class="left meth-divider">&nbsp;</div>
                     <div class="left meth-block meth-head">
                         <center>
-                            <h2>The Outcomes of this Model are</h2>
+                            <h2>Outcomes of elements</h2>
                         </center>
                     </div>
                     <div class="left meth-divider">&nbsp;</div>
@@ -85,7 +85,7 @@
                         <ul>
                             <li><a href="<?php echo $relpath ?>products-services/organisational-development/business-development-strategy/strategic-planning.php">Strategic planning</a></li>
                             <li><a href="<?php echo $relpath ?>products-services/organisational-development/business-development-strategy/change-management.php">Communication strategy</a></li>
-                            <li><a href="<?php echo $relpath ?>products-services/organisational-development/business-development-strategy/value-chain-management.php">Value chain optimisation</a></li>
+                            <li><a href="<?php echo $relpath ?>products-services/organisational-development/business-development-strategy/value-chain-management.php">Value chain strategy</a></li>
                         </ul>
                     </div>
                     <!--====================== ROW 2 ============-->
@@ -110,7 +110,10 @@
                         <ul>
                             <li><a href="<?php echo $relpath ?>products-services/people-management/leadership-interventions/leadership-standards.php">Leadership standards definition</a></li>
                             <li><a href="<?php echo $relpath ?>products-services/people-management/leadership-interventions/competency-assessments.php">Assessments: leadership & critical talent</a></li>
-                            <li><a href="<?php echo $relpath ?>products-services/people-management/leadership-interventions/leadership-development.php">Leadership development</a></li>
+                            <li><a href="<?php echo $relpath ?>products-services/people-management/leadership-interventions/leadership-development.php">Leadership development interventions</a></li>
+                            <li><a href="<?php echo $relpath ?>products-services/people-management/leadership-interventions/executive-coaching.php">Coaching</a></li>
+                            <li><a href="<?php echo $relpath ?>products-services/people-management/leadership-skills.php">Supervisory skills</a></li>
+                            <li><a href="<?php echo $relpath ?>products-services/people-management/leadership-interventions/team-dynamics.php">Team dynamics</a></li>
                             <li><a href="<?php echo $relpath ?>products-services/people-management/talent-management/talent-management-model.php">Talent management</a></li>
                         </ul>
                     </div>
@@ -136,7 +139,7 @@
                         <ul>
                             <li><a href="<?php echo $relpath ?>products-services/operations-management/operations-management-interventions.php">Operations management interventions</a></li>
                             <li><a href="<?php echo $relpath ?>products-services/operations-management/continuous-improvement.php">Continuous improvement</a></li>
-                            <li><a href="<?php echo $relpath ?>products-services/people-management/leadership-skills.php">On-the-job operational mentoring and coaching</a></li>
+                            <li><a href="<?php echo $relpath ?>products-services/people-management/leadership-skills.php">On-the-job operational mentoring & coaching</a></li>
                         </ul>
                     </div>
                     <!--====================== ROW 6 ============-->

@@ -39,6 +39,7 @@
                     <p>We offer career opportunities for people with proven experience and relevant academic qualifications in the areas of:
                     <ul>
                         <li>Organisational performance improvement</li>
+                        <li>Human resources / employee relations / organisational development / learning & development</li>
                         <li>Operations management</li>
                         <li>Leadership development and talent management</li>
                     </ul>

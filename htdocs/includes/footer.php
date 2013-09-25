@@ -37,7 +37,7 @@
                         <ul class="mega-flyout">
                             <li><a href="<?php echo $relpath; ?>products-services/people-management/talent-management/talent-management-model.php">Talent management model</a></li>
                             <li><a href="<?php echo $relpath; ?>products-services/people-management/talent-management/performance-management-process.php">Individual performance management</a></li>
-                            <li><a href="<?php echo $relpath; ?>products-services/people-management/talent-management/reward-consulting.php">Reward consulting</a></li>
+                            <li><a href="<?php echo $relpath; ?>products-services/people-management/talent-management/reward-consulting.php">Reward consultation</a></li>
                         </ul>
                     </li>
                 </ul>
@@ -55,7 +55,7 @@
                         <ul class="mega-flyout">
                             <li><a href="<?php echo $relpath; ?>products-services/organisational-development/business-development-strategy/strategic-planning.php">Strategic planning</a></li>
                             <li><a href="<?php echo $relpath; ?>products-services/organisational-development/business-development-strategy/change-management.php">Strategic & change communication</a></li>
-                            <li><a href="<?php echo $relpath; ?>products-services/organisational-development/business-development-strategy/value-chain-management.php">Value chain optimisation</a></li>
+                            <li><a href="<?php echo $relpath; ?>products-services/organisational-development/business-development-strategy/value-chain-management.php">Value chain strategy</a></li>
                         </ul>
                     </li>
                     <li>

@@ -6,4 +6,6 @@
             <input id="email" type="text" data-placeholder="Email Address*" value="Email Address*" name="email" />
             <textarea id="message" data-placeholder="Message" name="message">Message</textarea>
             <input type="submit" value="Submit" id="contact-submit" />
+            <br/><br/>* Required fields
         </form>
+

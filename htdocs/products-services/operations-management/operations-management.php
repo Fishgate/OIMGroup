@@ -43,9 +43,9 @@
 
                     <p>The short review analyses areas such as productivity, process unit costs, quality levels, waste and the impact of machine and labour downtime. It consists of three phases:</p>
                     
-                    <p><img src='<?php echo $relpath; ?>img/image_operations_review.jpg' /></p>
+                    <p><br/><img src='<?php echo $relpath; ?>img/image_operations_review.gif' /></p>
                     
-                    <p>Once the review has been completed, OIM presents the results, highlights the areas for improvement, recommends actions to address them and submits projected cost benefits.</p>
+                    <p><br/>Once the review has been completed, OIM presents the results, highlights the areas for improvement, recommends actions to address them and submits projected cost benefits.</p>
 
                     <h2>The OIM difference</h2>
                     <p>

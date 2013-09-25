@@ -1,5 +1,5 @@
 <?php $relpath = "../"; ?>
-<?php $pagetype = "about"; ?>
+<?php $pagetype = "bee"; ?>
 
 <!DOCTYPE html>
 <!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
@@ -34,7 +34,7 @@
                 <div class='breadcrumb'><i class="icon-map-marker icon-large red"></i> &nbsp;YOU ARE HERE: <a href='index.php'>About OIM</a> / <span class='red'>BEE</span></div>
                 <h1>BEE</h1>
                 <div class='copy'>
-                    <p>OIM is a level two BBBEE contributor</p>
+                    <p>OIM is a level two BBBEE contributor.</p>
                     
                     <p><a href='<?php echo $relpath; ?>downloads/pdf/bee.pdf' target='_blank'>Click here</a> to download our latest accreditation certificate.</p>
                     

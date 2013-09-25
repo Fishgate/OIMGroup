@@ -32,7 +32,7 @@
         <div id='contentwrap' class='clearfix'>
             <div id='body' class='left'>
                 <div class='breadcrumb'><i class="icon-map-marker icon-large red"></i> &nbsp;YOU ARE HERE: <span class='red'>Products & Services</span> / <span class='red'>Talent Management</span></div>
-                <h1>Reward Consulting</h1>
+                <h1>Reward Consultation</h1>
                 <div class='caption'><span>Develop a reward strategy to attract, motivate and retain key talent</span></div>
                 <div class='copy'>
                     <p>If you want to attract, motivate and retain key talent − and drive positive behaviour and performance throughout your organisation − you must have a well-designed reward strategy that is aligned to your business goals.</p> 

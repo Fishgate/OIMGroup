@@ -8,6 +8,12 @@
 <!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
     <head>
         <!-- BEGIN HEAD -->
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <title>Client Case Studies | OIM</title>
+        <meta name="description" content="OIM has achieved performance management success in various industries such as manufacturing. Read our case studies of our client successes">
+        <meta name="viewport" content="width=device-width">
+        
         <?php include $relpath.'includes/styles.php' ?>
         <!-- END HEAD -->
     </head>
