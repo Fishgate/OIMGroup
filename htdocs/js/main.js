@@ -5,7 +5,7 @@
 $("#slider1").responsiveSlides({ "timeout": 10000 });
 
 //============================
-//     MEGAMENU CONTROL
+//     MEGAMENU CONTROL 
 //============================
 $('.menu-item').each(function(){
     $(this).bind({
@@ -19,11 +19,14 @@ $('.menu-item').each(function(){
     });
 });
 
-
 $('.mega-list li').each(function(){
-    $(this).bind('click', function(){
-        $('.mega-flyout').css('display', '');
-        $(this).find('.mega-flyout').css('display', 'block');
+    $(this).bind({
+        mouseenter: function() {
+            $(this).find('.mega-flyout').removeClass('hidden');
+        },
+        mouseleave: function() {
+            $(this).find('.mega-flyout').addClass('hidden');
+        }
     });
 });
 

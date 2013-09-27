@@ -275,7 +275,7 @@ ul ul li{
     margin: 0 0 15px 0;
 }
 .mega-flyout{
-    display: none;
+    /*display: none;*/
     padding: 0 0 0 15px!important;
 }
 .mega-list ul{
