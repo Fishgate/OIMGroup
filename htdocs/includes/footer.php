@@ -5,7 +5,7 @@
                     MEGA MENU METHODOLOGY
     ==================================================-->
     <div class="footer-mega-holder clearfix">
-        <div class="left mega-thirds">
+        <div class="left mega-thirds" style='margin-left: 0;'>
             <div class="footer-mega-head">
                 <i class="icon-group icon-large red"></i>PEOPLE
             </div>
@@ -43,7 +43,7 @@
                 </ul>
             </div>
         </div>
-        <div class="left mega-thirds">
+        <div class="left mega-thirds" style='margin: 0 20px;'>
             <div class="footer-mega-head">
                 <i class="icon-umbrella icon-large red"></i>ORGANISATION
             </div>
@@ -73,7 +73,7 @@
                 </ul>
             </div>
         </div>
-        <div class="left mega-thirds">
+        <div class="left mega-thirds" style='margin-right: 0;'>
             <div class="footer-mega-head">
                 <i class="icon-cogs icon-large red"></i>OPERATIONS
             </div>
