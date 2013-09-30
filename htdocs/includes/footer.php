@@ -18,7 +18,7 @@
                     <li>
                         <i class="icon-angle-right blue"></i>
                         <a>Leadership and team interventions</a>
-                        <ul class="mega-flyout">
+                        <ul class="mega-flyout hidden">
                             <li><a href="<?php echo $relpath; ?>products-services/people-management/competency-profiling.php">Competency profiling</a></li>
                             <li><a href="<?php echo $relpath; ?>products-services/people-management/leadership-interventions/competency-assessments.php">Leadership assessments</a></li>
                             <li><a href="<?php echo $relpath; ?>products-services/people-management/leadership-interventions/leadership-development.php">Leadership development</a></li>
@@ -34,7 +34,7 @@
                     <li>
                         <i class="icon-angle-right blue"></i>
                         <a>Performance & talent management</a>
-                        <ul class="mega-flyout">
+                        <ul class="mega-flyout hidden">
                             <li><a href="<?php echo $relpath; ?>products-services/people-management/talent-management/talent-management-model.php">Talent management model</a></li>
                             <li><a href="<?php echo $relpath; ?>products-services/people-management/talent-management/performance-management-process.php">Individual performance management</a></li>
                             <li><a href="<?php echo $relpath; ?>products-services/people-management/talent-management/reward-consulting.php">Reward consultation</a></li>
@@ -52,7 +52,7 @@
                     <li>
                         <i class="icon-angle-right blue"></i>
                         <a>Business strategy</a>
-                        <ul class="mega-flyout">
+                        <ul class="mega-flyout hidden">
                             <li><a href="<?php echo $relpath; ?>products-services/organisational-development/business-development-strategy/strategic-planning.php">Strategic planning</a></li>
                             <li><a href="<?php echo $relpath; ?>products-services/organisational-development/business-development-strategy/change-management.php">Strategic & change communication</a></li>
                             <li><a href="<?php echo $relpath; ?>products-services/organisational-development/business-development-strategy/value-chain-management.php">Value chain strategy</a></li>
