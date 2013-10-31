@@ -255,16 +255,16 @@ ul ul li{
     padding: 20px 10px;
 }
 
-.footer mega-holder{
+.footer-mega-holder{
     
-    width: 970px;
-    padding: 20px 10px;
+    width: 960px;
+    padding: 0;
     color: #333;
 }
 .mega-thirds{
     margin: 0 10px;
     width: 31.2%;
-   /* outline: 1px solid yellow; for setup only, can be removed */
+    /*outline: 1px solid yellow; */
 }
 .mega-thirds i{
     padding: 15px;
