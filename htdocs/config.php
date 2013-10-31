@@ -17,11 +17,18 @@ define('DB_USERNAME',   'root');
 define('DB_PASSWORD',   '');
 define('DB_LOGS_TBL',   'contactlogs');*/
 
-//staging
-define('DB_HOST',       'sql1.flk1.host-h.net');
+//live
+/*define('DB_HOST',       'sql1.flk1.host-h.net');
 define('DB_NAME',       'oimgrmxekm_db1');
 define('DB_USERNAME',   'oimgrmxekm_1');
 define('DB_PASSWORD',   'LU74d8P8');
+define('DB_LOGS_TBL',   'contactlogs');*/
+
+//staging
+define('DB_HOST',       'dedi130.cpt1.host-h.net');
+define('DB_NAME',       'stagidazas_db18oim');
+define('DB_USERNAME',   'stagidazas_24');
+define('DB_PASSWORD',   'n5kziwu8');
 define('DB_LOGS_TBL',   'contactlogs');
 
 /**

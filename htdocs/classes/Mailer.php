@@ -143,6 +143,12 @@ class Mailer {
      * @throws Exception
      */
     public function sendConfirmEmail() {
+        $this->phpmailer->isSMTP();
+        $this->phpmailer->Host = 'mail.oimgroup.com;smtp.mweb.net';
+        $this->phpmailer->SMTPAuth = true;
+        $this->phpmailer->Username = 'info@oimgroup.com';
+        $this->phpmailer->Password = 'inF33o';
+        
         $this->phpmailer->From = $this->admin_email;
         $this->phpmailer->FromName = $this->admin_name;
         $this->phpmailer->AddAddress($this->client_email);
@@ -187,6 +193,12 @@ class Mailer {
      * @throws Exception
      */
     public function sendNotifyEmail() {
+        $this->phpmailer->isSMTP();
+        $this->phpmailer->Host = 'mail.oimgroup.com;smtp.mweb.net';
+        $this->phpmailer->SMTPAuth = true;
+        $this->phpmailer->Username = 'info@oimgroup.com';
+        $this->phpmailer->Password = 'inF33o';
+        
         $this->phpmailer->From = $this->client_email;
         $this->phpmailer->FromName = $this->client_name;
         $this->phpmailer->AddAddress($this->admin_email);        
