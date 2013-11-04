@@ -83,7 +83,7 @@ class Mailer {
      */
     public function __construct() {
         // initiate PHPmailer
-        require_once('class.phpmailer.php');
+        require_once('PHPMailerAutoload.php');
         $this->phpmailer = new PHPMailer();
         
         // create a new database connection
@@ -142,13 +142,7 @@ class Mailer {
      * @return boolean
      * @throws Exception
      */
-    public function sendConfirmEmail() {
-        $this->phpmailer->isSMTP();
-        $this->phpmailer->Host = 'mail.oimgroup.com;smtp.mweb.net';
-        $this->phpmailer->SMTPAuth = true;
-        $this->phpmailer->Username = 'info@oimgroup.com';
-        $this->phpmailer->Password = 'inF33o';
-        
+    public function sendConfirmEmail() {        
         $this->phpmailer->From = $this->admin_email;
         $this->phpmailer->FromName = $this->admin_name;
         $this->phpmailer->AddAddress($this->client_email);
@@ -193,28 +187,45 @@ class Mailer {
      * @throws Exception
      */
     public function sendNotifyEmail() {
-        $this->phpmailer->isSMTP();
-        $this->phpmailer->Host = 'mail.oimgroup.com;smtp.mweb.net';
-        $this->phpmailer->SMTPAuth = true;
-        $this->phpmailer->Username = 'info@oimgroup.com';
-        $this->phpmailer->Password = 'inF33o';
-        
-        $this->phpmailer->From = $this->client_email;
-        $this->phpmailer->FromName = $this->client_name;
-        $this->phpmailer->AddAddress($this->admin_email);        
-        $this->phpmailer->AddReplyTo($this->client_email, $this->client_name);
-
-        $this->phpmailer->IsHTML(true);
-
-        $this->phpmailer->Subject = 'Enquiry from OIM Website';
-        $this->phpmailer->Body    = $this->prepNotification();
-        $this->phpmailer->AltBody = '';
-
-        if(!$this->phpmailer->Send()) {
-            throw new Exception('Error sending notification email.');
-        }else{
-            return true;
-        }
+		//Tell PHPMailer to use SMTP
+		$this->phpmailer->isSMTP();
+		//Enable SMTP debugging
+		// 0 = off (for production use)
+		// 1 = client messages
+		// 2 = client and server messages
+		$this->phpmailer->SMTPDebug = 0;
+		//Ask for HTML-friendly debug output
+		$this->phpmailer->Debugoutput = 'html';
+		//Set the hostname of the mail server
+		$this->phpmailer->Host = "smtp.fishgate.co.za";
+		//Set the SMTP port number - likely to be 25, 465 or 587
+		$this->phpmailer->Port = 587;
+		//Whether to use SMTP authentication
+		$this->phpmailer->SMTPAuth = true;
+		//Username to use for SMTP authentication
+		$this->phpmailer->Username = "OIM@fishgate.co.za";
+		//Password to use for SMTP authentication
+		$this->phpmailer->Password = "FishOI0996";
+		//Set who the message is to be sent from
+		$this->phpmailer->setFrom($this->client_email, $this->client_name);
+		//Set an alternative reply-to address
+		$this->phpmailer->addReplyTo($this->client_email, $this->client_name);
+		//Set who the message is to be sent to
+		$this->phpmailer->addAddress($this->admin_email, $this->admin_name);
+		//Set the subject line
+		$this->phpmailer->Subject = 'Enquiry from OIM Website';
+		//Read an HTML message body from an external file, convert referenced images to embedded,
+		//convert HTML into a basic plain-text alternative body
+		$this->phpmailer->msgHTML($this->prepNotification());
+		//Replace the plain text body with one created manually
+		$this->phpmailer->AltBody = $this->prepNotification();
+		
+		//send the message, check for errors
+		if (!$this->phpmailer->send()) {
+			throw new Exception("Mailer Error: " . $this->phpmailer->ErrorInfo);
+		} else {
+			return true;
+		}
     }
     
     
